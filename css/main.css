@@ -20,11 +20,14 @@ body {
 }
 
 #refresh_button {
+    vertical-align: middle;
+    cursor: pointer;
+    overflow: visible;
+    padding: .8em 1em;
     background-color: rgba(255,206,31,0.8);
-    border: none;
-    border-radius: 10px;
+    border: 0;
+    border-radius: .278rem;
     color: black;
-    padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
