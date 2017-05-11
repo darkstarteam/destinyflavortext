@@ -2,6 +2,8 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+@media (min-width: 300px) {}
+
 .container {
     position: relative;
     width: 100%;
