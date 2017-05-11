@@ -11,4 +11,12 @@
 
         function Refresh() {
             location.reload();
+        }
+
+        var aboutTitle = "About DestinyFlavorText.net";
+        var aboutText = "Destiny Flavor Text, is a simple website that will give you a random piece of flavortext from Destiny on request. It is being developed by Hennamann from <a href=\"https\://antioxidantsin.space\">The Antioxidants</a> If you would like to contribute to DestinyFlavorText.net's development, help contribute to the source code over on Github: <a href=\"https\://github.com/antioxidants/destinyflavortext\">https\://github.com/antioxidants/destinyflavortext</a>.";
+
+        function About() {
+            document.getElementById("name").innerHTML = aboutTitle;
+            document.getElementById("flavortext").innerHTML = aboutText;
         };

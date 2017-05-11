@@ -19,7 +19,7 @@ body {
     font-size: 12pt;
 }
 
-#refresh_button {
+.button {
     vertical-align: middle;
     cursor: pointer;
     overflow: visible;
@@ -32,8 +32,10 @@ body {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+
+
 }
-#refresh_button:hover {
+.button:hover {
     background-color: #ffce1f;
 }
 
