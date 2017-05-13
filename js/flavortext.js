@@ -1,5 +1,8 @@
+        grabFlavorText();
+
+        function grabFlavorText() {
         // Get JSON file from server
-        $.getJSON('https://cdn.rawgit.com/antioxidants/destinyflavortext/development/data/flavortext.json', function(data) { 
+        $.getJSON('https://destinyflavortext.net/data/flavortext.json', function(data) { 
         // Grab random entry from list
         var entry = data[Math.floor(Math.random()*data.length)];
 
@@ -7,10 +10,11 @@
         var myObj = entry;
         document.getElementById("name").innerHTML = myObj.name;
         document.getElementById("flavortext").innerHTML = myObj.flavor;
-        });
-
+        })
+        }
+        
         function Refresh() {
-            location.reload();
+            grabFlavorText();
         }
 
         var aboutTitle = "About DestinyFlavorText.net";
@@ -19,4 +23,4 @@
         function About() {
             document.getElementById("name").innerHTML = aboutTitle;
             document.getElementById("flavortext").innerHTML = aboutText;
-        };
+};
