@@ -1,0 +1,382 @@
+[  
+   {  
+      "name":"Days of Wind",
+      "flavor":"\"Awoken grieve for Kell-Queen. I grieve too… but grieve with open eyes. Do you know what I see?\" —Variks",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"EV-30 Tumbler",
+      "flavor":"It takes a skilled field mechanic to disable limiters without destabilizing the entire drive.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"EV-31 Nightbird",
+      "flavor":"Drive fast and take risks.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"EV-32 Snowblind",
+      "flavor":"In modifying field drives, the limiting factor is tolerance to the possibility of explosive disassembly.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"EV-33 Dragonrider",
+      "flavor":"At some point, it will come down to how tightly you can hold on.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"EV-34 Vector Infinite",
+      "flavor":"Reserved for mentor Guardians who initiate others into the mysteries of the Light.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"EV-35 Arcrunner",
+      "flavor":"Those who seek to bind the lightning may find themselves consumed by it instead.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"EV-36 Solscout",
+      "flavor":"The power of the sun harnessed for use by the bravest of warriors.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"EV-37 Voidstreak",
+      "flavor":"Fueled by the Void.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"EV-38 Laurelbearer",
+      "flavor":"There are many who seek victory. Few will wear the laurel.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"EV-39 Lumos",
+      "flavor":"The rose turns toward the sun, but its roots grow deep in Darkness.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"EV-40 Snowscream",
+      "flavor":"The fool may not fear the storm, but the storm will never respect a fool.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"EV-41 Momentum Master",
+      "flavor":"To the victor goes the prize.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"EV-42 Nightsteed",
+      "flavor":"Every hero requires a trusty mount.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"EV-43 Lightrunner",
+      "flavor":"Night falls, but your eyes are turned toward the dawn.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-10",
+      "flavor":"Quick on the ground and small enough for transmat deployment.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-10v",
+      "flavor":"The Vanguard prizes its Sparrows, which are invaluable for recon and quick deployment.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-11",
+      "flavor":"A tuned-up vector drive gives this Sparrow a bit more spring in its step.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-13 \"Graverobber\"",
+      "flavor":"There are many who seek to cheat death, but so few capable of outrunning its dark embrace.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-20 Cavalier",
+      "flavor":"The Series-20 Cavalier is a Titan mainstay, more robust and reliable than the baseline Sparrow.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-20 Nomad",
+      "flavor":"Hunters have a reputation for technical savvy. The S-20 Nomad highlights that expertise.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-20 Seeker",
+      "flavor":"Warlocks devised the Series-20 Seeker variant of the Sparrow for their own arcane purposes.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-21 Cavalier",
+      "flavor":"Titans tune their thrust bikes to handle the burden of heavy armor.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-21 Nomad",
+      "flavor":"On foot or by thrust bike, Hunters carve new trails through the frontier.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-21 Seeker",
+      "flavor":"Careful attention to the Seeker's shielding reduces field interference.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-22 Cavalier",
+      "flavor":"The Series-22 Cavalier helps put Titans right where they belong--in the thick of the battle.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-22 Nomad",
+      "flavor":"The Series-22 Nomad helps Hunters stalk swift prey.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-22 Seeker",
+      "flavor":"The Series-22 Seeker answers the esoteric needs of elite Warlocks.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-30C (Emerald)",
+      "flavor":"This S-30C's strange drive leaves an unusual green trail.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-30C (Plasma)",
+      "flavor":"This S-30C's custom plasma drive presents a compelling argument for speed over safety.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-30C (Stealth)",
+      "flavor":"This S-30C's stealth drive filters out most high frequency emissions.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-30C (Void)",
+      "flavor":"This S-30C's prototype drive is tinted purple by exotic void reactions.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-30C Phoenix",
+      "flavor":"The coveted S-30C Phoenix is reserved for Guardians who demonstrate exceptional resolve.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-30V",
+      "flavor":"The Vanguard reserves the Series-30 Sparrow for the most successful Guardians.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-30V (Emerald)",
+      "flavor":"This S-30V's strange drive leaves an unusual green trail.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-30V (Plasma)",
+      "flavor":"This S-30V's custom plasma drive presents a compelling argument for speed over safety.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-30V (Stealth)",
+      "flavor":"This S-30V's stealth drive filters out most high frequency emissions.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-30V (Void)",
+      "flavor":"This S-30V's prototype drive is tinted purple by exotic void reactions.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-31C (Emerald)",
+      "flavor":"This S-31C's strange drive leaves an unusual green trail.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-31C (Plasma)",
+      "flavor":"This S-31C's custom plasma drive presents a compelling argument for speed over safety.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-31C (Stealth)",
+      "flavor":"This S-31C's stealth drive filters out most high frequency emissions.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-31C (Void)",
+      "flavor":"This S-31C's prototype drive is tinted purple by exotic void reactions.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-31C Phoenix",
+      "flavor":"This variant of the coveted Phoenix has an improved powerplant.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-31V",
+      "flavor":"The Series-31V sports an improved powerplant.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-31V (Emerald)",
+      "flavor":"This S-31V's strange drive leaves an unusual green trail.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-31V (Plasma)",
+      "flavor":"This S-31V's custom plasma drive presents a compelling argument for speed over safety.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-31V (Stealth)",
+      "flavor":"This S-31V's stealth drive filters out most high frequency emissions.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-31V (Void)",
+      "flavor":"This S-31V's prototype drive is tinted purple by exotic void reactions.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-32C (Emerald)",
+      "flavor":"This S-32C's strange drive leaves an unusual green trail.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-32C (Plasma)",
+      "flavor":"This S-32C's custom plasma drive presents a compelling argument for speed over safety.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-32C (Stealth)",
+      "flavor":"This S-32C's stealth drive filters out most high frequency emissions.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-32C (Void)",
+      "flavor":"This S-32C's prototype drive is tinted purple by exotic void reactions.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-32C Phoenix",
+      "flavor":"This variant of the coveted Phoenix has a powerful drive and agile thrusters.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-32V",
+      "flavor":"The Series-32V offers superb power and sterling maneuverability.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-32V (Emerald)",
+      "flavor":"This S-32V's strange drive leaves an unusual green trail.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-32V (Plasma)",
+      "flavor":"This S-32V's custom plasma drive presents a compelling argument for speed over safety.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-32V (Stealth)",
+      "flavor":"This S-32V's stealth drive filters out most high frequency emissions.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-32V (Void)",
+      "flavor":"This S-32V's prototype drive is tinted purple by exotic void reactions.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-34 Ravensteel",
+      "flavor":"The Sparrow is your pen, speed your ink, the open road your blank page. You are a poet of motion.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-35 Aeon Glow",
+      "flavor":"Turn on the lights.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"SR-0 Swiftriver",
+      "flavor":"Don't fight it. Flow with it.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"SR-1 Swiftriver",
+      "flavor":"Upgraded field engine makes the Swiftriver more nimble than ever.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"SV7 \"War Runner\"",
+      "flavor":"A high-end Sparrow earned by those Guardians who prove their worth in the Trials of Osiris.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"Velumbra",
+      "flavor":"\"I face the challenges to come with dry eyes. There will be a time to mourn, but not until we have our vengeance.\" —Petra Venj",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"XV0 \"Timebreaker\"",
+      "flavor":"Many are brave, but only the strong and the living will ever ride this Sparrow.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"Arecibo Answer",
+      "flavor":"\"It's time to go. It's time to be our own answer.\" —Arach Jalaal",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"Eternally Assured Destruction",
+      "flavor":"\"Technically, it's not a loss; it's a draw.\" —Lakshmi-2",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"Flamecourser",
+      "flavor":"Fire in your eyes, ash in your wake.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"Gjallarwing",
+      "flavor":"Destruction in motion.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-38 Regal Bearing",
+      "flavor":"\"A monarch cannot simply be powerful. A monarch must also look powerful.\" —Executor Hideo",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-39 Autumn Glow",
+      "flavor":"The nights are colder now. We must bring the Light.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-39 Lightrider",
+      "flavor":"\"Using a Sparrow in the Crucible… It's a bold move. I like bold moves.\" —Lord Shaxx",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-40 Iron Revelry",
+      "flavor":"\"Our weapons were keen, our Sparrows nimble, our laughter loud and bold.\" —Lord Saladin",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"S-35 Jealousy",
+      "flavor":"It's what they feel when they see you.",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"XV1 Usurper",
+      "flavor":"Long ride the king!",
+      "type":"Sparrow"
+   },
+   {  
+      "name":"XV2 Replicator",
+      "flavor":"The Sparrow, perfected.",
+      "type":"Sparrow"
+   }
+]

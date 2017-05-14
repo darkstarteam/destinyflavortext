@@ -1,0 +1,417 @@
+[  
+   {  
+      "name":"0A0X Nightmask",
+      "flavor":"Humanity has been caged. We will break the bars.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"AOS#Cryptid",
+      "flavor":"Crucible variant. The treads know how to grip more than forty thousand terrain types.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Argus Deimatic",
+      "flavor":"The armor-mounted transceiver antennae will happily double as melee weapons.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Aspriet",
+      "flavor":"Crucible variant. Lightweight kinematic supports give wearers the sensation of flying.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Astrolord Boots",
+      "flavor":"When the last war comes, we will be the victors.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Battuta",
+      "flavor":"The first Hunters walked where no human had set foot for hundreds of years.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Blindsight Legs",
+      "flavor":"\"The courage to walk into the Darkness, but strength to return to the Light.\" —Parables of the Allspring",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Bog Wild",
+      "flavor":"Feel the swamp. Smell the swamp. Be the swamp.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Bones of Eao",
+      "flavor":"Defy extinction.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Boots of No Tomorrow",
+      "flavor":"When the last war comes, we will be the victors.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Boots of the Exile",
+      "flavor":"\"Many followed him when he left—if not with their feet, then with their hearts.\" —Fractal Scrolls",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Boots of the Iron Lords",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Brusilov",
+      "flavor":"We will find the way.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Carnivore Match",
+      "flavor":"The Lotka-Volterra equations describe the relationship between the world and you.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Cold Mantis",
+      "flavor":"Scarce materials and labor make it impossible to produce high-end armor in bulk.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Corsair's Revenge",
+      "flavor":"\"Wearing Fallen armor reminds me of the Fallen I killed to get it. Good times.\"",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Cryptid",
+      "flavor":"Autonomy is a Hunter's watchword. Far from the City, you must be swift, bold, and decisive.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Darkhollow Treads",
+      "flavor":"\"Even now, the Daughters of Oryx weave black words of blight to bind his realm to ours.\" —Eris Morn",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Dead Light Boots",
+      "flavor":"\"When all is shadow, know your journey has begun.\" —Arach Parnell",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Desolate Legs",
+      "flavor":"Transformation is not always revelation.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Dustwalker",
+      "flavor":"Martian dust storms erupt across the entire planet. For a Hunter, they're an opportunity to move in stealth.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Elector's Boots",
+      "flavor":"Our footfalls forge the path to a new age.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Exodus Boots",
+      "flavor":"It will be cold and harrowing and we will not all survive. But it must be done.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Fear Eater",
+      "flavor":"No one's impervious to psychological warfare. Even the Vex develop reactions to certain foes.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Forester",
+      "flavor":"Sparrows burn. Ships crash. The wise Hunter knows machines will fail, and makes ready to walk.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Fr0st-EE5",
+      "flavor":"\"Hey, if it works for computers...\" —Marcus Ren ",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Ghost Angel",
+      "flavor":"\"We tracked the Fallen across the library floor, through drifts of paper and ash. The silence was magnificent.\"",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Gravebreaker",
+      "flavor":"In and out of the jaws of death.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"H_LD Starwinder",
+      "flavor":"Take joy in motion.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Harrowed Darkhollow Treads",
+      "flavor":"\"Even now, the Daughters of Oryx weave black words of blight to bind his realm to ours.\" —Eris Morn",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Heliopause Boots",
+      "flavor":"We'll walk if we have to.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Immanent War Boots",
+      "flavor":"Tear through chaos. Leave it in ash.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Infinite Lines Boots",
+      "flavor":"Every time I look, the Darkness just grows larger.\" —RECORD 345-CHASM-6736",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Iron Breed Boots",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Iron Companion Boots",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Iron Regalia Boots",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Jackknife",
+      "flavor":"The programmable soles mimic the tracks of local wildlife.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Justicar's Boots",
+      "flavor":"Our choice is simple: find our strength, or face extinction.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"KALI-GNT Scout Rig",
+      "flavor":"I am a KALI-GNT CHARRINGTON TACTICAL TREAD. What's on your mind?",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Kallipolis Boots",
+      "flavor":"A City is only as strong as its leader.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Kellhunter's Path",
+      "flavor":"A strong Kell's power is like the wind: swift, howling and everywhere at once.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Komarov",
+      "flavor":"Traditionally inscribed with a list: Komarov, Grissom, White, Chaffee and more. Souls lost to a higher purpose.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Long Tomorrow 9G",
+      "flavor":"\"He said he was determined to make it to Alpha Centauri. That was the last we ever saw him.\"",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Mangala Skin",
+      "flavor":"The Martian surface offers no solace to the lost. Guardians must move swiftly and be watchful.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Neuroghast",
+      "flavor":"Unmyelinated fieldweave doesn't actually strengthen your body—just makes it feel invincible.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Order's Boots",
+      "flavor":"Our choice is simple: find our strength, or face extinction.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Prime Zealot Greaves",
+      "flavor":"Skinned in the membranes of the Hezen Vex. There is very little risk they will become permanently attached to your body.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Prototype",
+      "flavor":"Your Ghost built this wire armor from available mass. It handles life support, but little else.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Queen's Guard Boots",
+      "flavor":"Carry yourself lightly, and with pride.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Radiant Dance Machines",
+      "flavor":"Built for swift movement, they provide unexpected and decisive social benefits.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Raku Vindicator",
+      "flavor":"A notable triumph in the ongoing sartorial struggle.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Rogue",
+      "flavor":"Never hurts to carry a spare.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Rustburner",
+      "flavor":"Cabal tactics must be countered by aggressive maneuver and concentration of force. Remain agile.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Sanction Custom",
+      "flavor":"The key to success is destroying the enemy's ability to process and react.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Sanction Six",
+      "flavor":"Aerospace assets are valuable. We'll walk from here.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Sinaa Jaguar",
+      "flavor":"If the enemy flees, run them down. If the enemy strikes back, reposition. Speed is always the answer.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Sinaa Lamprey",
+      "flavor":"Auto-pressurized joints let agile Hunters move at top speeds.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Snakeline",
+      "flavor":"A Hunter's bootprints mark the outer edge of civilization.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Sojourn Boots",
+      "flavor":"It will be cold and harrowing and we will not all survive. But it must be done.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Spektar (All Types)",
+      "flavor":"Armor infused with Chroma multi-channel heat sinks.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Stratus",
+      "flavor":"Whether the weapon is a rifle or a blade, the kill demands positioning. Know your ground.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Takanome Ranger",
+      "flavor":"\"You couldn't get far on one life alone. Not in those days.\" —Chiyoko Mey",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Tireless Striders",
+      "flavor":"If there is no road, then it cannot be long.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Tracker",
+      "flavor":"\"Play with the fit and the sensors until it feels like going barefoot.\" - Handbook of (Un)Controversial Advice",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Treads of the Pariah",
+      "flavor":"\"To know true color, you must first know Darkness.\" —Parables of the Allspring",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Vaquero",
+      "flavor":"Giddyup.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Vermilion Stripe",
+      "flavor":"Sooner or later, every Hunter dons the vermilion stripe.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Warden's Path",
+      "flavor":"\"Yeah, I've been to the treasure room. I think it's about time the Awoken took some of that loot and paid for an elevator.\" —Cayde-6",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Watchers' Boots",
+      "flavor":"\"Light burns. Light heals. Light blinds. Light reveals.\" —Parables of the Allspring",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Winged Sun Legs",
+      "flavor":"\"Feet alone cannot take us to where we're going.\" —Parables of the Allspring",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Wolf Pelt Weave",
+      "flavor":"\"I have ten more sets just like this.\"",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Raku Poltergeist 2.0",
+      "flavor":"Crucible variant. Padded with light and durable diamond foam.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"KD Bogatyr 2.0",
+      "flavor":"\"I'm depending on you, Guardian. Wouldn't want me to get bored, would you?\" —Cayde-6",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"High Command Boots",
+      "flavor":"Rise above the noise. Take the throne.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Eon Tracer Boots",
+      "flavor":"\"I feel like every time I find the thread it slips through my fingers.\" —RECORD-448-CHASM-6565",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Endling Strides",
+      "flavor":"We are endangered, but we can save ourselves.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Nanomania Boots",
+      "flavor":"Nearly any problem a deep-space colonist could have, SIVA can fix. ~SIVA.MEM.WB005",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Lion's Vigil Strides",
+      "flavor":"\"The challenge will come when you least expect it. You must be ready.\" —Fractal Scrolls",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Iron Saga Boots",
+      "flavor":"Thus armed were the Iron Lords of old, in the days after the Collapse.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Dream-Eater Strides",
+      "flavor":"\"'No rest for the wicked,' they used to say. Now, they say the same about Hunters.\"",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Days of Iron Boots",
+      "flavor":"\"When the Iron Temple's fires were lit again, who came to stand before its hearth?\" —The New-Forged Song",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Fr0st-EE5",
+      "flavor":"\"Hey, if it works for computers…\" —Marcus Ren",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Boots of Triumph",
+      "flavor":"You've blazed your own path into legend.",
+      "type":"Hunter Leg Armor"
+   }
+]

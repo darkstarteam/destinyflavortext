@@ -1,0 +1,472 @@
+[  
+   {  
+      "name":"1000-Yard Stare",
+      "flavor":"You can see everything. You can unsee nothing.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"13098v Incognito",
+      "flavor":"A flexible Vanguard-issue sniper rifle that uses nanolathed components to improve design tolerances.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"20/20 AMR7",
+      "flavor":"Take in the sights.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Allowance V/C4",
+      "flavor":"Match-grade sniper weapon. A scalpel for the steady-handed.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Amina-E7",
+      "flavor":"In a Guardian's hands, a properly equipped precision rifle can gain uncanny capabilities.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Amplified Geo-D6",
+      "flavor":"Shortest distance between two points across a curved visual axis: Aim + Squeeze.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Andacht 81",
+      "flavor":"The booming report of the Andacht coined the phrase 'Wall thunder'.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Antinomy XVI",
+      "flavor":"Executor-issued sniper rifle for loyal supporters of the New Monarchy.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Aoife Rua-D",
+      "flavor":"Control the battlefield with the Häkke Aoife Rua-D.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Ascalon-LR1",
+      "flavor":"Tall walls. Gleaming temples. Kings and queens with glittering eyes.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Avenue A",
+      "flavor":"Looks like that poor fellow took a wrong turn.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Black Hammer",
+      "flavor":"\"I cannot permit you to exist.\"",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Black Spindle",
+      "flavor":"\"Your only existence shall be that which I weave for you out of sorrow and woe.\"",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Black Trung-D",
+      "flavor":"A long range Häkke firearm, earned through glory in the Crucible.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Broken Truth-LR1",
+      "flavor":"A sharpshooter's weapon modified by Dead Orbit's superb technicians and specialists.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Calcutta-LR1",
+      "flavor":"Engage and defeat the enemy at extreme range. The LR1 is a flexible weapon with excellent tolerance for wear.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Calcutta-LR2",
+      "flavor":"Engage and defeat the enemy at extreme range. The Calcutta series hails from a lineage that once guarded the City's wall-builders.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Calcutta-LR2a",
+      "flavor":"Engage and defeat the enemy at extreme range. The LR2a has an integrated com set, but a Guardian's Ghost renders it redundant.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Candace-B",
+      "flavor":"Engage and defeat the enemy at extreme range. Named for the designer, Candace throws a massive antipersonnel round.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Caracas-LR5",
+      "flavor":"Enjoy the view, while waging war from a comfortable distance.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Chandragupta-A",
+      "flavor":"You can't be stopped. You won't be forgotten.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Civilian Applications",
+      "flavor":"None found.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Defiance of Yasmin",
+      "flavor":"\"Shields up! Protect the Queen! Brace for impact! Save the Queen—\" —Paladin Yasmin Eld",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Deianeira-D",
+      "flavor":"They underestimate you at their own peril.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Doom Echo XI",
+      "flavor":"The name is not hyperbole.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Efideet's Spear",
+      "flavor":"A sharpshooter's weapon, forged in fire by the Lords of the Iron Banner.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Eirene RR4",
+      "flavor":"A new Golden Age is just over the horizon. With the Omolon Eirene RR4, you'll be the first to see it coming.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Epitaph 2261",
+      "flavor":"It's seen things you people wouldn't believe. Killed most of them, too.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Equiprobable LSc",
+      "flavor":"If not here, could it not be elsewhere?",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Eumolpias-SR3",
+      "flavor":"Long roads. Sloping hills. Ancient roots. Keep the watch.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Extrasolar RR4",
+      "flavor":"A sniper rifle, modified by Dead Orbit's superb technicians and specialists.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Eye of Sol",
+      "flavor":"\"The sun took my sight, thus the sun became my eyes.\" —Parables of the Allspring",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"FINAL BOSS",
+      "flavor":"Become the monster.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Glass Promontory",
+      "flavor":"It is not the height of the cliff, but the struggle of the climb that clears my eyes.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Gozen-C",
+      "flavor":"The massive Gozen-C fires a brutally powerful iridium sabot.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Häkke Test-A",
+      "flavor":"Häkke prototype. Use against Cabal Centurions to gather data for Häkke's armament scientists.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Harrowed Defiance of Yasmin",
+      "flavor":"\"Shields up! Protect the Queen! Brace for impact! Save the Queen—\" —Paladin Yasmin Eld",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Her Benevolence",
+      "flavor":"A weapon carried by the Vestian Guard, the body which patrols the Reef's borders.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Her Fury",
+      "flavor":"A weapon carried by the Vestian Guard in their fight against the Taken.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Hereafter",
+      "flavor":"\"Huddled at the mountain's base, we had no choice but to beat our ploughshares into swords once more.\"",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Hieracon-LR2",
+      "flavor":"Engage and defeat the enemy at extreme range. The Hieracon-LR2 is a flexible marksman platform designed for all conditions.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Hieracon-LR3",
+      "flavor":"The multirole Hieracon is an effective generalist sniper weapon. Scope mounts may stick in cold.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Hieracon-LR5",
+      "flavor":"Guardians eschew the weapon's bipod - a tool for those without preternatural gifts of war.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Ice Breaker",
+      "flavor":"Please replace these components if use causes fatal damage: HEAT SINK. MAGAZINE. OPERATOR",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Known Horizon",
+      "flavor":"If you can see it, you can kill it.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"LDR 5001",
+      "flavor":"Ballistic heartbreak.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Low-Grade Humility",
+      "flavor":"\"I'm good at this.\"",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Luna Chiral III",
+      "flavor":"In all of us, two natures dwell.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Luna Phasar III",
+      "flavor":"Be the shear. Unstitch a foe molecule by molecule.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Luna Vallar IV",
+      "flavor":"A precise whisper is more powerful than an echoing scream.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Matuta RR4",
+      "flavor":"Bring forth the dawn.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Neutrino LSm",
+      "flavor":"Can anything stop you?",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"No Land Beyond",
+      "flavor":"Every hit blazes the path to our reclamation.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Omolon Test RR1",
+      "flavor":"Omolon prototype. Use against Fallen Captains to gather data for Omolon's weapons developers.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Painted Sammuramat-C",
+      "flavor":"A highly accurate Häkke sniper rifle, earned through glory in the Crucible.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Patience and Time",
+      "flavor":"If you've got it, they'll never see it coming.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Pompeii-LR2",
+      "flavor":"Engage and defeat the enemy at extreme range. The Pompeii-LR2 is an accurized Hieracon variant for long-range shots.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Pompeii-LR3",
+      "flavor":"An accurized sniper rifle named for the site of an ancient disaster.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Pompeii-LR5",
+      "flavor":"Extinction never felt so good.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Praedyth's Revenge",
+      "flavor":"Praedyth's fall isn't over… because it hasn't happened yet… and it will happen again.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Prudence II",
+      "flavor":"Executor-issued sharpshooter's weapon for loyal supporters of the New Monarchy.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Saigon-LR5",
+      "flavor":"Carefully balanced capabilities, a bristling array of extended systems, and a deadly calm.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Scipio-E",
+      "flavor":"The Scipio-Echo is a portable lesson in the meaning of 'ballistic trauma'.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Shadow of Veils",
+      "flavor":"Judgment on the unseen is best performed from a distance.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Silvered Boudicca-D",
+      "flavor":"A powerful Häkke sniper rifle, earned through glory in the Crucible.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Silvered Caracas-LR4",
+      "flavor":"A highly accurate Daito sniper rifle, earned through glory in the Crucible.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Silvered Mulan-D",
+      "flavor":"A highly accurate Häkke firearm, earned through glory in the Crucible.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Stillpiercer",
+      "flavor":"By the time they know you're there, it's already too late.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Subtle Nudge DN7",
+      "flavor":"With the right touch, they all fall down.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"SUROS JLL-19",
+      "flavor":"Lightweight. Precise. Modular. SUROS.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Tamar-D",
+      "flavor":"With the Häkke Tamar-D, they'll never see you coming.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Tao Hua Yuan",
+      "flavor":"One day, the flowers will grow again.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"The Chosen",
+      "flavor":"A sharpshooter's weapon named and sanctified by the leaders of the Future War Cult.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"The Majestic",
+      "flavor":"An Awoken gift from the Reef, marked with the Queen's crown.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"The Supremacy",
+      "flavor":"An Awoken gift from the Reef, marked with the Queen's crown.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Tomyris-E2",
+      "flavor":"\"If my rifle gets any smarter I'm afraid I'll fall for her.\" - Anahera-3, Exo hunter",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Trajan-B",
+      "flavor":"Engage and defeat the enemy at extreme range. The long-barrel Trajan Bravo offers good accuracy.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Trajan-C",
+      "flavor":"Accurized long-barrel sniper weapon. Often arrives with unusual onboard systems.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Uzume RR4",
+      "flavor":"With the Uzume RR4 on your side, the Darkness doesn't stand a chance.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Violator XII",
+      "flavor":"Executor-issued sharpshooter's weapon, custom-rigged for loyal supporters of the New Monarchy.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Vulpecula",
+      "flavor":"A Guardian relic named for the little fox of the night sky.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Weyloran's March",
+      "flavor":"A sharpshooter's weapon, forged in fire by the Lords of the Iron Banner.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Y-09 Longbow Synthesis",
+      "flavor":"Closer Than You Think",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Zen Meteor",
+      "flavor":"Complete awareness, complete focus. A mind sharpened by diligence to a single deadly point.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"20/20 AMR7",
+      "flavor":"Take in the sights.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"But Not Forgotten",
+      "flavor":"Not even the dead are truly gone.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Devil's Dawn",
+      "flavor":"\"My arms are red and manifold, and nothing is beyond my grasp.\"",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"EX MACHINA~",
+      "flavor":"Eirene ~If (SIVA) return replicate // else if (!SIVA) run ascension()~",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"The Laughing Heart",
+      "flavor":"Forged in honor of Gheleon, he who taught us to cherish both the rainy days and the sunny.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"The Winged Word",
+      "flavor":"\"You cannot keep it silent.\" —Fractal Scrolls",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Bitter Edge 010",
+      "flavor":"A sniper rifle, modified by Dead Orbit's superb technicians and specialists.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Deposition VII",
+      "flavor":"Executor-issued sniper rifle for loyal supporters of the New Monarchy.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Event Horizon",
+      "flavor":"Point me toward the point of no return.",
+      "type":"Sniper Rifle"
+   },
+   {  
+      "name":"Seventh Sense",
+      "flavor":"It's difficult to explain… But, if you have it, you'll know.",
+      "type":"Sniper Rifle"
+   }
+]

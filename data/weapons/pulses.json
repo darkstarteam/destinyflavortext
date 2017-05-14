@@ -1,0 +1,507 @@
+[  
+   {  
+      "name":"123 Syzygy",
+      "flavor":"All in a row.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"55A-allFATE",
+      "flavor":"To each a purpose, and to all a fitting end.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Aegis of the Kell",
+      "flavor":"For this judgment, there is no protection.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Aegis of the Kell II",
+      "flavor":"For this judgment, there is no protection.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Aegis of the Reef",
+      "flavor":"Protect the borders. Punish the unjust.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Anomie MSm",
+      "flavor":"Is lawlessness the natural state of the universe?",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Antapex MSc",
+      "flavor":"Which reality, but for the one we enact upon ourselves and others?",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Apple of Discord",
+      "flavor":"\"For the fairest.\"",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Bad Juju",
+      "flavor":"\"If you believe your weapon wants to end all existence, then so it will.\" - Toland the Shattered",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Bad Seed Down",
+      "flavor":"A manufacturing defect cracked the frame and fused its systems – and somehow made it deadlier.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Baryon MSc",
+      "flavor":"Microbays for tactical systems enhance an already potent precision pulse rifle.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Black SUROS SWB-42",
+      "flavor":"A lightweight and snappy Suros pulse rifle, earned through glory in the Crucible.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Catena MSc",
+      "flavor":"A light, responsive weapon with attachment points for unorthodox systems modules.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Coiled Hiss",
+      "flavor":"Watch your step.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Cold Current",
+      "flavor":"\"There's something dark out beyond the Reef. I can feel it in the void…\"",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Corona MSc",
+      "flavor":"Light the path. And when all else fails... aim for the head.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"CRACKERJACK.BETA",
+      "flavor":"Not liable for damage or disability caused by prototype performance.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Dead Air 09F3",
+      "flavor":"The recoil-cushioning cytogel, left to grow, has fused into a primitive neural network.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Echo 33",
+      "flavor":"\"Negative. We will hold until overrun. Echo 3-3, signing off.\"",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Evergreen II.I",
+      "flavor":"Hope springs eternal.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Fair and Square",
+      "flavor":"A formidable burst-fire, precision rifle, custom-rigged for Crucible combat. Scrupulously devoted to fair play.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Final Duty",
+      "flavor":"Created for Paladin Hallam Fen in honor of his efforts at the fortress on Cybele.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Grasp of Malok",
+      "flavor":"\"Dutiful Malok. Many offerings of Light did he make at the Shrines of Oryx.\" —Eris Morn",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Häkke Test-A",
+      "flavor":"Häkke prototype. Make precision shots with this weapon to gather data for Häkke's armament scientists.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Harrowed Smite of Merain",
+      "flavor":"\"No tomb but the battlefield! No legacy but the scars we etch upon our foes!\"",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Hawksaw",
+      "flavor":"A northwesterly wind is blowing.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Herja-D",
+      "flavor":"Devastate your foes with the deadly precision of the Häkke Herja-D.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Hopscotch Pilgrim",
+      "flavor":"It's a long road. Enjoy it.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Hotspur-A",
+      "flavor":"Piezopolymer paneling makes the Häkke Hotspur-A a balanced war machine.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Hydrus",
+      "flavor":"A Guardian relic named for the water snake of the night sky.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"KAU8 Constellation Scar",
+      "flavor":"Constellations are an artifact of perspective.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Lump Distribution",
+      "flavor":"This nimble rifle's on-board tactical systems keep a scrupulous tally of combat stats.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Lyudmila-D",
+      "flavor":"The cold sharpshooter's precision of the Häkke Lyudmila-D is a marvel to behold.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Moriaen-D",
+      "flavor":"You are a child of many cultures, a protector of all peoples.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"New Heart LDD",
+      "flavor":"Clear!",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Nirwen's Mercy",
+      "flavor":"A burst-fire weapon, forged in fire by the Lords of the Iron Banner.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"No Time To Explain",
+      "flavor":"A single word is etched onto the inside of the weapon's casing: \"Soon.\"",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Occulate MSc",
+      "flavor":"Where does the cloaking Darkness end?",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Oversoul Edict",
+      "flavor":"The light of the will of Crota shines down like a vast and inverse sun.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Painted Apollo MSc",
+      "flavor":"A highly accurate Nadir firearm, earned through glory in the Crucible.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Painted Neptune MSc",
+      "flavor":"A high-velocity Nadir firearm, earned through glory in the Crucible.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Painted SUROS BZL-45",
+      "flavor":"A precision Suros pulse rifle, earned through glory in the Crucible.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Payment VI",
+      "flavor":"An Awoken gift from the Reef, marked with the Queen's crown.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Payment VI",
+      "flavor":"Paladin Hallam Fen commissioned this weapon in memory of his mentor, Paladin Imogen Rife.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Praedyth's Timepiece",
+      "flavor":"\"He skipped like a stone on time's ocean. This is what's left.\" - Unknown",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Primed Starfall MSc",
+      "flavor":"A tactically flexible Nadir pulse rifle, earned through glory in the Crucible.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Psi Alba IV",
+      "flavor":"This power has always existed. Only our understanding is new.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Psi Alto III",
+      "flavor":"This weapon's power comes from the strength of its wielder's will.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Psi Lento III",
+      "flavor":"The journey to enlightenment is slow, but rewarding.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Psi Tempus II",
+      "flavor":"Pulse rifles fire in short, sharp bursts. This Psi Tempus variant is a flexible multirole design.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Psi Tempus III",
+      "flavor":"Multirole weapon. Fire control system can double as an NLS drive regulator, if you don't mind a gun flying your ship.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Psi Umbra I",
+      "flavor":"Pulse rifles fire in short, sharp bursts. This Psi Umbra variant is a common example, accurized for long-range work.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Psi Umbra II",
+      "flavor":"Pulse rifles fire in short, sharp bursts. The Psi Umbra II is a retooled precision weapon for long-range kills.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Psi Umbra II-A",
+      "flavor":"Pulse rifles fire in short, sharp bursts. This Umbra II-A variant is a flexible multirole design.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Psi Volo II",
+      "flavor":"Pulse rifles fire in short, sharp bursts. The flat-topped bullpup Psi Volo is a snappy, featherweight design.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Psi Volo III",
+      "flavor":"The Psi Volo's ergonomics and mass have been rigorously optimized for fast response.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Pulsar MSe",
+      "flavor":"Pulse rifles fire in short, sharp bursts. The MSe is a close-quarters design, cut down for easy handling.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Pulsar MSm",
+      "flavor":"The compact MSm handles very nimbly. Some Ghosts claim the onboard electronics are slightly intoxicating.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Raskova-A",
+      "flavor":"The terror of the night. The strike from the shadows.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Red Death",
+      "flavor":"Vanguard policy urges Guardians to destroy this weapon on sight.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Reflection Sum",
+      "flavor":"How to count the infinities?",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Reflection Sum (Adept)",
+      "flavor":"How to count the infinities?",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Silvered Continuum MSc",
+      "flavor":"A tactically flexible Nadir pulse rifle, earned through glory in the Crucible.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Silvered Procyon MSc",
+      "flavor":"A burst-fire Nadir firearm, earned through glory in the Crucible.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Skorri's Revenge",
+      "flavor":"A burst-fire weapon forged in fire by the Lords of the Iron Banner.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Smite of Merain",
+      "flavor":"\"No tomb but the battlefield! No legacy but the scars we etch upon our foes!\"",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Spare Change.25",
+      "flavor":"Keep it.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Strange Suspect",
+      "flavor":"Certainly not one of the usual suspects.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Super Pox VLO",
+      "flavor":"Found in a null-g hangar, drifting alongside fourteen limbless and decapitated Fallen corpses.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"SUROS BNS-13",
+      "flavor":"A reliable but lightweight weapon, the Suros BNS-13 also has a flexible layout.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"SUROS JPS-20",
+      "flavor":"Pulse rifles fire in short, sharp bursts. The JPS-20 is a smooth extension of the shooter, perfect for long-range fire.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"SUROS JPS-32",
+      "flavor":"The JPS-32 provides precision burst fire. Integrated micromotors control the barrel's harmonic resonance.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"SUROS JPS-55",
+      "flavor":"Smooth in the hand and precise on fire, the JPS-55 will illustrate your point quite nicely.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"SUROS MIN-15",
+      "flavor":"Balanced. Moderate. High-impact. SUROS.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"SUROS PDX-41",
+      "flavor":"Ergonomic. Autonomic. Animatronic. SUROS.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"SUROS PDX-45",
+      "flavor":"Lightweight. Snappy. Reflexive. SUROS.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"SUROS PRI-44",
+      "flavor":"Lightweight. Powerful. Modular. SUROS.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"SUROS TSP-10",
+      "flavor":"Suros prototype. Use against Vex targets to gather field data for the Suros research department.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Temporal MSm",
+      "flavor":"Can the past ever be undone? Can the future ever be attained?",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"The Conduit",
+      "flavor":"A burst-fire weapon named and sanctified by the leaders of the Future War Cult.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"The Messenger  ",
+      "flavor":"From deep within the shadows it came—a messenger borne on black wings.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"The Messenger (Adept)",
+      "flavor":"An elite trophy earned only by Trials of Osiris champions.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"The Ninth Edict",
+      "flavor":"An Awoken gift from the Reef, marked with the Queen's crown.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"The Stranger's Rifle",
+      "flavor":"Ghost's analysis suggests this weapon has been exposed to incredible forces…and that parts of it shouldn't yet exist.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"The Villainy",
+      "flavor":"A burst-fire weapon, named and sanctified by the leaders of the Future War Cult.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Three Little Words",
+      "flavor":"It's not enough to say them. You've got to MEAN them.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Time On Target",
+      "flavor":"Three rounds rapid.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"TKO (First Round)",
+      "flavor":"Down and out.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Trifecta S.2",
+      "flavor":"An accurized Vanguard-issue pulse rifle, stripped and rebuilt with tight tolerances for long-range accuracy.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Outbreak Prime",
+      "flavor":"\"I've done the math. When you pull this trigger, one plus one equals zero. Every time.\" —Shiro-4",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Blind Perdition",
+      "flavor":"\"It is only a prison if you believe it to be.\" —Parables of the Allspring",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Hopscotch Pilgrim",
+      "flavor":"It's a long road. Enjoy it.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"STEEL MEDULLA~",
+      "flavor":"~replicate~ devastate your foes ~consume~ Herja ~repeat",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"The Clever Dragon",
+      "flavor":"Forged in honor of Timur, he whose spells cut deeper than any sword.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"B-29 Party Favor",
+      "flavor":"Let's get this party started.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Parthian Shot",
+      "flavor":"Who's got the last laugh now?",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"The Waltz",
+      "flavor":"A burst-fire weapon, named and sanctified by the Future War Cult's leaders.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Oversoul Edict (Adept)",
+      "flavor":"The shadow of the will of Crota burns like the deepest winter, hopeless and without end.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Praedyth's Timepiece (Adept)",
+      "flavor":"It measures the minutes of a lifetime and cuts short what is too long.",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"Smite of Merain (Adept)",
+      "flavor":"Barrel etching: \"He parted them like a sea, which closed upon him again.\"",
+      "type":"Pulse Rifle"
+   },
+   {  
+      "name":"((STEEL MEDULLA~))",
+      "flavor":"~enhance(devastate) consume(foes) repeat insert(bansheeInterrupt(override))~",
+      "type":"Pulse Rifle"
+   }
+]

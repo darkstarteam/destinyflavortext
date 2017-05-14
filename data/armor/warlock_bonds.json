@@ -1,0 +1,722 @@
+[  
+   {  
+      "name":"\"After Effects\"",
+      "flavor":"\"Nothing that happens in the Crucible is irreversible…except the lessons you learn.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Ancestral Demise\"",
+      "flavor":"Humanity's rich and tattered history provides fuel for libraries of debate on Light, the Traveler, and all creation.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Blind Evoke\"",
+      "flavor":"\"Learning without application is like drinking without thirst.\" - from Aphorisms To Anger Warlocks, a Hunter handbook",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Blood Maturity\"",
+      "flavor":"\"I have found that rarest treasure: a pragmatic Warlock.\" - Saint-14",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Born of Sight\"",
+      "flavor":"\"Reality is the most ruthless analyst.\" - Praxic saying",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Circle of War\"",
+      "flavor":"\"Understanding is not an end, but a beginning from which new truths are born.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Computable Secrets\"",
+      "flavor":"Exo Warlocks take particular interest in the physics of Light, seeing analogy to their own origins.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Controversial Remains\"",
+      "flavor":"Like all Guardians, Warlocks are vessels for the Traveler's Light. But that power must be mastered.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Cosmic Truths\"",
+      "flavor":"\"To bind Light into the same framework as the proton or the mere neutrino is an act of close-minded hubris.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Creation's Wind\"",
+      "flavor":"\"The Light releases us from causality. It smooths the contours of what we can and cannot do.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Cryptic and Ineffable\"",
+      "flavor":"\"You did not receive the bond so you could babble arcane words. Go forth, and burn our enemy.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Curse of the Hidden\"",
+      "flavor":"\"I vowed to avenge them all, and this curse I will carry to my final death.\" - Eriana-3",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Death of Fate\"",
+      "flavor":"\"Our fate is not sealed. With the proper will, and enough force, it can be rewritten.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Dispersed Vengeance\"",
+      "flavor":"\"I made quite a reputation in the Crucible. Spent some time trying to outrun it.\" - Ikora Rey",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Dread's Enmity\"",
+      "flavor":"\"They've stolen our worlds. In return, would you not send their ether to the winds? I would. I have.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Emerald Light\"",
+      "flavor":"\"They'll believe you are one of their own. And that is the only way.\" - Toland, the Shattered",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Eternal Light\"",
+      "flavor":"\"You stand for something immutable and transcendent. Act like it.\" - reprimand to a younger Ikora Rey",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Existential Threats\"",
+      "flavor":"Furious debate divides those that seek knowledge in order to aid the City, and those who seek knowledge for its own sake.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Expansion\"",
+      "flavor":"Always consider the connection between your field work and vaster things.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Eye of History\"",
+      "flavor":"Those orders most closely allied with the Titans seek to hone the battlefield deployment of Light.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Faceless Demise\"",
+      "flavor":"A true leader speaks with the voice of the people.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Forgotten Force\"",
+      "flavor":"Every exercise of your power adds a syllable to the greater song.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"House of Devils\"",
+      "flavor":"\"What shall we call thee?\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"House of Kings\"",
+      "flavor":"\"Have they not learned the fate of Earth's kings?\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"House of Wolves\"",
+      "flavor":"\"Beware of false prophets.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Immanent War\"",
+      "flavor":"\"The next war is already here, waged in the theater of the inmost.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Inertia Engine\"",
+      "flavor":"\"I believe that the Traveler and its Light are advanced technology. I refuse to accept that this diminishes me.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Light Beyond\"",
+      "flavor":"\"Every light that marks the abyss offers hope against the rising tide.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Light Unknown\"",
+      "flavor":"The bond is signified and signifier, source and focus. Do not seek closure. Let the mystery unfold you.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Loop of Night\"",
+      "flavor":"\"I could flense you apart, molecule by squirming molecule. It is within my power.\" - Toland the Shattered",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Metastability Event\"",
+      "flavor":"The great energies of the Golden Age never triggered a false vacuum decay. We'll be fine.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Mirrors of Chaos\"",
+      "flavor":"If the City falls, there will be no one left to adjudicate phenomenological debates. So now, even the scholars fight.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Mystic Drain\"",
+      "flavor":"At the desperate battle of Twilight Gap, Warlocks worked in concert to shatter the enemy. It was not quite enough.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"No Footprints\"",
+      "flavor":"\"Gravity? Oh, that nuisance. I never bother with it.\" —Lyssa, the Lighthearted",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"No Tomorrow\"",
+      "flavor":"\"For every dead yesterday there waits a new dawn, with no promise of tomorrow.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"One True Constant\"",
+      "flavor":"Some orders eschew all metaphysics and ontological doctrine in favor of pure combat discipline.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Other Side of Nothing\"",
+      "flavor":"\"Nobody comes back the same.\"- The Parables of Osiris",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Paradox and Truth\"",
+      "flavor":"\"The Light remade us. Can I still claim to be human? Can you still say you were made by human hands?\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Phantom Wisdom\"",
+      "flavor":"\"What is Light? Who made it? How does it work? Light itself answers these questions. Do you understand?\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Praxic Thunder\"",
+      "flavor":"With knowledge, purpose. Each sharpens and hones the other.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Praxic Vim\"",
+      "flavor":"Praxic Warlocks don't hate research. They just don't let it interfere with the fight.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Red Eternal\"",
+      "flavor":"Death is the fate of all life. We only shorten the way.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Ritual Expansion\"",
+      "flavor":"\"Beyond Sol's gravity, beyond Earth's pull.\" —Arach Jalaal",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Song of Dusk\"",
+      "flavor":"\"I'll be the last Light they ever see.\" - Eriana-3",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Song of the Light\"",
+      "flavor":"At the edge of the singularity, light freezes, unable to face the mystery. But you must go on.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"The Age to Come\"",
+      "flavor":"\"There is strength in unity. And a King of many, will be the King of all.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"The Before Time\"",
+      "flavor":"\"Do you remember who you were?\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"The Calming\"",
+      "flavor":"\"I have devised a technique to liberate the soul from the flesh. It works very reliably on Fallen.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"The Chaos Constant\"",
+      "flavor":"\"Darkness consumes, but, we shall mark the abyss with eternal fire.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"The Conflagration\"",
+      "flavor":"Everything was born from an unimaginable fire. Here, I'll show you.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"The Cure\"",
+      "flavor":"\"We have a solution.\" - Ikora Rey, in an emergency session of the City Consensus",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"The Gone\"",
+      "flavor":"\"He came at me with a knife. I put out my hand and - just so - made him into ash.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"The Order\"",
+      "flavor":"\"A fractured will is the hallmark of disorder…\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"The Risen Ones\"",
+      "flavor":"What rules us is our service to the greater welfare of the City.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"The Tethering\"",
+      "flavor":"\"The farther apart you pull two quarks, the harder they snap back.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"The Transcendent Mind\"",
+      "flavor":"\"Other orders try to learn the laws of Light. We accept that Light transcends all law.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"The Unconquerable\"",
+      "flavor":"\"Let's stop thinking about how to open the lock and start thinking about removing the wall.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"The Waking Dreams\"",
+      "flavor":"Awoken Warlocks ponder their own visions as whispers into the truths of Light and Dark.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Tooth and Claw\"",
+      "flavor":"Reality grew from the carcasses of an infinity of might-have-beens.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Trained Chaos\"",
+      "flavor":"\"Control space and time. Mere matter and energy will follow.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Twist of Fate\"",
+      "flavor":"\"There will come a time when you can no longer see objects - only clouds of probability and law.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Variable Flow\"",
+      "flavor":"\"Your power flows through the bond. Remember what it represents.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Wearable Collider\"",
+      "flavor":"Mm, yes, a fine cloak. But I have a supercompressed supercollider on my arm. Can your cloak split quarks?",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Willful Exodus\"",
+      "flavor":"\"…'til even the stars heed our calling.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"\"Worm Gods' Boon\"",
+      "flavor":"They had a choice. They chose the hunger. They chose the Formless One. They chose the Worm Gods.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Barkhan Dune Bond",
+      "flavor":"\"The sandstorm that buries Meridian will unearth Vasconia.\" —Warlock saying",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Binary Lazarus",
+      "flavor":"Encrypted by the First Children at the Precipice of Flame, before the Exile.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Bond of Control",
+      "flavor":"A Warlock's bond signifies control over the Traveler's Light. What 'control' means is a matter of debate.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Bond of Credulity",
+      "flavor":"\"They call me unorthodox. I call them boring.\" —Wen Jie",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Bond of Emptying",
+      "flavor":"Peace within. War without.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Bond of Focus",
+      "flavor":"A bond is symbol, instrument, and warning. Light can reveal mysteries. But even a child knows not to stare into the sun.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Bond of Guardians",
+      "flavor":"Bearing the devices of every Guardian class, this escutcheon represents Light united against Darkness.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Bond of Polarity",
+      "flavor":"Some orders believe that Light and Darkness exist beyond the merely material, with a logic of their own.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Bond of Preparation",
+      "flavor":"A Warlock needs nothing but a vigorous mind.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Bond of the Desolate",
+      "flavor":"In honor of the Queen.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Bond of the Exile",
+      "flavor":"\"They who entered the Speaker's chambers as master and apprentice were bitter rivals when they left.\" —Brother Vance",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Bond of the Fen",
+      "flavor":"There's nothing out there. So why do we keep going back?",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Bond of the Queen's Guard",
+      "flavor":"One throne beneath the howling dark.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Bond of the Tilt",
+      "flavor":"\"Don't want to get rusty now, do we?\" —Ikora Rey",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Bond of the Universal",
+      "flavor":"Some orders argue that Light and Darkness can be explained in the context of supersymmetric physics.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Bond of the Uprooted",
+      "flavor":"Cut away the rot. Let the young trees take root.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Bond of the Wormlore",
+      "flavor":"\"They were two once. In the Darkness they joined. Such is the Hive's strength. And such is their hunger.\" —Eris Morn",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Bond of Unknowing",
+      "flavor":"Some orders assert that Light and Darkness are not bound by any system of reason or causality.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Bond of Veils",
+      "flavor":"A thousand Thanatonauts on a thousand journeys have made only the tiniest of tears in death's veil.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Bond of Will",
+      "flavor":"\"Consider the word: bond. Remember, as you wield this power, that you are not alone.\" - Pujari, The Transcripts",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Bond of Wonders",
+      "flavor":"\"The more unlikely it seems, the truer it is.\" —Wen Jie",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Bone Circlet",
+      "flavor":"A memento of the world Crota ruled.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Captured Solar Remnant",
+      "flavor":"A grid of starfire burned into a single instant of Planck time.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Devils' Bond",
+      "flavor":"Make your mark.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Ebonthorn Bond",
+      "flavor":"\"As the thorns tear your skin, so Oryx tears your soul.\" —Toland, the Shattered",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Felwinter's Iron Bond",
+      "flavor":"\"Such knowledge is often deemed offensive. That doesn't make it untrue.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Fragment of the Prime",
+      "flavor":"Caged in ascendant motes, it still glimmers with the light of some ceaseless calculation.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Haliaetus Bond",
+      "flavor":"\"Nowhere to land. Gotta keep flying.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Harlequin Pendulum",
+      "flavor":"A curious device, sought after by the Gensym Scribes.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Heliopause Bond",
+      "flavor":"\"Once, deep space explorers were seen as heroes. Now, for suggesting humanity should look beyond this system, some call us cowards.\" —Arach Parnell",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Incandescent Mind",
+      "flavor":"A tiny engine, bright with thought...",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Infinite Lines Bond",
+      "flavor":"...pulled the subject from the Device he appeared frozen. No vitals, but the body hasn't rotted either. —RECORD 340-CHASM-NULL",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Iron Camelot Bond",
+      "flavor":"Forged in remembrance of Skorri, she who sang out the Iron Song.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Kallipolis Bond",
+      "flavor":"The leader we need is among us, not above us.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Keeper's Dread",
+      "flavor":"\"I feel the Queen's presence still. I think she would approve of what we do in her name.\" —Petra Venj",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Kells' Bond",
+      "flavor":"One leads. Many follow.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Kings' Bond",
+      "flavor":"My word is my oath.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Lantern Bond",
+      "flavor":"This bond represents the one thing Albios took with him into the swamp: a single lantern.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Omnigul Bond",
+      "flavor":"\"The Will of Crota is broken at last. May Sai Mota's restless Light at last find peace.\" —Eris Morn",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Order of Guardians Bond",
+      "flavor":"\"Just because Warlocks are the superior Guardian class doesn't mean we can't be team players.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Orphan Branch",
+      "flavor":"It's down to us now.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Pariah Bond",
+      "flavor":"\"I wear his symbols proudly in the City, to remind them that Osiris is not truly gone.\" —Fractal Scrolls",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Potential Bond",
+      "flavor":"A Warlock's Bond is both a symbol and a focus of power. Your Ghost jury-rigged this simple example.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Racer's Bond",
+      "flavor":"Is it a flash of insight or merely a spark from your bond?",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Seal of the Twin Eagle",
+      "flavor":"Only the wind beneath you.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Seraph Bond",
+      "flavor":"\"Some of the City folk call us angels. Others...take a different view.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Skorri's Iron Bond",
+      "flavor":"\"Rise above, so that you may lift those below.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Spektar Bond",
+      "flavor":"There are many shades of truth.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Spektar Haliaetus Bond",
+      "flavor":"\"Nowhere to land. Gotta keep flying.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Spektar Heliopause Bond",
+      "flavor":"If only Darkness lies beyond the heliopause, we have already lost.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Spektar Infinite Bond",
+      "flavor":"…pulled the subject from the Device he appeared frozen. No vitals, but the body hasn't rotted either. —RECORD 340-CHASM-NULL",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Spektar Kallipolis Bond",
+      "flavor":"Not the past, not the future. The present is where we should turn our eyes.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Spirit of the Vulture",
+      "flavor":"Before grace, subsistence. Before nobility, survival.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Stormcaller Bond",
+      "flavor":"You are the calm eye of the dire storm.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Stormcaller's Bond",
+      "flavor":"\"Let me tell you what I wish someone had told me in my early years: embrace the stillness.\" —Ikora Rey",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Sublime Light Bond",
+      "flavor":"A trial by fire, the purpose of which is transformation.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Subterranean Bond",
+      "flavor":"\"Ziggurats built not on the surface, but gouged, upside-down, into the Moon's crust.\" —Eris Morn",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Sunsinger's Bond",
+      "flavor":"Any scholar can understand the theory, but only those who hear the music can make Light sing.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Terra Clasp",
+      "flavor":"The Earth is ours to lose.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Thanatonaut's Bond",
+      "flavor":"There's always a gap in the memories.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"The Five Lives of Albios",
+      "flavor":"Woven to honor the last stand of Albios.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Thought Lantern",
+      "flavor":"We are here to cast a little light.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Timor's Iron Bond",
+      "flavor":"\"Only those forged in Light can stand against the lurking shadows.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Ulan-Tan's Burial Ring",
+      "flavor":"A replica of the legendary burial ring of Ulan-Tan.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Union of the Consensus",
+      "flavor":"A symbol of union worn by chosen Warlocks in the great Consensus.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Voidwalker's Bond",
+      "flavor":"\"Others flee from the Darkness. Only we dare stare into its depths.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Wellspring Bond",
+      "flavor":"A Guardian in the wilds is better than water in the desert.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"White Polygon Construct",
+      "flavor":"A strange holographic bond. The information within describes something vast.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Wolfswood Bond",
+      "flavor":"Under a red dawn, the Iron Wolves gathered beneath the Ironwood.",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Endling Bond",
+      "flavor":"\"I am haunted by the Endling, the last living human.\" —Arach Jalaal",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"High Command Bond",
+      "flavor":"\"The City demands a leader. Now, before it is too late.\" —Executor Hideo",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Eon Tracer Bond",
+      "flavor":"\"We trace the history of war throughout the ages.\" —Lakshmi-2",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Sepiks Deposed Bond",
+      "flavor":"\"Prime no longer. No primes but we.\"",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Red Miasma Bond",
+      "flavor":"Just give it a directive, and it won't stop until it gets a new directive. ~SIVA.MEM.WB008",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Iron Saga Bond",
+      "flavor":"\"The worlds still need the Iron Lords.\" —Lord Saladin",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Idylls of the Iron Lords",
+      "flavor":"\"The tale of the Iron Lords is not over.\" —Lord Saladin Forge",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Cobra's Vigil Bond",
+      "flavor":"\"We learn to live with this poison in our veins.\" —Parables of the Allspring",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Bond of the Exile",
+      "flavor":"\"They who entered the Speaker's chambers as master and apprentice were bitter rivals when they left.\" —Brother Vance",
+      "type":"Warlock Bond"
+   },
+   {  
+      "name":"Bond of Legends",
+      "flavor":"The Warlock worthy of this bond has learned the secrets of every planet and heard the song of every star.",
+      "type":"Warlock Bond"
+   }
+]

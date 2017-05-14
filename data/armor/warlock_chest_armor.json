@@ -1,0 +1,422 @@
+[  
+   {  
+      "name":"Alchemist's Raiment",
+      "flavor":"To reshape the world piece by piece, thought by thought. All it takes is a little reshuffling of particles.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"AOS#Al-Suhail",
+      "flavor":"Crucible variant. Parallelized power systems ensure smooth response.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Apex Harmonic",
+      "flavor":"Will is an arsenal, knowledge an armament. Each thought, a submunition.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Astrolord Robe",
+      "flavor":"War is the struggle to exist. Everything real is a combatant.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Aura Purge",
+      "flavor":"Breathe in. Breathe out.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Axiom Coven",
+      "flavor":"Reach for the Light. In the instant of synapse, you will feel like a bridge to the world yet to come.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Azoth Bend ",
+      "flavor":"We did not create the Philosopher's Stone. It appeared to us in the skies over Mars.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Barkhan Dune",
+      "flavor":"\"Half-buried in the sand: a sealed canteen of greenish, ancient water. I drank it.\"",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Bindcaster",
+      "flavor":"\"To bind another being, cell by cell, to your will.\" —Toland, the Shattered",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Blindsight Vestments",
+      "flavor":"\"I shrouded myself so when the Light returned I could see it all the clearer.\" —Parables of the Allspring",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Born Spark",
+      "flavor":"Fabricated by your Ghost using nearby mass, this fieldweave handles life support and little else.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Chasm of Yuul",
+      "flavor":"A clew of writhing things there was also, on that cusp between Light and Darkness.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Chroma Vow",
+      "flavor":"Warlocks are expected to maintain ceremonial robes. We cannot cede the sartorial struggle to the Hunters.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Code Fire",
+      "flavor":"Fieldweave armor guards the body with invisible layers of the Warlock's own Light.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Cormorant Line",
+      "flavor":"The most valiant among the Praxic Warlocks are honored with the Cormorant Seal.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Cuirass of the Hezen Lords",
+      "flavor":"\"Slept in the armor last night. Woke to feel my heart stuttering to the pattern of an unknown signal.\"",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Dead Light Wrap",
+      "flavor":"\"Success is not about survival. It is about discovery.\" —Arach Modesta",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Deathsinger's Mantle",
+      "flavor":"Fashioned from war prizes taken in Crota's hellish cosmos.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Desolate Robes",
+      "flavor":"Take your new shape.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Dujiao Shou",
+      "flavor":"\"I believe every theory is true until it's proven otherwise. And sometimes even then.\" —Wen Jie",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Dusk Tread",
+      "flavor":"\"To split knowledge open, to cure its skin, to bind books in its leather…\"",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Eclipse Maw",
+      "flavor":"Applied ontology is the art of convincing things they shouldn't exist.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Elector's Robe",
+      "flavor":"They will know you fight not for yourself, but for the people's will.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Enigma Burn",
+      "flavor":"\"To ignore the the City's peril is to sequester oneself from truth.\" - Pujari, The Transcripts",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Extropy Morph",
+      "flavor":"Observe the beauty of the highest symmetry: all reality unfolded from a single underlying law.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Haliaetus",
+      "flavor":"Crucible variant. Fieldweave strands imbued with healing-protocol nanites.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Harrowed Chasm of Yuul",
+      "flavor":"A clew of writhing things there was also, on that cusp between Light and Darkness.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Heart of the Praxic Fire",
+      "flavor":"\"In that last moment she seemed as wholly luminescent as the Sun, and I wished to be so brave.\"",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Heliopause Robes",
+      "flavor":"The Sun used to give us life. Now, staying near the Sun will be our doom.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Immanent War Robes",
+      "flavor":"Conflict is the mother of reality.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Infinite Lines Robes",
+      "flavor":"\"I saw myself! Slaying the Darkness! That's what I saw!\" —RECORD 344-CHASM-6872",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Iron Breed Vestments",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Iron Companion Vestments",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Iron Regalia Vestments",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"ISTANU-GNT Razor",
+      "flavor":"I am an ISTANU-GNT WEAVE INTEGUMENT, built as a vessel for your might.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Kallipolis Robes",
+      "flavor":"The City's ruler must be a warrior as well as a philosopher.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Keeper's Cloak",
+      "flavor":"\"Be careful in the Prison, Guardian. The rewards are great, but your opponents are not the only ones being judged.\" —Ikora Rey",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Kellbreaker's Cloak",
+      "flavor":"Vengeance offers only lessons in suffering, but there is value in every lesson we learn.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Locus Watcher",
+      "flavor":"The rich fabric conceals Jormungand-coil fieldweave, capable of dangerous power spikes.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Logic Singer",
+      "flavor":"Well-crafted fieldweave armor is more than a defense. It binds the Warlock's will to the Light.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Manifold Seeker",
+      "flavor":"The sawtooth plate houses a teleological Markov engine that operates on the Warlock's Light.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Monolith Bleed IV",
+      "flavor":"\"In a broken fortress at the heart of a poisoned land lies the wish-maker...\"",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Nemesis Plane",
+      "flavor":"Most of the plating on a Warlock's equipment serves as an anchor and energy sink.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Nerigal Savant",
+      "flavor":"Into the void, the spark. From the spark, the fire. After the fire, the void.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Pariah Robes",
+      "flavor":"\"I welcome every challenge, for it only makes me stronger.\" —Parables of the Allspring",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Purifier Robes",
+      "flavor":"\"Fire is the breaking of bonds. Fire is freedom. We must be swift and thorough in our liberation.\"",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Queen's Guard Robes",
+      "flavor":"An Awoken relic from the Reef, marked with the Queen's crown.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Raven Sheath",
+      "flavor":"The matter that makes up Warlock robes has been painstakingly adjusted down to the atomic level.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Robes of No Tomorrow",
+      "flavor":"War is the struggle to exist. Everything real is a combatant.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Robes of the Exile",
+      "flavor":"\"Let the heat melt your body so your soul might flow with the river of time.\" —Parables of the Allspring",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Robes of the Exodus",
+      "flavor":"Humanity has been caged. We will break the bars.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Salicin Fen",
+      "flavor":"\"He lived his fourth life in the swamps of Venus, beneath the shade of a willow tree.\" —Five Lives of Albios",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Samsara",
+      "flavor":"\"It is a lonely thing, to live forever.\" —Alemyr",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Scalpel Wing",
+      "flavor":"The greatest Warlocks understand how little they understand.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Seraph",
+      "flavor":"\"I'm not talking about our lives. I'm talking about what happened between the first one and the new one.\"",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Shroud of the Justicar",
+      "flavor":"The City is divided. We must unite beneath a single will.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Shroud of the Order",
+      "flavor":"The City is divided. We must unite beneath a single will.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Solo Clade",
+      "flavor":"From the ash, a slender sapling grows. Protect it.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Spektar (All Types)",
+      "flavor":"Armor infused with Chroma multi-channel heat sinks.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Starfire Protocol",
+      "flavor":"13.4 billion years ago, the first stars kindled out of darkness, seeding the future of all life.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Symmetry Fang",
+      "flavor":"Proud tournament livery, for the Warlock unafraid of challengers.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Talion Grace",
+      "flavor":"\"He passed out of my sight. But his power left a print in the air, like he'd bruised the world.\"",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Tengu Operant",
+      "flavor":"The vestments of an old gnostic order, sworn to search for an absolute that exists beyond symbols.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Terra Bide",
+      "flavor":"I  won't abide by it.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Unity Clad",
+      "flavor":"You are a lone power, and a part of something greater. A bright particle, and a rising wave.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Vanth Orcus 0A0X",
+      "flavor":"Crucible variant. Massive inertial sinks anchor high-performance weave.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Vector Oath",
+      "flavor":"The drab cloth conceals intricate fieldweave and layers of microscopic machinery.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Vestments of the Seven",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Viper Spine ",
+      "flavor":"There's a story about a serpent selling knowledge. The moral is: always be the serpent.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Voidfang Vestments",
+      "flavor":"\"YOU WILL DREAM OF TEETH AND NOTHING ELSE\" —scratched behind a buckle",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Watchers' Robe",
+      "flavor":"\"'Out of sight, out of mind,' they say. The Speaker wishes this was true.\" —Fractal Scrolls",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Winged Sun Vestments",
+      "flavor":"\"Like a meteor burning until nothing is left but the idea of a Light.\" —Parables of the Allspring",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Wrap of the Fatekiller",
+      "flavor":"Humanity has been caged. We will break the bars.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Temporis Floe IV",
+      "flavor":"Consider entropy. Some say the heat death of the universe will leave us with nothing but cold.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Raku Izumi IV",
+      "flavor":"Crucible Variant. Modified by the Raku group to meet Lord Shaxx's rigorous standards.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"High Command Robes",
+      "flavor":"Power is not a gift. It is a calling.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Eon Tracer Robes",
+      "flavor":"\"Eternities streamed past me like shooting stars…\" —RECORD-449-CHASM-6887",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Endling Robes",
+      "flavor":"We are the last of our species.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Red Miasma Robes",
+      "flavor":"Well, SIVA requires no external power source, so…forever. ~SIVA.MEM.WB007",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Iron Saga Vestments",
+      "flavor":"Thus armed were the Iron Lords of old, in the days after the Collapse.",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Hadron Gale IV",
+      "flavor":"\"A subatomic storm is all the more powerful when it is unobserved.\"",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Days of Iron Raiment",
+      "flavor":"\"When we feared the sun would ne'er on heroes rise again, whose deeds began the new Days of Iron?\" —The New-Forged Song",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Cobra's Vigil Robes",
+      "flavor":"\"If you wish to learn the ways of war, look around you.\" —Parables of the Allspring",
+      "type":"Warlock Chest Armor"
+   },
+   {  
+      "name":"Robes of Triumph",
+      "flavor":"Like a griffin's wings, the winds of victory carry you aloft.",
+      "type":"Warlock Chest Armor"
+   }
+]

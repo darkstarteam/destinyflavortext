@@ -1,0 +1,252 @@
+[  
+   {  
+      "name":"Amethyst Shell",
+      "flavor":"For Ghosts who are fond of the Reef.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Blue Spine Shell",
+      "flavor":"For Ghosts with a sharp tongue.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Bold Red Shell",
+      "flavor":"For Ghosts who aren't afraid to make themselves a target.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Brave Shell",
+      "flavor":"For Ghosts who have been there since the beginning.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Competitive Shell",
+      "flavor":"For Ghosts who stood with their Guardians as they became champions of the Crucible.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Consensus Shell",
+      "flavor":"Ghosts who give testimony before the City's great Consensus often remake their shells in this traditional form.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Consumed Shell",
+      "flavor":"For Ghosts who have found a new shape.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Crimson Shell",
+      "flavor":"For Ghosts who want a little glamour.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Dread Explorer Shell",
+      "flavor":"For Ghosts who scouted the Dreadnaught and lived to tell the tale.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Foundry Shell",
+      "flavor":"City's artisans welcome the deep memories and painstaking finesse of the Ghosts.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Frontier Shell",
+      "flavor":"Tough, rugged, and defiantly colored - ready to brave the high frontier. Ghosts can self-modify at will.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Generalist Shell",
+      "flavor":"Born from the Traveler, built of machinery and Light, the Ghost is your companion and faithful guide.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Intrusion Shell",
+      "flavor":"Rigged for eavesdropping, surveillance, and intrusion into unfriendly networks. Ghosts can self-modify at will.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Iron Shell",
+      "flavor":"For Ghosts who are forged in battle.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Ishtar Shell",
+      "flavor":"For Ghosts who have forged new paths on Venus.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Joyride Shell",
+      "flavor":"For Ghosts that like to feel the wind on their casings.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Kingslayer Shell",
+      "flavor":"For Ghosts who were there when Oryx fell.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Mare Cognitum Shell",
+      "flavor":"For Ghosts who have forged new paths on the Moon.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Meridian Shell",
+      "flavor":"For Ghosts who have forged new paths on Mars.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Metropolitan Shell",
+      "flavor":"For a Ghost of the Last City.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Pale Dawn Shell",
+      "flavor":"For Ghosts who trust in the Light.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Purple Spine Shell",
+      "flavor":"For ghosts with a \"prickly\" personality.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Pursuer Shell",
+      "flavor":"For Ghosts who are always chasing the next challenge.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Questing Shell",
+      "flavor":"For Ghosts who love adventure.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Redux Shell",
+      "flavor":"For Ghosts who favor a new take on a classic look.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Scholar Shell",
+      "flavor":"For Ghosts who have contributed to the City's knowledge.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Shipwright Shell",
+      "flavor":"Sometimes the best way to troubleshoot a faulty NLS drive is to dive in and get your shell dirty.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Skywatch Shell",
+      "flavor":"For Ghosts who have forged new paths in the Cosmodrome.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Standard Shell",
+      "flavor":"For Ghosts who prefer the classics.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Sugary Shell",
+      "flavor":"For Ghosts who enjoy the sweet taste of Crucible victories.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Sunlit Shell",
+      "flavor":"For Ghosts who believe.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Turquoise Shell",
+      "flavor":"For Ghosts with bright personalities.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Vanguard Shell",
+      "flavor":"This shell marks the Ghost as a trusted instrument of the Guardian Vanguard.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Vanguard Shell",
+      "flavor":"For Ghosts who have proven themselves as leaders in the field time and time again.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Verdant Shell",
+      "flavor":"For Ghosts looking to brighten their Guardian's day.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Weathered Shell",
+      "flavor":"For Ghosts who have braved the elements.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Winter Sky Shell",
+      "flavor":"For Ghosts who feel blue.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Amalgam Shell",
+      "flavor":"For Ghosts whose Guardians have stood against SIVA.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Bellicose Shell",
+      "flavor":"For Ghosts who profess allegiance to the Future War Cult.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Crucible Shell",
+      "flavor":"For Ghosts whose Guardians have undergone Lord Shaxx's strenuous training.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Diaspora Shell",
+      "flavor":"For Ghosts who believe that Earth is a Dead Orbit.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Exile Shell",
+      "flavor":"For Ghosts who follow the burning path of Osiris.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Infection Shell",
+      "flavor":"For Ghosts who have come in contact with ancient powers.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Ironwolf Shell",
+      "flavor":"For Ghosts whose Guardians have acquitted themselves beneath the Iron Banner.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Senator Shell",
+      "flavor":"For Ghosts who envision a Last City ruled by a New Monarchy.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Towerwatch Shell",
+      "flavor":"For Ghosts who serve the Vanguard.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Ghost Ghost",
+      "flavor":"For Ghosts who prefer to go in disguise.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Deviled Ghost",
+      "flavor":"For Ghosts who taste better with a sprinkle of paprika.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Templar Shell",
+      "flavor":"For Ghosts who have traveled through time and space.",
+      "type":"Ghost Shell"
+   },
+   {  
+      "name":"Ascendant Shell",
+      "flavor":"For Ghosts who have looked into an Oversoul and lived.",
+      "type":"Ghost Shell"
+   }
+]

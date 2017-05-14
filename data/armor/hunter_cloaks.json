@@ -1,0 +1,737 @@
+[  
+   {  
+      "name":"All My Victims Cloak",
+      "flavor":"Made from the torn cloaks of other Hunters. Other, lesser Hunters.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"AOS#Cryptid Cloak",
+      "flavor":"\"Out there? All that is a job. Here, in the Crucible - this is a life.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Arc Flayer Mantle",
+      "flavor":"A mantle of woven Arc energy strings taken from the Psion Flayer Kolar.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Aspriet Cloak",
+      "flavor":"\"Fly high. Strike hard. Repeat.\" —Ain Suhu-ässä",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Astrolord Cloak",
+      "flavor":"History's lords have ever painted the future in tones of fire and shadow.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Ayane Takanome's Cloak",
+      "flavor":"Ayane Takanome was no Guardian, but the City still remembers how she and her Rangers secured the refugee roads.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Bladedancer's Cloak",
+      "flavor":"\"These blades…they're an extension of your arm, your reflexes, your Light.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Bloodstained Hood",
+      "flavor":"\"Those Jaguar militant types seem a little extreme.\" —a person of inadequate ferocity",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Brawler's Cloak",
+      "flavor":"Hunters may be averse to centralized organization, but nothing is more fearsome than a coordinated stalk.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Buckaroo's Cloak",
+      "flavor":"Meanwhile, back at the ranch...",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Chaos Cloak",
+      "flavor":"There is no doubt that our future will be won in battle.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Atropos",
+      "flavor":"One boast goes, \"When Cabal see my cloak, they flee.\" Another goes, 'Look at all these dead Cabal!'",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Desolation",
+      "flavor":"Shield yourself from the night.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Dredgen Yor",
+      "flavor":"Before he took Pahanin's Light, Dredgen Yor ruled the Crucible, the notorious Thorn at his side.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Hidden Agendas",
+      "flavor":"\"Tell a Titan only a madman would go. Tell a Warlock it's too complex.\" - Pahanin Errata",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Immanent War",
+      "flavor":"A new dawn breaks. Feel how it burns.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Keen Eyes",
+      "flavor":"\"My ancestors were born beyond the Walls, on the long march to the City.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of No Tomorrow",
+      "flavor":"Tomorrow will be as yesterday was. There will always be a battle to be won.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Oblivion",
+      "flavor":"Our salvation lies ahead of us. Go forth. There is nothing left to leave behind.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Order",
+      "flavor":"The City prospers on our field of order and justice.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Perception",
+      "flavor":"\"Have you walked the ruins? Seen the machines born from the lightning? We face a mighty foe.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Ragged Fortune",
+      "flavor":"Sometimes a Hunter will lose a cloak in a bet. It's poor form to replace it right away.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Repair",
+      "flavor":"We'll carve our future through the will of the people.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Reverence",
+      "flavor":"The stylized twin arc represents the world beneath the Traveler.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Seven Bones",
+      "flavor":"\"Let this bone I reaped in battle give me strength to reap again.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Solitude",
+      "flavor":"The tattered remnants of a lost veteran's cloak, handed down as a reminder and a warning.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Taniks",
+      "flavor":"He of the endless troves of arms, and legs, and hearts, and lungs, and…",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Tekmor",
+      "flavor":"When an old Hunter wears a simple cloak, ask yourself where she got it, and what the cloth remembers.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Apsides",
+      "flavor":"\"The Hunter creed calls us outward. And what do we find out there? Hard vacuum. Respect it.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Cosmonaut",
+      "flavor":"Vladimir Komarov helped build and fly Earth's first ships. He gave his life to the frontier.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Dusktorn",
+      "flavor":"\"I'll remember the Light. Will it remember me?\" - Sai Mota",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Exile",
+      "flavor":"\"Was he exiled? Did he leave willingly? Was the parting angry? Peaceful? Is he dead? Alive? In a word: yes.\" —Sister Faora",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Exodus",
+      "flavor":"Find the way.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Hidden",
+      "flavor":"\"The shadows dance quickly among the dust. Make them your ally.\" - Eris",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Ironsworn",
+      "flavor":"\"Those who find victory in the Crucible will win salvation for our City.\" - Iron Banner maxim",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Justicars",
+      "flavor":"In pursuit of the City's safety, our jurisdiction is unlimited.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Leopard",
+      "flavor":"Legend says that no animal was more difficult to hunt than the leopard.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Mantis",
+      "flavor":"\"Patient camouflage and precise violence. No wonder they survived.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Pariah",
+      "flavor":"\"I wear his symbols proudly in the City, to remind them that Osiris is not truly gone.\" —Fractal Scrolls",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Reefrunners",
+      "flavor":"\"The child asked me if the Awoken were blue because they were cold. Then he called my cloak a blanket.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Rising",
+      "flavor":"The New Monarchy is the aegis that guards humanity.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Shadowjacks",
+      "flavor":"Twilight Gap highlighted the desperate need for proactive strikes to keep the enemy off balance.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Shadowsmiths",
+      "flavor":"\"It's already being handled.\" - Cayde-6, in an emergency session of the City Consensus",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Sixth Reign",
+      "flavor":"One throne beneath the howling dark.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Skypillar",
+      "flavor":"Some suggest Saint-14's legendary vigil was enabled by a few roaming Hunters and their bloody culls.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Sojourn",
+      "flavor":"The stars are calling.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Unborn",
+      "flavor":"\"Child asked me if I was a clock. I told her yes. I was keeping time until the world would be safe for her.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Unfactorable",
+      "flavor":"\"Could the Vex build a model of us? A simulated City, a whole simulated Earth, adrift in the ocean of the Vex intellect?\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Unflinching",
+      "flavor":"Anyone who takes the pathway into orbit will never want to leave it. Challenge the universe.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloud Walker Tribute",
+      "flavor":"A cloak which bears the emblem of the Cloud Walkers, the pioneers of the first Exodus.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Competitor Match",
+      "flavor":"\"Instinct tells you to cherish victory, but defeat holds all the lessons.\" —Lord Shaxx",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cosmic Joke",
+      "flavor":"An infamous cloak, scavenged off the corpses of its owners numerous times on the frontier.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cult/Trinary Star",
+      "flavor":"The mark of the Trinary Star, the hidden cult who curse the Traveler's light.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Darkhollow Mantle",
+      "flavor":"\"To even exist in their space is to constantly demand your own existence.\" —Eris Morn",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Dead Light Cloak",
+      "flavor":"\"Beyond the Reef. Beyond the Nine.\" —Arach Jalaal",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Dead Zone Revolution",
+      "flavor":"With each Dead Zone charted comes a new cloak pattern from the Hunter elite.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Devils' Cloak",
+      "flavor":"\"There are some bargains worthy of any risk.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Devils' Disguise",
+      "flavor":"Hide your face.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Drifter's Cloak",
+      "flavor":"Cut from City textile and worn as a mark of pride by Hunters with big dreams.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Dustwalker Cloak",
+      "flavor":"A good survival cape can be used as a hull patch, bandage, tourniquet, pressure seal, picnic blanket...",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Dynamo Cloak",
+      "flavor":"\"Your missions: protect the City. Look better than Warlocks. But don't look like you're trying.\" - Pahanin Errata",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"End Unsung",
+      "flavor":"A humble cloak worn in tribute to the Guardians who met their end alone in the wild.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Extropic Cloak",
+      "flavor":"\"Child came for our robes today. He said the Awoken Hunters needed them, as they were cold.\" —Warlock doorlog",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Fieldcraft Hood",
+      "flavor":"Even vacuum-ready field wire armor should be kept out of the rain. Rig a hood.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Fixer Cloak",
+      "flavor":"I solve problems.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Frumious Cloak",
+      "flavor":"Tell the Warlocks your cloak is frabjous. They respect words they don't understand.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Ghost Angel Cloak",
+      "flavor":"We are an army of the chosen dead.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Grinder's Cloak",
+      "flavor":"\"First, check your cloak for damage. Second, inspect yourself for major wounds.\" - Handbook of (Un)Controversial Advice",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Gunslinger's Cloak",
+      "flavor":"In the dark days before the Last City, all a Hunter had was the Light and a steady aim.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"H_LD Starwinder Cloak",
+      "flavor":"As the cloak frays, it reveals the ancient works of Li Qingzhao, carved in chips of bone.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Harbinger Hood",
+      "flavor":"A pattern inspired by the legendary Awoken weapon.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Hardcase Cloak",
+      "flavor":"If you learn nothing else, learn this: when a Hunter takes up the cloak of a dead comrade, this is a vow.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Heliopause Cloak",
+      "flavor":"\"Once, deep space explorers were seen as heroes. Now, for suggesting humanity should look beyond this system, some call us cowards.\" —Arach Parnell",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Highest Squidder",
+      "flavor":"\"Are you squidding me?\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Hood of the Night Sun",
+      "flavor":"\"I am not a dashing rogue. I am not a free spirit. I am a claw in the throat of the dark, and I will draw blood.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Hood of the Spawn",
+      "flavor":"\"Toland cracked the rune, or led us to believe he did. I told him it was either that, or the Hive have a hell of a recipe for beer.\" - Omar Agah",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Hustler's Cloak",
+      "flavor":"They say you will never find an impractical Hunter. But what do 'they' know about dashing cloaks?",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Infinite Lines Cloak",
+      "flavor":"...pulled the subject from the Device he appeared frozen. No vitals, but the body hasn't rotted either. —RECORD 340-CHASM-NULL",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Iron Camelot Cloak",
+      "flavor":"Forged in remembrance of Gheleon, he who was a true Guardian to the people.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Journey Hood",
+      "flavor":"It's not the destination that matters.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Kallipolis Mantle",
+      "flavor":"The leader we need is among us, not above us.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Kell's Cloak",
+      "flavor":"\"Here's my plan to be Kell. Fallen seem to respect violence and big capes. I'm really violent, and I found this cape.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Kellhunter's Hood",
+      "flavor":"The strongest lead the pack.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Kings' Cloak",
+      "flavor":"\"Of which world? All of them.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Kings' Mantle",
+      "flavor":"Fit for royalty.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Lead Scout's Cloak",
+      "flavor":"\"To clear mines: step on mine. Wait for Ghost revival. Step on mine 2. Wait for Ghost. Step on - \"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Legend of Six Coyotes",
+      "flavor":"A cloak fashioned after the legendary Hunters who first scouted beyond the Cosmodrome wall.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Long Tomorrow 9G",
+      "flavor":"\"You didn't tell me this treasure was in the red mists of Murmuring Rock. Count me out.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Makeshift Scarf",
+      "flavor":"The Hunter's cloak speaks to their personality. Your Ghost scrounged up this tough synthetic wrap, marked with an ancient double-headed eagle.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Mantle of Efrideet",
+      "flavor":"Stand in the fire until there is nothing left to burn away.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Mantle of Gheleon",
+      "flavor":"You are an army, an armada, a force unto itself.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Mantle of Perun",
+      "flavor":"Your mark be made, by thunder's crack or lightning's strike.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Mantle of Sublime Light",
+      "flavor":"A trial by fire, the purpose of which is transformation.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Maverick's Cloak",
+      "flavor":"\"Bright colors are Mother Nature's way of saying 'don't mess with me.' We like a lot of her ideas.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Melting Point",
+      "flavor":"In the Crucible, you'll find yours.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Nagari Cloak",
+      "flavor":"In this age of Light and fire, simple skills still endure. Hunters embroider signs of war and loss on their cloaks.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Neuroghast Cloak",
+      "flavor":"To control your opponents, you must first control your own body.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Night Rain Cloak",
+      "flavor":"Hunters constantly tweak and upgrade their armor. A cloak is the best mark of recognition.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Nightmask Cloak",
+      "flavor":"\"They say the Crucible is preparation for the frontier. I see it the other way around.\" - Ain Suhu-ässä",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Nightstalker Cloak",
+      "flavor":"Live and die by the draw of a bow.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Nightstalker's Cloak",
+      "flavor":"\"We are the rangers, the keen-eyed scouts who stalk the Darkness where it dwells.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Not A Fallen Hood",
+      "flavor":"Friendly fire is as deadly as any Fallen skiff, so some Hunters choose cloaks for pure visibility.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Octopus Cloak",
+      "flavor":"\"If human extinction seems imminent, try to relax. You're just giving cephalopods a shot.\" - Pahanin Errata",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"On the Marsh",
+      "flavor":"Swamp camouflage is the hottest fashion these days.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Ones and Zeroes",
+      "flavor":"Maybe that's all we really are.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Pennant Cloak",
+      "flavor":"Guardians often band together and form close-knit teams to achieve victory in the Crucible.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Pilgrim's Cloak",
+      "flavor":"How many fell on the road to the City? How few made the last leg of the journey with a Ghost over their shoulders?",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Pleiades Hood",
+      "flavor":"The enemy sees beyond visual light, so cloth camouflage is difficult. No sense looking drab.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Quantum-Phoenix Blue",
+      "flavor":"A pattern born from waveform flux in the probability kilns of the City.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Queen's Arrow",
+      "flavor":"City artists created this pattern to honor the Queen of the Awoken.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Racer's Scarf",
+      "flavor":"All your rivals will see are your contrails in the distance.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Red Eclipse Cloak",
+      "flavor":"Still we shine.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Rihla Mantle",
+      "flavor":"The City is hungry for tales of your exploits.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Rustworn Cloak",
+      "flavor":"It's been stained and torn by old metal. But whatever it went through, it survived.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Shattered Vault Cloak",
+      "flavor":"The machines are not invincible.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Shroud of Flies",
+      "flavor":"They gather where death steps.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Silent Specter",
+      "flavor":"We linger in the wild, stalking and exploring without a sound.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Solar Flayer Mantle",
+      "flavor":"A mantle of woven Solar energy strings taken from the Psion Flayer Vatch.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Spektar Aspriet Cloak",
+      "flavor":"\"Fly high. Strike hard. Repeat.\" —Ain Suhu-ässä",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Spektar Cloak",
+      "flavor":"More than one color stains the battlefield.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Spektar Heliopause Cloak",
+      "flavor":"If only Darkness lies beyond the heliopause, we have already lost.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Spektar Infinite Cloak",
+      "flavor":"…pulled the subject from the Device he appeared frozen. No vitals, but the body hasn't rotted either. —RECORD 340-CHASM-NULL",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Spektar Kallipolis Cloak",
+      "flavor":"Not the past, not the future. The present is where we should turn our eyes.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Squid Pro Quo",
+      "flavor":"\"Yes, my love for cephalopods is well documented.\" —Pahanin Errata",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Strength of the Pack",
+      "flavor":"A pattern worn by Ana Bray during the fateful battle of the Twilight Gap.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Takanome Ranger's Hood",
+      "flavor":"In the darkest days of the Dark Age, camouflage was our only defense.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"The Ishtar Dilemma",
+      "flavor":"Never did answer Sundaresh's question, now did we?",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Tracker's Wrap",
+      "flavor":"This cut-down cloak marks the bearer as a rising Hunter, newly reborn and eager to roam.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Trailblazer's Hood",
+      "flavor":"You're the first! At least, the first to live to tell about it.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Unbelievably Old Cloak",
+      "flavor":"Look at all that...character.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Vaquero's Cloak",
+      "flavor":"Never did like being in one place for too long.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Venom of Ikaheka",
+      "flavor":"The sigil of the snake, said to represent the fluid lethality of a true Hunter.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Void Flayer Mantle",
+      "flavor":"A mantle of woven Void energy strings taken from the Psion Flayer Numoc.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Warden's Hood",
+      "flavor":"\"I always target Taken Psions first. That way I use one bullet instead of 20.\" —Cayde-6",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Wetwork Cloak",
+      "flavor":"[this passage intentionally redacted]",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Wolfswood Cloak",
+      "flavor":"In our darkest hour, nine Iron Wolves emerged from the ruins.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Wolves' Cloak",
+      "flavor":"\"Run with me, we've new trails to stalk.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Nanomania Cloak",
+      "flavor":"Habitats, equipment, repairs of all kinds—all of these things can be made from one material. ~SIVA.MEM.WB003",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Fast Resolve",
+      "flavor":"\"Don't second-guess yourself.\" —Ain Suhu-ässä",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Novgorod Cloak",
+      "flavor":"\"A Hunter back from a quest? Now that's the best storyteller in the galaxy.\" —Cayde-6",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Eon Tracer Cloak",
+      "flavor":"\"We trace the history of war throughout the ages.\" —Lakshmi-2",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"High Command Cloak",
+      "flavor":"\"The City demands a leader. Now, before it is too late.\" —Executor Hideo",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Endling Cloak",
+      "flavor":"\"I am haunted by the Endling, the last living human.\" —Arach Jalaal",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Idylls of the Iron Lords",
+      "flavor":"\"The tale of the Iron Lords is not over.\" —Lord Saladin Forge",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Iron Saga Cloak",
+      "flavor":"\"The worlds still need the Iron Lords.\" —Lord Saladin",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Lion's Vigil Cloak",
+      "flavor":"\"When we hunt together, we cannot fail.\" —Fractal Scrolls",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Legends",
+      "flavor":"The cloak of a Hunter who's seen and done it all and lived to tell the tale.",
+      "type":"Hunter Cloak"
+   }
+]

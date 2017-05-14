@@ -1,0 +1,417 @@
+[  
+   {  
+      "name":"Admonisher III ",
+      "flavor":"Executor-issued rocket launcher for loyal supporters of the New Monarchy.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Affentheater C/L-A ",
+      "flavor":"Our enemies watch us huddle and just laugh. But it's our show now.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Baron RS/1",
+      "flavor":"Shoulder-fired devastation. The Baron is a general-purpose unguided explosive launcher.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Baron RS/2",
+      "flavor":"Shoulder-fired devastation. The Baron is a general-purpose launcher; this one bears the inscription 'FULL STOP' on the trigger guard.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Baron RS/2a",
+      "flavor":"Shoulder-fired devastation. The Baron RS/2a is a general-purpose launcher that was used as a testbed for later development.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Big Rig XXL ",
+      "flavor":"This is my truck.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Bishop RS/5 ",
+      "flavor":"The study of Golden Age relics has given birth to fearsome, adaptable weapons.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Breaker SA/2 ",
+      "flavor":"Shoulder-mounted devastation. Like its cousin the Butcher, the Breaker puts raw damage first.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Breaker SA/3",
+      "flavor":"The SA/3 Breaker answers a requirement for a hard-hitting launcher to defeat new varieties of Fallen armor.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Butcher SA/2 ",
+      "flavor":"Shoulder-mounted devastation. The Butcher's heavy payload delivers catastrophic damage.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Butcher SA/3",
+      "flavor":"Heavy damage. To the point. Caution is advised. Enjoy.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Ceres Lost BMJ-46 ",
+      "flavor":"A rocket launcher, modified by Dead Orbit's superb technicians and specialists.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Chamberlain SA/5 ",
+      "flavor":"A high-end general-purpose launcher, built for Guardians to re-rig in the field.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Choleric Dragon SRT-49 ",
+      "flavor":"What you'd call a 'fiery' personality.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Crown Prince SA/3",
+      "flavor":"A well-rounded, high-end launcher, eager to follow its monarch into battle.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Crown Princess SA/3 ",
+      "flavor":"A flexible, responsive launcher, ready to take its rightful place.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Dauphin RS/1",
+      "flavor":"Packed to the brim with next-generation explosives, it does not suffer failure.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Dauphine SA/4",
+      "flavor":"A heavy-damage weapon, impatient for a turn in the sun.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Deacon RS/2",
+      "flavor":"Shoulder-mounted devastation. A general-purpose launcher, the Deacon was designed to kill Fallen and their Walkers.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Deacon RS/3 ",
+      "flavor":"The RS/3 Deacon is a tactical upgrade to the flexible Deacon series.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Despot SA/5 ",
+      "flavor":"A high-end general-purpose launcher, built for oppression through controlled devastation.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Disruptor 5000 ",
+      "flavor":"A general-purpose launcher built on the skeleton of a recovered Golden Age design.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Dowager SA/3 ",
+      "flavor":"A devastating mechanism of raw destructive power.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Dragon's Breath",
+      "flavor":"Burn the world. Burn it all.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Duchess RS/5 ",
+      "flavor":"Bristling with sophisticated tactical systems, the RS/5 dictates the shape of the battle.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Elulim's Frenzy ",
+      "flavor":"\"Hungry...hungry...so hungry!\" —Elulim of the Eimin-Tin",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Exodus Plan RS/1 ",
+      "flavor":"A high-impact weapon, modified by Dead Orbit's superb technicians and specialists.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Gjallarhorn ",
+      "flavor":"\"If there is beauty in destruction, why not also in its delivery?\" - Feizel Crux",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Happy Boomer ",
+      "flavor":"You just gotta do what you love.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Harbinger ",
+      "flavor":"A general-purpose Vanguard-issue rocket launcher. Apprentices at the GNT collaborative rebuild Barons into Harbingers.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Harrowed Elulim's Frenzy ",
+      "flavor":"\"Hungry...hungry...so hungry!\" —Elulim of the Eimin-Tin",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Herald SA/5 ",
+      "flavor":"Announce the coming of the Light with a steady roar.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Hezen Vengeance",
+      "flavor":"The Hezen Axis Mind is tireless and infinite. While it cannot be stopped... it can be paused.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Hunger of Crota",
+      "flavor":"Would you defy Me? I am the eater of hope.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Jester SA/2 ",
+      "flavor":"Shoulder-mounted devastation. The Jester takes its job very seriously - it's designed to put munitions dead on target.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Jester SA/3",
+      "flavor":"The SA/3 Jester maintains the Jester series' focus on precise delivery, but with expanded capability.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Lacerta ",
+      "flavor":"A Guardian relic named for the lizard of the night sky.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Marquise RS/1 ",
+      "flavor":"An implacable overlord of controlled devastation.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Minstrel RA/4 ",
+      "flavor":"No instrument produces a sweeter song than this one.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Oligarch SA/3 ",
+      "flavor":"The roar from its mouth shouts your unyielding power.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"One Way Ticket 000 ",
+      "flavor":"A vacation at the ol' triple zero.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Overlord SA/5 ",
+      "flavor":"For those who seek the ruin of their enemies, the SA/5 variant Overlord is the answer.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Painted Camelot SA/4 ",
+      "flavor":"A hard-hitting Crux/Lomar rocket launcher, earned through glory in the Crucible.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Pax Totalus EPR8 ",
+      "flavor":"Better living through focused fire.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Primed Khan RS/4",
+      "flavor":"A hard-hitting Crux/Lomar rocket launcher, earned through glory in the Crucible.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Queen Mother SA/4 ",
+      "flavor":"From unflinching defense to vicious attack, this battle-tested war machine can do it all.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Radegast's Fury ",
+      "flavor":"A rocket launcher forged in fire by the Lords of the Iron Banner.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Seneschal RS/1",
+      "flavor":"A roaring implement of destruction, eager to do its lord's bidding.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Silvered Warmonger SA/4 ",
+      "flavor":"A devastating Crux/Lomar launcher, earned through glory in the Crucible.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Steel Oracle Z-11 ",
+      "flavor":"\"I foresee fire. Fire and screams.\" \"You would, mate. You're a rocket launcher.\"",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Sultan SA/5 ",
+      "flavor":"Roaring devastation in a sophisticated can.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"SUROS BWN-48",
+      "flavor":"Balanced. Explosive. Engineered. SUROS.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"SUROS JLB-42 ",
+      "flavor":"Balanced. Brutal. Bombastic. SUROS.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"SUROS JLB-47",
+      "flavor":"Concussive. Distinctive. Impressive. SUROS.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"SUROS TSR-10 ",
+      "flavor":"Suros prototype. Use against high-ranking enemies to field data for the Suros research department.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"The Ash Factory",
+      "flavor":"Blot out the sun.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"The Cure ",
+      "flavor":"A rocket launcher named and sanctified by the leaders of the Future War Cult.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"The Dreammaker",
+      "flavor":"An Awoken gift from the Reef, marked with the Queen's crown.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"The Dreamwaker ",
+      "flavor":"The design for this powerful weapon came to Techeun Shuro in a dream.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"The Fear ",
+      "flavor":"A high-impact weapon, augmented, named and sanctified by the leaders of the Future War Cult.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"The Good Doctor ",
+      "flavor":"Let's make a house call.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"The Hothead ",
+      "flavor":"Think of it as a weaponized temper tantrum.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"The Last Rebellion ",
+      "flavor":"Insurrection will not be tolerated.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"The Nightmare ",
+      "flavor":"The Techeun dream of their lost sisters.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"The Smolder ",
+      "flavor":"Make 'em swoon.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"The Tamarind ",
+      "flavor":"\"I will not find shade here.\" —Parables of the Allspring",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"The Vertigo ",
+      "flavor":"A high-impact weapon, named and sanctified by the leaders of the Future War Cult.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Tomorrow's Answer",
+      "flavor":"Could you please repeat the question?",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Tormod's Bellows",
+      "flavor":"A high-impact weapon, forged in fire by the Lords of the Iron Banner.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Truth",
+      "flavor":"\"...is where you seek it.“ —Lomar",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Unfriendly Giant ",
+      "flavor":"Unfriendly is really too harsh. He's just a bit shy.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Uppercut Payload ",
+      "flavor":"Knee shaker/Nose breaker.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Valedictorian 9-44 ",
+      "flavor":"Send that one to the front of the class",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Wastelander V2V ",
+      "flavor":"Nothing good can come of this.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Whisper C/L-A ",
+      "flavor":"This portable cataclysm bears its name with a certain irony.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Gjallarhorn",
+      "flavor":"\"If there is beauty in destruction, why not also in its delivery?\" —Feizel Crux",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"SOUND AND FURY~",
+      "flavor":"replicate caution replicate overheating replication destabilization imminent~ SUROS.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Steel Oracle Z-11",
+      "flavor":"\"I foresee fire. Fire and screams.\"  \"You would, mate. You're a rocket launcher.\"",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"The Titanium Orchid",
+      "flavor":"Forged in honor of Jolder, she whose grace was surpassed only by her strength in arms.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Disassembly Required",
+      "flavor":"Step 1. Point at enemy. Step 2. Disassemble enemy.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Something Wicked",
+      "flavor":"It's coming this way.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"The Warpath",
+      "flavor":"A high-impact weapon, named and sanctified by the Future War Cult's leaders.",
+      "type":"Rocket Launcher"
+   },
+   {  
+      "name":"Unto Dust 00",
+      "flavor":"A rocket launcher, modified by Dead Orbit's superb technicians and specialists.",
+      "type":"Rocket Launcher"
+   }
+]

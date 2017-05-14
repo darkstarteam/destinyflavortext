@@ -1,0 +1,487 @@
+[  
+   {  
+      "name":"Agema",
+      "flavor":"It is one thing to stand against enemy fire, and quite another to keep your bearings through it.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Agema White",
+      "flavor":"The Sun Legion order donated this helmet for the use of newly reborn Titans.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"An Insurmountable Skullfort",
+      "flavor":"BRAINVAULT Sigma-ACTIUM-IX Cranial Dreadnought (Invincible Type)",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Arihant ",
+      "flavor":"A story of Saint-14 holds that, when grappling with a great Kell, he caved in the Fallen's head with one blow from his own.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Armada",
+      "flavor":"\"Integrated WEXFORD com set. Seemed effective. Removed in favor of more armor.\" - notes on the armor pattern",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Astrolord Helm",
+      "flavor":"The fiercest contest lies ahead. This is irrefutable.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Battlecage of Kabr",
+      "flavor":"Kabr fought the Vex alone. But somehow they didn't kill him.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Bright Ward",
+      "flavor":"The warriors' helms gleamed bright in the sunlight.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"BRONTIOS",
+      "flavor":"This helmet's exterior speakers have adjustable volume. Your battle cries will break your enemy's eardrums.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Circuit Keeper",
+      "flavor":"Don't outthink your opponents. Outfly them.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Commando Custom",
+      "flavor":"The Crucible variant of this helmet pattern removes strategic threat monitors to reduce mass and save power.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Commando",
+      "flavor":"\"The best defense is a good offense. We are both shield and sword.\" —Holborn",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Crash Helmet",
+      "flavor":"\"What's a few broken bones between friends?\" —Marcus Ren",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Cultist's Helm",
+      "flavor":"The fiercest contest lies ahead. This is irrefutable.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Darkblade Helm",
+      "flavor":"\"Alak-Hul, the Darkblade, is laid low. And thus Vell Tarlowe is avenged.\" —Eris Morn",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Dead Light Helm",
+      "flavor":"\"Listen. Some stars won't stop calling to us.\" —Arach Linde",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Desolate Helm",
+      "flavor":"A smell of ozone. A distant scream. A feeling of dread.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"DURGA-GNT",
+      "flavor":"I am a DURGA-GNT SKULL BUCKET. Please bucket your skull before entering combat.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Duskrender",
+      "flavor":"He died as he lived: a mighty shield against the Darkness.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Elector's Casque",
+      "flavor":"This we pledge: to die for your right to be heard.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Empyrean Bellicose",
+      "flavor":"This barely understood Golden Age technology once held aloft the floating gardens of Pomona Mons. Now, it's stopping bullets.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Eternal Warrior",
+      "flavor":"Absolute, unflinching resolve.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Exodus Helm",
+      "flavor":"The enemy stands between us and our salvation. Open the way.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Fieldplate",
+      "flavor":"Fieldplate's iconic domed helmet minimizes shot traps.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Firebreak",
+      "flavor":"The trick isn't landing the headbutt - it's disengaging when you get stuck.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Garuda",
+      "flavor":"\"You won't see us again. We'll forge a new path.\" —Lilavati-12",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Gatewatch",
+      "flavor":"An armored helmet protects against fragmentation and gunshot, galvanized by the Titan's own Light.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Golden Bull Mask",
+      "flavor":"\"A sacrifice is required.\" —Parables of the Allspring",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Gwalior",
+      "flavor":"The abstract etching on the interior recalls Earth's great fortresses. Do not admire during combat.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Harrowed War Numen's Crown",
+      "flavor":"Show them you can contain multitudes, and your interiority will spawn nightmares.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Heliopause Helm",
+      "flavor":"If only Darkness lies beyond the heliopause, we have already lost.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Helm of Inmost Light",
+      "flavor":"\"The light shines brightest in those it consumes.\"",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Helm of No Tomorrow",
+      "flavor":"The fiercest contest lies ahead. This is irrefutable.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Helm of Saint-14",
+      "flavor":"\"He walked out into the demon light. But at the end he was brighter.\" - Paean to Saint-14",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Helm of the Exile",
+      "flavor":"Don't you find it strange that the one called The Speaker rarely has anything useful to say?\" —Sayings of the Disciples",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Helm of the Pariah",
+      "flavor":"\"The sun must set before it will rise again.\" —Parables of the Allspring",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Helm of the Seven",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Helmet of the Jade Rabbit",
+      "flavor":"\"There is a precision in speed. The slightest shift can result in victory…or end in disaster.\" —Lord Shaxx",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Hesperos",
+      "flavor":"At the dawn of the Golden Age, the Hesperonauts were the first to descend into Venus's boiling mists.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Highlander",
+      "flavor":"Tradition influences Titan mark and armor design alike. The price of error could be extinction, so proven technique dominates.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Holdfast",
+      "flavor":"The blind stare of duty.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Illyrian",
+      "flavor":"Some accuse the Firebreak orders of rabid, mindless aggression. But their rabid aggression is quite deliberate.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Immanent War Helm",
+      "flavor":"Helmets can't protect against attacks from within.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Infinite Lines Helm",
+      "flavor":"\"I saw Darkness. No Light, no Earth, no air. Only Darkness. I...I can't breathe...\" —RECORD 342-CHASM-6827",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Iron Breed Great Helm",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Iron Camelot Helm",
+      "flavor":"Forged in remembrance of Silimar, he who was the Last City's first wall.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Iron Companion Helm",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Iron Regalia Great Helm",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Ithacan",
+      "flavor":"Why do they always assume Titans aren't clever?",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Jovian Guard",
+      "flavor":"Our debt to the Reef and its Queen will not be forgotten.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Justicar's Casque",
+      "flavor":"Enough talk. The time has come for action.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Kallipolis Crown",
+      "flavor":"Not the past, not the future. The present is where we should turn our eyes.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Kellslayer's Helm",
+      "flavor":"They are pirates and scavengers, picking at all we were...all we are. I take great pleasure in picking back.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Knight ",
+      "flavor":"Older military doctrines derided survivability as a lesser cousin to firepower and aggression. They did not endure.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Lightmail",
+      "flavor":"Fabricated by your Ghost with available mass, this basic armor is very thin on plating.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Molniya Custom T3",
+      "flavor":"\"The blind face stared down at me. The only light came from ricochets sparking off her brow.\"",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Molniya",
+      "flavor":"Leave all doubt behind.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Momentum Shield",
+      "flavor":"Many will fly. Only one will win.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Monitor",
+      "flavor":"What's the largest, fastest, most lethal thing you've ever stopped with your head?",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Murvaux",
+      "flavor":"\"Gunnvor, the Dawncaller. Gave her last full measure at the Ocean of Storms.\" —The Last Stands of First Pillars",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"MYCENAE",
+      "flavor":"This helmet must be centuries old. Smells like it, anyway.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Objekt 959 Helm",
+      "flavor":"The wee little antenna is always getting shot off.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Oblivion Helm",
+      "flavor":"The enemy stands between us and our salvation. Open the way.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Order's Casque",
+      "flavor":"Enough talk. The time has come for action.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Pacorus",
+      "flavor":"\"I promise, my son, I will avenge you.\"",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Pandion",
+      "flavor":"Crucible variant. Microscopic layers of rubber and synthetic fiber provide cutting-edge defense.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Queen's Guard Helm",
+      "flavor":"\"Show me all that I have yet to rule.\"",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Raku Crucible Type",
+      "flavor":"Crucible custom. Plate lining provides constant transcranial magnetic stimulation to enhance alertness.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Raku Fulcrum",
+      "flavor":"Crucible custom. Ambient subsonics help calibrate reflex response.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Scoutmail",
+      "flavor":"Titan helmets are designed to revert to simple translucency in the event of an optics system failure.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Sojourn Helm",
+      "flavor":"The enemy stands between us and our salvation. Open the way.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Spearhead",
+      "flavor":"PUJARI-WEI RATIO: colloquial. Amount of time Warlocks spend planning battles versus time Titans spend winning them.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Spektar (All Types)",
+      "flavor":"Armor infused with Chroma multi-channel heat sinks.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Taroudant",
+      "flavor":"For a Titan, determination is the highest of virtues.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"The Glasshouse",
+      "flavor":"Everything is luminous.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"The Taikonaut",
+      "flavor":"The helmets worn by the first Chinese lunar colonists of the Golden Age.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"The Waiting Crown",
+      "flavor":"Enough talk. The time has come for action.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Toutatis",
+      "flavor":"Coordinated strikes demand more than individual talent. The fireteam must cohere as a unit.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Ursus Tactical",
+      "flavor":"Be wary. Combat sensors can't tell you whether a Warlock's Vortex is harmless or hostile.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Vanir",
+      "flavor":"The blind gaze of justice.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"VISIGOTH",
+      "flavor":"You could once hear Mozart from its speakers. Now, quiet as a grave.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"War Numen's Crown",
+      "flavor":"Show them you can contain multitudes, and your interiority will spawn nightmares.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Willbreaker's Watch",
+      "flavor":"Their howls of terror mark your arrival.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Witness Helm",
+      "flavor":"\"The Awoken numbers are fewer now. But our will to fight remains undiminished.\" —Petra Venj",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Zhurong",
+      "flavor":"For whom do you fight? Do you even know their names?",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Helm of Triumph",
+      "flavor":"Triumph sings in your ears, in your blood, in your soul.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Spliced Cosmoclast Helm",
+      "flavor":"General, my team did not intend for SIVA to have military applications. ~SIVA.MEM.WB014",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Scarab's Vigil Helm",
+      "flavor":"\"We watch, and we wait. And we train.\" —Fractal Scrolls",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Iron Saga Helm",
+      "flavor":"Thus armed were the Iron Lords of old, in the days after the Collapse.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Days of Iron Crown",
+      "flavor":"\"When the Last of Lords unfurled the Banner once again, who took up arms to march beneath it?\" —The New-Forged Song",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Cosmoclast Helm",
+      "flavor":"General, my team did not intend for SIVA to have military applications. ~SIVA.MEM.WB014",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"High Command Helm",
+      "flavor":"This is the face of justice.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Eon Tracer Helm",
+      "flavor":"\"It's too much… turn it off… let me out!\" —RECORD-449-CHASM-6263",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Endling Helm",
+      "flavor":"We will only be extinct when the last of us is gone.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Stellar Impact Helm",
+      "flavor":"Welcome to Mark 2 STELLAR IMPACT. Guaranteed to make an impression—literally and figuratively—or your Glimmer back.",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Mangonel Type 2",
+      "flavor":"\"Tactics? Psh. Just use your head. Literally ram your head into them.\" —Wei Ning",
+      "type":"Titan Helmet"
+   },
+   {  
+      "name":"Raku Gwener Type 1",
+      "flavor":"Crucible variant. Golden Age components have been refoamed for optimal durability.",
+      "type":"Titan Helmet"
+   }
+]

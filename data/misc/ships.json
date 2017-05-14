@@ -1,0 +1,547 @@
+[  
+   {  
+      "name":"\"80 Proofreader\"",
+      "flavor":"Correction by erasure.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Act on Instinct\"",
+      "flavor":"There's never time to think.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Aries Ascendant\"",
+      "flavor":"The bull smells battle.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Armor of Vows\"",
+      "flavor":"Unity makes us invincible.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Aspect of Glass\"",
+      "flavor":"You fly unbound beneath eternity.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Atalanta's Hunt\"",
+      "flavor":"Never stop for golden apples.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Aurora Lance\"",
+      "flavor":"The breath of suns.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Bane of Dark Gods\"",
+      "flavor":"\"I stand defiant.\"",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Belisarius Defiant\"",
+      "flavor":"There's only one legitimate authority in this system.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Birth of History\"",
+      "flavor":"Go forth and conquer.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Chasing Infinity\"",
+      "flavor":"The Queen speaks softly, and carries a big fleet.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Comitatus\"",
+      "flavor":"Forge a new fellowship.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Crypt Hammer\"",
+      "flavor":"After death – triumph.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Draught of Nectar\"",
+      "flavor":"\"Does one life across infinite realities equal immortal life?\" —Parables of the Allspring",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Dream Eater\"",
+      "flavor":"I think she's hungry.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Eon Trespass\"",
+      "flavor":"Born from the mind of Elsie Bray, three years before she disappeared.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Ether Eater\"",
+      "flavor":"Swift and bright and precious.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Extinction Event\"",
+      "flavor":"Dodging the Permian bullet.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Fatal Vision\"",
+      "flavor":"Come, let me clutch thee.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Glass Minuet\"",
+      "flavor":"The Vault whispers of a world beyond.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Gloriole Jump\"",
+      "flavor":"The light of NLS travel can be hypnotic.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Hebridean Thoughtcrime\"",
+      "flavor":"What were you thinking?",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"High and Flighty\"",
+      "flavor":"Can't ever tie me down.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Karuna, Falling\"",
+      "flavor":"There is nothing more ruthless than compassion.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Ketch Me If You Can\"",
+      "flavor":"Fallen piracy is a perpetual risk during jumps between the inner planets.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Kondratyuk's Escape\"",
+      "flavor":"For those who would break free.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Laughing Behind Your Back\"",
+      "flavor":"There's nothing funnier than terrestrial life…",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Light in the Abyss\"",
+      "flavor":"From out of the dark, up into the light...",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Little Light\"",
+      "flavor":"\"That's not funny.\"",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Made of Shakespeare\"",
+      "flavor":"\"I count myself a king of infinite space.\"",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Mind Bleacher\"",
+      "flavor":"Imagine the crowds. Then block them out.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Newsbreaker\"",
+      "flavor":"And now, the latest -",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Outrageous Fortune\"",
+      "flavor":"Who needs slings and arrows?",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Plasma Donor\"",
+      "flavor":"Ready for a tactical injection.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Quite Content Damsel\"",
+      "flavor":"No knights, please.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Ripship Pardoner\"",
+      "flavor":"In vacuum, fire flows like water.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Rope to Heaven\"",
+      "flavor":"Be wary of what you find between the stars. Demons have breached the gates where once only angels dared.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Scorpio Miracle\"",
+      "flavor":"Hope from on high.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Seraphim Toaster\"",
+      "flavor":"Angels are a navigational hazard.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Shark Whisperer\"",
+      "flavor":"No, ship, that's not a seal...",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Sidereal Rumba\"",
+      "flavor":"Join the eternal dance.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Smokehouse Six\"",
+      "flavor":"It goes boom.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Steel Atreus\"",
+      "flavor":"Some day we'll dance our little dance to the end...but not today. Not today.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Sun Current\"",
+      "flavor":"\"He bathed in the sun's light, and it burned away his fear, and his hope.\" —Parables of the Allspring",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"The Climb\"",
+      "flavor":"There is nothing else.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"The Dirigible Incorrigible\"",
+      "flavor":"The price is negligible.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"The Fangs of Nyx\"",
+      "flavor":"Beware her maw.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"The Fermi Solution\"",
+      "flavor":"We are not alone.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"The Road Unraveled\"",
+      "flavor":"Take out the stitches. Start over.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"The Teilhard War\"",
+      "flavor":"All things converge.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"The Visible Hand\"",
+      "flavor":"Lead from the front.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Ticktock Inquisitor\"",
+      "flavor":"Time is very short...",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Tiger Tiger\"",
+      "flavor":"The stars my destination.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Tropos Gardener\"",
+      "flavor":"Change needs careful tending.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Vacuum Diagram\"",
+      "flavor":"Infinity awaits us.",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Vienna Singer\"",
+      "flavor":"RHO-8a Teng Tactical Combatant",
+      "type":"Ship"
+   },
+   {  
+      "name":"\"Vintage Russian Soul\"",
+      "flavor":"The old blood of Murmansk.",
+      "type":"Ship"
+   },
+   {  
+      "name":"AFv1 Octavian",
+      "flavor":"The AFv1 Octavian is an advanced Phaeton-class, long range jumpship. Upgraded for improved performance and style, the Octavian is as close to the Phaeton's original factory specs as resources will allow.",
+      "type":"Ship"
+   },
+   {  
+      "name":"AFv2 Octavian",
+      "flavor":"The AFv2 Octavian is a variant of the advanced Phaeton-class, long range jumpship. Upgraded for improved performance and style, the Octavian is as close to the Phaeton's original factory specs as resources will allow.",
+      "type":"Ship"
+   },
+   {  
+      "name":"AFv3 Octavian",
+      "flavor":"The AFv3 Octavian is a variant of the advanced Phaeton-class, long range jumpship. Upgraded for improved performance and style, the Octavian is as close to the Phaeton's original factory specs as resources will allow.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Agonarch Karve",
+      "flavor":"\"Life is pain. Pain is power. And power is life.\" —Toland, the Shattered",
+      "type":"Ship"
+   },
+   {  
+      "name":"Arcadia Class Jumpship",
+      "flavor":"Arcadians were the most common jumpships during the Golden Age, used for both terrestrial and planetary excursions. Their remains have been reported around most Earth-based space ports.",
+      "type":"Ship"
+   },
+   {  
+      "name":"AX19 Slipper Misfit",
+      "flavor":"The AX19 Slipper Misfit is an advanced Kestrel-class jumpship, upgraded using breakthroughs in design theory.",
+      "type":"Ship"
+   },
+   {  
+      "name":"AX19 Spindle Demon",
+      "flavor":"The AX19 Spindle Demon is a variant of the Kestrel-class experimental jumpship rigged for extreme performance.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Ceres Galliot",
+      "flavor":"Long-range ships designed to patrol the Reef and beyond.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Coldsnap BKR",
+      "flavor":"A refurbished blockade runner, customized with the Fallen House of Winter's sigil, given as a trophy to those who brave the Prison of Elders.",
+      "type":"Ship"
+   },
+   {  
+      "name":"CX20 Slipper Misfit",
+      "flavor":"The CX20 Slipper Misfit is an advanced Kestrel-class jumpship, upgraded using breakthroughs in design theory.",
+      "type":"Ship"
+   },
+   {  
+      "name":"CX20 Spindle Demon",
+      "flavor":"The CX20 Spindle Demon is a variant of the Kestrel-class experimental jumpship rigged for extreme performance.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Devils' Due BKR",
+      "flavor":"A refurbished blockade runner, customized with the Fallen House of Devils' sigil, given as a trophy to those who brave the Prison of Elders.",
+      "type":"Ship"
+   },
+   {  
+      "name":"EX21 Slipper Misfit",
+      "flavor":"The EX21 Slipper Misfit is an advanced Kestrel-class jumpship, upgraded using breakthroughs in design theory.",
+      "type":"Ship"
+   },
+   {  
+      "name":"EX21 Spindle Demon",
+      "flavor":"The EX21 Spindle Demon is a variant of the Kestrel-class experimental jumpship rigged for extreme performance.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Hildian Seeker",
+      "flavor":"Nimble starfighters designed by the Reef to navigate dense asteroid fields.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Kestrel Class AX",
+      "flavor":"Base model experimental jumpship. Ships capable of interplanetary travel are in limited supply. Most are never rebuilt to anything resembling their Golden Age glory.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Kestrel Class AX0",
+      "flavor":"Base model experimental jumpship. The Kestrel is thought to have been a prototype long-range craft designed near the end of the Golden Age. Most in service are rebuilt using reverse-engineered specs.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Kestrel Class CX",
+      "flavor":"Base model experimental jumpship. Ships capable of interplanetary travel are in limited supply. Most are never rebuilt to anything resembling their Golden Age glory.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Kestrel Class CX0",
+      "flavor":"Base model experimental jumpship. The Kestrel is thought to have been a prototype long-range craft designed near the end of the Golden Age. Most in service are rebuilt using reverse-engineered specs.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Kestrel Class EX",
+      "flavor":"Base model experimental jumpship. Ships capable of interplanetary travel are in limited supply. Most are never rebuilt to anything resembling their Golden Age glory.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Kestrel Class EX0",
+      "flavor":"Base model experimental jumpship. The Kestrel is thought to have been a prototype long-range craft designed near the end of the Golden Age. Most in service are rebuilt using reverse-engineered specs.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Kingslayer BKR",
+      "flavor":"A refurbished blockade runner, customized with the Fallen House of Kings' sigil, given as a trophy to those who brave the Prison of Elders.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Last Battle",
+      "flavor":"\"Eliksni once ruled many stars. Now we fight for one not our own.\" —Variks",
+      "type":"Ship"
+   },
+   {  
+      "name":"Longest Vigil",
+      "flavor":"\"I am last of my House. I will not forget.\" —Variks",
+      "type":"Ship"
+   },
+   {  
+      "name":"Lost Legacy",
+      "flavor":"\"We were not prepared to withstand the Whirlwind. No one is.\" —Variks",
+      "type":"Ship"
+   },
+   {  
+      "name":"LRv1 Javelin",
+      "flavor":"The LRv1 Javelin is a standard Phaeton-class long range jumpship. Refurbished and rigged for dangerous flight.",
+      "type":"Ship"
+   },
+   {  
+      "name":"LRv2 Javelin",
+      "flavor":"The LRv2 Javelin is a variant of the standard Phaeton-class, long range jumpship. Refurbished and rigged for dangerous flight.",
+      "type":"Ship"
+   },
+   {  
+      "name":"LRv3 Javelin",
+      "flavor":"The LRv3 Javelin is a variant of the standard Phaeton-class, long range jumpship. Refurbished and rigged for dangerous flight.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Manus Celer Dei",
+      "flavor":"NON FACETE NOBIS CALCITRARE VESTRVM PERINÆVM",
+      "type":"Ship"
+   },
+   {  
+      "name":"NS22 Cloud Errant",
+      "flavor":"The NS22 Cloud Errant is a standard Regulus-class \"near-star\" jumpship. Refurbished for more efficient energy flow among its systems and ready for flight.",
+      "type":"Ship"
+   },
+   {  
+      "name":"NS22 High Water",
+      "flavor":"The NS22 High Water is an advanced Regulus-class \"near-star\" jumpship. Re-worked specs include a range module and improved defensive array.",
+      "type":"Ship"
+   },
+   {  
+      "name":"NS44 Cloud Errant",
+      "flavor":"The NS44 Cloud Errant is a variant of the standard Regulus-class \"near-star\" jumpship. Refurbished for more efficient energy flow among its systems and ready for flight.",
+      "type":"Ship"
+   },
+   {  
+      "name":"NS44 High Water",
+      "flavor":"The NS44 High Water is a variant of the advanced Regulus-class \"near-star\" jumpship. Re-worked specs include a range module and improved defensive array.",
+      "type":"Ship"
+   },
+   {  
+      "name":"NS66 Cloud Errant",
+      "flavor":"The NS66 Cloud Errant is a variant of the standard Regulus-class \"near-star\" jumpship. Refurbished for more efficient energy flow among its systems and ready for flight.",
+      "type":"Ship"
+   },
+   {  
+      "name":"NS66 High Water",
+      "flavor":"The NS66 High Water is a variant of the advanced Regulus-class \"near-star\" jumpship. Re-worked specs include a range module and improved defensive array.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Phaeton Class v1",
+      "flavor":"Base model long range jumpship. Ships capable of interplanetary travel are in limited supply. Most are never rebuilt to anything resembling their Golden Age glory.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Phaeton Class v1.1",
+      "flavor":"Base model long range jumpship. Phaetons are sturdy and reliable, though the basic class models are rebuilt below spec, due to limited supplies and high demand.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Phaeton Class v2",
+      "flavor":"Base model long range jumpship. Ships capable of interplanetary travel are in limited supply. Most are never rebuilt to anything resembling their Golden Age glory.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Phaeton Class v2.1",
+      "flavor":"Base model long range jumpship. Phaetons are sturdy and reliable, though the basic class models are rebuilt below spec, due to limited supplies and high demand.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Phaeton Class v3",
+      "flavor":"Base model long range jumpship. Ships capable of interplanetary travel are in limited supply. Most are never rebuilt to anything resembling their Golden Age glory.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Phaeton Class v3.1",
+      "flavor":"Base model long range jumpship. Phaetons are sturdy and reliable, though the basic class models are rebuilt below spec, due to limited supplies and high demand.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Regulus Class 22a",
+      "flavor":"Base model \"near-star\" jumpship. The Regulus was originally built for speed and maneuverability, but the basic class models rely on limited resources and rarely reach full spec.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Regulus Class 44b",
+      "flavor":"Base model \"near-star\" jumpship. The Regulus was originally built for speed and maneuverability, but the basic class models rely on limited resources and rarely reach full spec.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Regulus Class 55",
+      "flavor":"Base model \"near-star\" jumpship. Ships capable of interplanetary travel are in limited supply. Most are never rebuilt to anything resembling their Golden Age glory.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Regulus Class 66c",
+      "flavor":"Base model \"near-star\" jumpship. The Regulus was originally built for speed and maneuverability, but the basic class models rely on limited resources and rarely reach full spec.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Regulus Class 77",
+      "flavor":"Base model \"near-star\" jumpship. Ships capable of interplanetary travel are in limited supply. Most are never rebuilt to anything resembling their Golden Age glory.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Regulus Class 99",
+      "flavor":"Base model \"near-star\" jumpship. Ships capable of interplanetary travel are in limited supply. Most are never rebuilt to anything resembling their Golden Age glory.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Space-Age Mariner",
+      "flavor":"Planets, planets, every where, nor any to call home.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Valkyrie-O5X",
+      "flavor":"The Valkyrie-O5X is a pet project of Tower Shipwright, Amanda Holliday. Refurbished from choice parts for far-reaching exploration.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Waning Star",
+      "flavor":"\"Not Eliksni, no… but true Kell and Queen. House Judgment honors her.\" —Variks",
+      "type":"Ship"
+   },
+   {  
+      "name":"Wolf Hunter BKR",
+      "flavor":"A refurbished blockade runner, customized with the Fallen House of Wolves' sigil, given as a trophy to those who brave the Prison of Elders.",
+      "type":"Ship"
+   },
+   {  
+      "name":"Nanophoenix",
+      "flavor":"All destruction is an act of creation. And vice versa.",
+      "type":"Ship"
+   }
+]

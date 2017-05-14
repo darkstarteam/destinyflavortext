@@ -1,0 +1,727 @@
+[  
+   {  
+      "name":"\"Atlas's Burden\"",
+      "flavor":"\"Other ages had the phalanx, the carrier, the KKV. Now you are the defining weapons system of our time.\"",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"\"Blood and Mortar\"",
+      "flavor":"\"A distraction? The Crucible challenges our best. It is the finest training the City could ask.\"",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"\"Cast in Blood\"",
+      "flavor":"\"The naysayers in Consensus don't understand that we LIKE to fight each other.\" - Ain Suhu-ässä",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"\"The Mandate\"",
+      "flavor":"\"We reject this cumbersome doctrine of interdependence. Every solitary Titan must be a standfast against the dark.\"",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"\"Ultimateless\"",
+      "flavor":"Those who bear this mark vow to always test the limits of Light against the Light itself.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Avenger Mark",
+      "flavor":"\"I require no miracles. We will reclaim our worlds with systematic, aggressive action against enemy assets. \"",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Bastion Mark",
+      "flavor":"Field repairs are part of the Titan creed, but the particularly devoted clip spare tools to their mark.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Dead Light Mark",
+      "flavor":"\"Beyond the City. Yes, beyond the Traveler.\" —Arach Jalaal",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Deep Stone Crypt",
+      "flavor":"A badge illustrating the infamous subroutine which seeded the first Exo consciousness.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Defender's Mark",
+      "flavor":"At Six Fronts, defending the Wall was not enough. Titans had to become a wall.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Devils' Mark",
+      "flavor":"The battle never ends.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"First Pillar Mark",
+      "flavor":"The many strategic victories of the First Pillar Order are not without cost.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Five Mile Mark",
+      "flavor":"Radagast's Host made it five miles from the City's first walls. This pattern commemorates their march.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Formation Mark",
+      "flavor":"Crucible tactics explore the tension between team cohesion and individual bravura.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Freeholder's Memory",
+      "flavor":"The symbol of the great city of Freehold, the lost gem of Mars.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Garuda Mark",
+      "flavor":"Forged in fire and darkness. Lit up like a thousand thousand suns.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Golden Hour Mark",
+      "flavor":"I wear this in service. I earned this by sacrifice.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Heliopause Mark",
+      "flavor":"\"Once, deep space explorers were seen as heroes. Now, for suggesting humanity should look beyond this system, some call us cowards.\" —Arach Parnell",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Hesperonaut Mark",
+      "flavor":"Our heritage is not one of war, but of exploration.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Holborn's Host Mark",
+      "flavor":"Genial old Holborn led a group of Guardians on several risky expeditions to Mars.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Honor of Cormorant",
+      "flavor":"One of the remaining sashes of the Cormorant, torn in battle by a forgotten foe.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Immanent War Mark",
+      "flavor":"The subtlest of wars still leave their marks.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Impervious Mark",
+      "flavor":"\"It was not a significant bullet.\"",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Infinite Lines Mark",
+      "flavor":"...pulled the subject from the Device he appeared frozen. No vitals, but the body hasn't rotted either. —RECORD 340-CHASM-NULL",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Iron Camelot Mark",
+      "flavor":"Forged in remembrance of Radegast, he who was first among the peers of the Iron Banner.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Ithacan Mark",
+      "flavor":"Slow and steady wins the race.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Jolder's Iron Sash",
+      "flavor":"You are an army, an armada, a force unto itself.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Jovian Guard",
+      "flavor":"Choose your words and sigils well, for they are your remembering.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Kallipolis Mark",
+      "flavor":"The leader we need is among us, not above us.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Kell's Mark",
+      "flavor":"Be feared.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Kings' Mark",
+      "flavor":"Take the throne.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Light of the Great Prism",
+      "flavor":"\"When the long dark closes around us, we will be the last light.\" - Wei Ning",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Lightning Mark",
+      "flavor":"\"The sun low in the sky, the wind in your hair, your enemies piled at your feet. Perfection.\"",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of a Kellslayer",
+      "flavor":"\"See this mark and know: by my hands a Kell has fallen.\"",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of Bluster",
+      "flavor":"\"The Blustery Brew\" is a favorite City tavern amongst Titans.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of Chaos",
+      "flavor":"There is no doubt that our future will be won in battle.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of Command",
+      "flavor":"\"A successful defense prolongs a war. A successful attack ends it.\"",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of Contention",
+      "flavor":"The mighty Thalor was invincible in the Crucible - until Dredgen Yor, and his Thorn.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of Desolation",
+      "flavor":"Did that shadow just move?",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of Diligence",
+      "flavor":"Titan armor is crafted by legion members, not the City's foundries. Every would-be smith proves themselves on Fieldplate.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of Discipline",
+      "flavor":"Novice Titans are expected to adapt to their new lives with discipline and determination.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of Favor",
+      "flavor":"City communities work together to produce these marks as gifts for their champions.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of Fortitude",
+      "flavor":"Some historians mark the rise of Fieldplate as the moment the Titan orders found their footing.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of Fortune",
+      "flavor":"\"I would trust it to thee if it were silver; I would give it even if it were gold.\" - the Edda",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of Fury",
+      "flavor":"\"We can wait here until the Traveler falls! Or we can go out there and kill them!\" - from a doctrinal dispute",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of History",
+      "flavor":"Titan marks are worn to honor the history of individuals or entire orders.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of Jagi's Host",
+      "flavor":"Jagi's Host was last seen marching south of the Cosmodrome, toward the shores of the Caspian Sea.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of Lost Charge",
+      "flavor":"A zealous few sneer at the legend of Six Fronts. Our invincible defense was a waste, they say. We should have charged.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of Mourning",
+      "flavor":"Some Guardians have a hard time relating to the rest of the City. Others know their struggles all too well.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of No Tomorrow",
+      "flavor":"Passion and patience in equal measure will open the unlimited way.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of Oblivion",
+      "flavor":"Our salvation lies ahead of us. Go forth. There is nothing left to leave behind.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of Passage",
+      "flavor":"Within the walls, weary wanderers can find rest.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of Renown",
+      "flavor":"Robust and flexible, the iconic Fieldplate pattern has served every Titan order.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of Resolve",
+      "flavor":"\"You cannot control the enemy. You can control yourself. The real victory lies within.\" - Pujari, Transcript VII",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of Sacrifice",
+      "flavor":"Sometimes the mark will tangle in the armor. Shred it without hesitation. It, too, is prepared to sacrifice.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of Thunder",
+      "flavor":"\"What is the power of the lightning without the roar of the thunder?\" —Wei Ning",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of Unity",
+      "flavor":"The Six Fronts, perhaps the most recognizable element used in Titan marks, memorializes a mighty stand.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of Wings",
+      "flavor":"News travels fast in the City.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Anchor",
+      "flavor":"Titan orders are often accused of dour fatalism. But there are those who celebrate all they protect.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Arena",
+      "flavor":"City dwellers often sport totems and tunics denoting their favorite Crucible combatants and teams.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Beacon",
+      "flavor":"\"A singer came to me, saying, 'You protect me, and I do nothing in return.' I told him to sing, and he understood.\" - Saint-14",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Bulwarks",
+      "flavor":"\"War upon stone and it grows weaker. War upon man and he grows stronger. Which shall your wall be built of?\"",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Chain",
+      "flavor":"Even at Six Fronts, the City's darkest hour, some Titans broke orders, but the Chain prevailed.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Chosen",
+      "flavor":"\"Your Light drives your armor. Do not speak of yourself as separate from the plate.\" - Pujari, Transcript XV",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Circle",
+      "flavor":"History's lords have ever painted the future in tones of fire and shadow.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Conqueror",
+      "flavor":"\"THE LAST AND SUREST ARGUMENT\" - traditional inscription for the right gauntlet, attributed to Wei Ning",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Dauntless",
+      "flavor":"\"Yes, we've achieved the objective. And the next. And the…were we supposed to stop attacking?\" —Wei Ning",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Devils",
+      "flavor":"\"I seek no worship, only war.\"",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Duskborn",
+      "flavor":"\"We called her Verok; it was her and her Thrall that finally overwhelmed him.\" - Eris",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Embattled",
+      "flavor":"Marks are worn low on the body to avoid interfering with a Titan's arms or weapons. They still see wear.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Executor",
+      "flavor":"The New Monarchy is the aegis that guards humanity.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Exile",
+      "flavor":"\"Though the City won a great battle at Twilight Gap, it lost an even greater mind.\" —Sister Lupe",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Exodus",
+      "flavor":"The stars are calling.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Far-Flung",
+      "flavor":"Every Guardian's first act is to defend a home they have not yet known.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the First Pillar",
+      "flavor":"Titans train to fight on dangerous ground, a first line of defense against any crisis.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Fortress",
+      "flavor":"Fortresses do not wait silently for war. They are schools, trading posts, monuments. Vessels for life.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Gatekeepers",
+      "flavor":"The Pilgrim Guard was the first Titan order, formed to protect refugees entering the fledgling Last City.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Hidden",
+      "flavor":"\"And with the lone strength of the Titan Vell Tarlowe, we felt invincible.\" - Eris",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Initiative",
+      "flavor":"Speak with the voice of the people, or prepare to face them.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Keeper",
+      "flavor":"When there is turmoil in the City, cool-headed Titans often help restore the peace. Sometimes it costs them.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Kings",
+      "flavor":"\"No beast lords over Earth.\"",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Lost  ",
+      "flavor":"Every Titan's individual legend could inspire a new lineage of marks.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Lost Seven",
+      "flavor":"One by one, the Ghosts of Jagi's Host returned to the City. If they knew of their Guardians' fates, they would not reveal it.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Martyred",
+      "flavor":"It is called the Firebreak Calculus: how much good could I do if I find the right place and fight until I die?",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the New Front",
+      "flavor":"The Firebreak orders strive to draw the battle away from the City and its interests.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the New Sun",
+      "flavor":"\"He loosens all bonds.\" - the Lokasenna",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Oasis",
+      "flavor":"A Titan in the field is better than an oasis in the desert.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Old Challenge",
+      "flavor":"By their rules must you win, or not at all.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Order",
+      "flavor":"The City prospers on our field of order and justice.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Pariah",
+      "flavor":"\"I wear his symbols proudly in the City, to remind them that Osiris is not truly gone.\" —Fractal Scrolls",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Pilgrim Guard",
+      "flavor":"Legend holds that Titans stood in defense of the first pilgrims to gather below the Traveler.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Pit",
+      "flavor":"Torn from a vanquished Wizard, it flutters in windless air.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Protector",
+      "flavor":"The first Titans led survivors to the safety of the City.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Queen's Guard",
+      "flavor":"One throne beneath the howling dark.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Risen",
+      "flavor":"A Titan's mark declares deeds and influences. Your Ghost scrounged this cloth together. It's a start.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Rising",
+      "flavor":"What rules us is our service to the greater welfare of the City.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Sentry",
+      "flavor":"The City's enemies often use airmobile tactics. Some Titans train for rapid response to these landings.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Six Fronts",
+      "flavor":"Four orders of Titans held six approaches in the first great battle around the Last City, and not one front broke.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Sojourn",
+      "flavor":"Our will is such that we find strength in the gaze of Death itself.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Sortie",
+      "flavor":"At Six Fronts, two Firebreak commanders led a sortie beyond the walls. They reclaimed five miles of scorched land from the Fallen.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Spawn",
+      "flavor":"\"It's not an Acolyte's loin cloth, it's the spoils of war.\" - Vell Tarlowe",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Stoneborn",
+      "flavor":"\"They don't fail.\" - Commander Zavala, in an emergency session of the City Consensus",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Sunforged",
+      "flavor":"\"Of all the Lights, we burned the brightest.\" —Unknown Sunbreaker",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Supreme",
+      "flavor":"Titan lore memorializes the greatest warriors of humanity's past.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Undying Mind",
+      "flavor":"The Black Garden grows in both directions.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Wall",
+      "flavor":"\"We have one city. One final chance. There are no forgivable errors. Be ceaseless in your vigilance.\"",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the War Tides",
+      "flavor":"\"At the doom of Men he will return home among the wise Vanir.\" - the Edda",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Watcher",
+      "flavor":"\"The mark's just pretty cloth. What matters is what it stands for.\" - Pujari, Transcript IX",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Witness",
+      "flavor":"\"Fighting your enemy helps you understand your enemy. Don't get distracted.\" —Zavala",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of the Wolves",
+      "flavor":"\"I am the leader of the pack.\"",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Moctezuma-Polyphonic",
+      "flavor":"A mark of unity which celebrates the equality of all under the protection of the Traveler.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"NOYB Mark",
+      "flavor":"\"One day in the Crucible tells you everything you need to know about a Guardian. Even yourself.\" - Thalor",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Old Man's Mark",
+      "flavor":"\"Sometimes, I wish my Ghost had picked someone else.\"",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Order of the Lost Saint",
+      "flavor":"\"His Light cast no shadows.\"- Paean to Saint-14",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Pandion Mark",
+      "flavor":"“Glory in the Crucible—that is the truest immortality a Guardian can attain.” —Thalor",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Pioneer Mark",
+      "flavor":"These marks recall the flags that waved over the first Venus colonies.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Racer's Mark",
+      "flavor":"Your enemies will see the signs of your approach. They will not be able to stop you.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Radegast's Iron Sash",
+      "flavor":"Stand in the fire until there is nothing left to burn away.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Season of Ages XII",
+      "flavor":"A warbanner marking the twelfth era of the Titan orders.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Silimar's Iron Sash",
+      "flavor":"Ward or fist, you cannot be broken.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Spektar Heliopause Mark",
+      "flavor":"If only Darkness lies beyond the heliopause, we have already lost.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Spektar Infinite Mark",
+      "flavor":"…pulled the subject from the Device he appeared frozen. No vitals, but the body hasn't rotted either. —RECORD 340-CHASM-NULL",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Spektar Kallipolis Mark",
+      "flavor":"Not the past, not the future. The present is where we should turn our eyes.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Spektar Pandion Mark",
+      "flavor":"\"Glory in the Crucible—that is the truest immortality a Guardian can attain.\" —Thalor",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Spektar's Mark",
+      "flavor":"The heat shimmers off the shield, refracting into broken rainbows.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Spirit of Saturn",
+      "flavor":"A ceremonial badge worn by Titans in memory of the lost First Fleet.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Striker's Mark",
+      "flavor":"\"It's what we do. It's as natural as breathing.\" —Holborn",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Sublime Light Mark",
+      "flavor":"A trial by fire, the purpose of which is transformation.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Sunbreaker's Mark",
+      "flavor":"Once, these marks streamed proudly from the City's rooftops. Now, they are a symbol of defiance.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Tarlowe Mark",
+      "flavor":"\"The stalwart heart of the team. May his Light find its rest.\" —Eris Morn",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Thalor's Golden Maul",
+      "flavor":"The legendary mark of Thalor, a victor in the Crucible.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"War Numen's Mark",
+      "flavor":"Will you barter your soul in exchange for the chance to kill a king?",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Wolfswood Mark",
+      "flavor":"And beneath its branches, the Iron Wolves forged an unbreakable oath.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Year 1993",
+      "flavor":"A pattern made famous by the restoration of ancient Golden Age tomes.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Idylls of the Iron Lords",
+      "flavor":"\"The tale of the Iron Lords is not over.\" —Lord Saladin Forge",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Formation Mark",
+      "flavor":"Crucible tactics explore the tension between team cohesion and individual bravura.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Cosmoclast Mark",
+      "flavor":"The Exodus program would be interested in exploring SIVA's defensive applications. ~SIVA.MEM.CL013",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Anathema Cannon Mark",
+      "flavor":"\"The Devils have gone too far this time.\" —Lord Saladin",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Endling Mark",
+      "flavor":"\"I am haunted by the Endling, the last living human.\" —Arach Jalaal",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Vitruvius Mark",
+      "flavor":"\"The great generals and tacticians of the past have much to teach us.\" —Commander Zavala",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Toward the Sky Mark",
+      "flavor":"\"This is why we have Crucible arenas across the system. Eyes always up.\" —Lord Shaxx",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"High Command Mark",
+      "flavor":"\"The City demands a leader. Now, before it is too late.\" —Executor Hideo",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Eon Tracer Mark",
+      "flavor":"\"We trace the history of war throughout the ages.\" —Lakshmi-2",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Mark of Legends",
+      "flavor":"The Titan who bears this mark withstood all that the Darkness could bring.",
+      "type":"Titan Mark"
+   },
+   {  
+      "name":"Scarab's Vigil Mark",
+      "flavor":"\"If the sun rises, it will be because of your efforts.\" —Parables of the Allspring",
+      "type":"Titan Mark"
+   }
+]
