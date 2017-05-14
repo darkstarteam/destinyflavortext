@@ -14,7 +14,11 @@ body {
 }
 
 #name {
-    font-size: 16pt;
+    font-size: 18pt;
+}
+
+#type {
+    font-size: 14pt;
 }
 
 #flavortext {
