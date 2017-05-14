@@ -1,0 +1,532 @@
+[  
+   {  
+      "name":"A.1F19X-Ryl",
+      "flavor":"Trepanning is the art of cutting the skull open to let the gods in.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Acheron SR5",
+      "flavor":"Tiled with picocircuitry, the Acheron SR5 is fiendishly accurate and hungry to grow.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Another NitC",
+      "flavor":"Hammer it home.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"B-Line Trauma",
+      "flavor":"Take one to the forehead and call me in the morning.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Badger CCL",
+      "flavor":"Badger-baiting is a blood sport.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Boolean Gemini",
+      "flavor":"Fight your way!",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Bronzed Yamaduta SR4",
+      "flavor":"An accurized Omolon scout rifle, earned through glory in the Crucible.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Caelum",
+      "flavor":"A Guardian relic named for the chisel of the night sky.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Cocytus SR4",
+      "flavor":"The Omolon Cocytus SR4 will drown your enemies in a river of pain.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Colovance's Duty",
+      "flavor":"A precision-fire weapon, forged in fire by the Lords of the Iron Banner.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Crusader I",
+      "flavor":"Executor-issued precision weapon for loyal supporters of the New Monarchy.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Crypt Dweller SR1",
+      "flavor":"A marskman's weapon modified by Dead Orbit's superb technicians and specialists.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Cryptic Dragon",
+      "flavor":"Those who doubt the existence of dragons are always the first devoured.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Deadshot Luna SR1",
+      "flavor":"Precision firepower modified to fit the exacting specifications of Dead Orbit's expanding arsenal.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Doom of Chelchis",
+      "flavor":"\"Where is the Great Machine? Where is the Great Machine?\" —Chelchis, Kell of Stone",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Fang of Ir Yût",
+      "flavor":"This is the shape and the point of the tooth: nothing has ever lived that will not die.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Fate of All Fools",
+      "flavor":"\"The wise man knows his fate. The fool merely finds it.”",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Foresight 3",
+      "flavor":"I foresee death; and we are its author.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Gallows Cure",
+      "flavor":"It just might save your neck.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Garmr SR1",
+      "flavor":"Death is hungry.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Gheleon's Demise",
+      "flavor":"A precision-fire weapon, forged in fire by the Lords of the Iron Banner.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Gladius 77",
+      "flavor":"It bears a classic mark along the trigger guard: 'This Machine Kills Fallen'",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Hand of Judgment",
+      "flavor":"Those who have wronged us will be judged.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Harrowed Doom of Chelchis",
+      "flavor":"\"Where is the Great Machine? Where is the Great Machine?\" —Chelchis, Kell of Stone",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"High Road Soldier",
+      "flavor":"The survival of civilization depends on our willingness to choose conscience over expedience.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Hung Jury SR4",
+      "flavor":"A scout rifle, modified by Dead Orbit's superb technicians and specialists.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Hygiea Noblesse",
+      "flavor":"The Reef Cryptarchy's Hygiea Division is its largest, with over half of the asteroid devoted to their sprawling libraries.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Jigoku SR2",
+      "flavor":"Semi-automatic rifle. The SR2 is a flexible weapons platform, built for any kind of battle.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Jigoku SR2-SL",
+      "flavor":"Semi-automatic rifle. The SR2-SL variant is a multirole rifle, retooled for easy maintenance.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Jigoku SR3",
+      "flavor":"Briefly marred by a panic over explosive misfires, the SR3 proved itself as a capable multirole rifle.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Jigoku SR3-SL",
+      "flavor":"The flexible SR3-SL features a mag-float barrel and a self-maintaining receiver assembly.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Lampad SR4",
+      "flavor":"Let your enemies know: death will be their only companion.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Last Extremity",
+      "flavor":"For when you think you have nothing left to give.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Lethe Noblesse",
+      "flavor":"Do not forget. Never forgive.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"MIDA Multi-Tool",
+      "flavor":"Select application: Ballistic engagement. Entrenching tool. Avionics trawl. Troll smasher. Stellar sextant. List continues.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Mitternacht SR2",
+      "flavor":"Semi-automatic rifle. Built to score snap kills under heavy suppression, the lightweight Mitternacht handles like a dream.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Mitternacht SR3",
+      "flavor":"The polymer-ceramic SR3 is a lightweight weapon built to receive very heavy scopes.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"NA3D1 Salvation State",
+      "flavor":"Save yourself to save them all.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Naraka SR5",
+      "flavor":"There will always be new hells to conquer.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"NL Shadow 701X",
+      "flavor":"...most just call it death.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Not Like the Others",
+      "flavor":"You always knew you were different.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"One/One Synesthete",
+      "flavor":"\"I knew an Exo who could taste velocity. Said his favorite flavor was one kilometer per second.\"",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Orphne SR4",
+      "flavor":"If death is the Darkness's way, let our Light defy their desire.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Painted Abaddon SR5",
+      "flavor":"A single-fire Omolon firearm, earned through glory in the Crucible.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Painted Song SR5",
+      "flavor":"A powerful Omolon firearm, earned through glory in the Crucible.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Pallas Regime",
+      "flavor":"An Awoken gift from the Reef, marked with the Queen's crown.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Parallax PSm",
+      "flavor":"Could there be another?",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Pickpocket Saint",
+      "flavor":"Take what's yours.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Primed Dìyù SR5",
+      "flavor":"A long range Omolon firearm, earned through glory in the Crucible.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Primed Midnight SR5",
+      "flavor":"A fine-tuned Omolon firearm, earned through glory in the Crucible.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Primed Yamaduta S4",
+      "flavor":"A tactically flexible Omolon scout rifle, earned through glory in the Crucible.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Proxima Centauri II",
+      "flavor":"Just one…gentle…tap.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Pulwar V/Ace",
+      "flavor":"Null-mass constellations give this rifle a featherweight heft.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Radial PSm",
+      "flavor":"Where aren't you going?",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Rainmaster V4",
+      "flavor":"There's a storm inside.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Shinigami SR1",
+      "flavor":"Death comes for the City's foes. Let's not keep it waiting.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Silvered Kín SR5",
+      "flavor":"A highly accurate Omolon firearm, earned through glory in the Crucible.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Singularity S.3",
+      "flavor":"An accurized Vanguard-issue scout rifle, harmonically tuned for precision fire.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Stalker BNGL",
+      "flavor":"They are all your prey.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"SUROS BVV-13",
+      "flavor":"Precise. Punchy. Unerring. SUROS.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"SUROS DIS-43",
+      "flavor":"Balanced. Targeted. Empowered. SUROS.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"SUROS DIS-47",
+      "flavor":"Rapid. Punchy. Relentless. SUROS.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"SUROS SCO-43",
+      "flavor":"Ferocious. Precise. Consistent. SUROS.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"SUROS WSC-17",
+      "flavor":"High firing speed meets flexible layout in the Suros WSC-17.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Thanatos SR5",
+      "flavor":"Where Death follows, new life will grow. Where new life grows... Death will follow.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"The Aries Nemesis X4",
+      "flavor":"I teach harsh lessons.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"The Calling",
+      "flavor":"A marksman's weapon named and sanctified by the leaders of the Future War Cult.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"The Inward Lamp",
+      "flavor":"Of all the lights in all of space, none burn so bright as this.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"The Inward Lamp (Adept)",
+      "flavor":"Of all the lights in all of space, none burn so bright as this.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"The Jade Rabbit",
+      "flavor":"“What kind of harebrained scheme have you got in mind this time?”",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"The Saterienne Rapier",
+      "flavor":"To the death!",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"The Scholar",
+      "flavor":"You can't pull an all-nighter when the sun never sets.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"The Scholar (Adept)",
+      "flavor":"An elite trophy earned only by Trials of Osiris champions.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Tlaloc",
+      "flavor":"Release the storm. Hold nothing back.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Touch of Malice",
+      "flavor":"\"Let them feel every lash, every curse, every touch of malice that they first dealt to me.\" —Eris Morn",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Trax Callum I",
+      "flavor":"Semi-automatic rifle. This is a marksman's design, built for precision.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Trax Callum II",
+      "flavor":"Semi-automatic rifle. This is a marksman's design, built for precision.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Trax Callum II-A",
+      "flavor":"Semi-automatic rifle. This is a multirole variant with well-balanced capabilities.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Trax Devotio III",
+      "flavor":"You pledged yourself to the study of ancient power.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Trax Elan IV",
+      "flavor":"In the smallest spaces dwells the greatest power.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Trax Mallus II",
+      "flavor":"Semi-automatic rifle. Accurized and fitted with harmonic dampers for long-range work.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Trax Mallus III",
+      "flavor":"This marksman rifle features a smart gel barrel bath usually found on sophisticated precision weapons.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Trax Onus III",
+      "flavor":"This power is your privilege, and your burden.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Treads Upon Stars",
+      "flavor":"Ghost has tried to translate this weapon's inscription, but the Cabal language has proven difficult to parse.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Tuonela SR4",
+      "flavor":"Hell will freeze over before the Omolon Tuonela SR4 will fail you.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Válka SR2",
+      "flavor":"Semi-automatic rifle. Designed for precision fire in tangled ruins, the Válka is easy to handle and quick to aim.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Válka SR3",
+      "flavor":"Contentious and light, a favorite of Guardians who demand a rifle that will never slow them down.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Vesta Noblese",
+      "flavor":"An Awoken gift from the Reef, marked with the Queen's crown.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Vision of Confluence",
+      "flavor":"What you have seen will mark you forever.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Wolves' Leash",
+      "flavor":"Collecting pelts is a good business. Round 'em up.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Wolves' Leash II",
+      "flavor":"Collecting pelts is a good business. Round 'em up.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Wyestar X9",
+      "flavor":"The mag-float barrel drifts in a perfect vacuum, insulated from outside shock.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Xibalba SR5",
+      "flavor":"Tiled with picocircuitry, the Xibalba SR5 is fiendishly accurate and hungry to grow.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Zero Point LOTP",
+      "flavor":"This much fun should be outlawed.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Burning Eye",
+      "flavor":"\"Turn your eyes inward, upon your ideal self.\" —Parables of the Allspring",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"CHAOS DOGMA~",
+      "flavor":"~consume enhance replicate consume enhance replicate~ will drown your enemies—",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Cryptic Dragon",
+      "flavor":"Those who doubt the existence of dragons are always the first devoured.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"The Distant Star",
+      "flavor":"Forged in honor of Efrideet, she whose watchful eye guarded us from afar.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Angel's Advocate",
+      "flavor":"\"Just… Come on. Just don't.\"",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Keystone 01",
+      "flavor":"A precision weapon, modified by Dead Orbit's superb technicians and specialists.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"The Hero Formula",
+      "flavor":"It's just so satisfying!",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"The Wounded",
+      "flavor":"A marksman's weapon, named and sanctified by the Future War Cult's leaders.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"((CHAOS DOGMA~))\n",
+      "flavor":"~replicate(pain) consume(enemies) OVERRIDE sig(gunsmith)~",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Doom of Chelchis (Adept)",
+      "flavor":"\"All is silent. Nothing answers me. The hunger comes.\" —Chelchis, Kell of Stone",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Fang of Ir Yût (Adept)",
+      "flavor":"Bite deep, through reality, through the illusions of life and death, and eat what you find.",
+      "type":"Scout Rifle"
+   },
+   {  
+      "name":"Vision of Confluence (Adept)",
+      "flavor":"In the abyss of time, all the lines converge... upon you.",
+      "type":"Scout Rifle"
+   }
+]

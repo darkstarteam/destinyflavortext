@@ -1,0 +1,437 @@
+[  
+   {  
+      "name":"0A0X Nightmask",
+      "flavor":"Crucible variant. Cut down and regraphed for agility.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Acolyte Rung",
+      "flavor":"\"Mota was so close -- clawing her way out with bones torn from the Acolytes. Her fall -- Omnigul. You honor her.\" - Eris",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"AOS#Cryptid",
+      "flavor":"Crucible variant. Activated polymer will self-shape to grip your favorite knife.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Argus Deimatic",
+      "flavor":"The coil complex on the left gauntlet may experience alarming mass fluctuations.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Aspriet",
+      "flavor":"Crucible variant. Fieldweave grafted for strong, accurate throws.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Astrolord Grips",
+      "flavor":"Accept war as a fundamental process, not a transient condition.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Battuta",
+      "flavor":"Some of the City's best-selling authors are Hunters-turned-travel writers.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Blindsight Sleeves",
+      "flavor":"\"With the sight, I saw the self within the self.\" —Fractal Scrolls",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Bog Wild",
+      "flavor":"Try not to get bogged down with the little things.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Brusilov",
+      "flavor":"One part curiosity, one part obligation, two parts reckless pride.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Carnivore Match",
+      "flavor":"It's all in the execution.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Cold Mantis",
+      "flavor":"\"Your job on the fireteam is to answer the question 'Can we kill that thing?' Make sure the answer is always yes.\"",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Corsair's Revenge",
+      "flavor":"\"During the Hildian Campaign, modified Fallen armor was more common among the Reef troops than the standard issue.\"",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Cryptid",
+      "flavor":"The lovingly crafted Cryptid family includes a kinematically charged joint massager - on every finger!",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Darkhollow Grasps",
+      "flavor":"\"All the vastness of our universe is but a blank page on which they scrawl their words of hate and death.\" —Eris Morn",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Dead Light Grips",
+      "flavor":"\"At least we'll know we tried.\" —Arach Henri",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Desolate Grips",
+      "flavor":"More than shadows, but less than starstuff.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Dogged Gage",
+      "flavor":"One doesn't need sleeves to keep knives inside them.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Don't Touch Me",
+      "flavor":"Amputated from a creature that stumbled out of a Vex gate. A vestigial defensive reflex still remains.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Dustwalker",
+      "flavor":"Shiftwire can induce nerve activity. It makes mere skin feel like dead plastic.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Elector's Grips",
+      "flavor":"True power comes from the hands of the people.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Exodus Grips",
+      "flavor":"We must make our own safety without the City.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Fear Eater",
+      "flavor":"Stay at the top of the food chain.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Forester",
+      "flavor":"The wilderness reclaimed Earth after the Collapse. Now Hunters reclaim the wilderness.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Ghost Angel",
+      "flavor":"As we climbed the tern cliffs he moved their nests aside, real gently. At the top he strangled the Fallen sentry. Same hands.\"",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Gravebreaker",
+      "flavor":"Careful around the upholstery.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Grips of No Tomorrow",
+      "flavor":"Accept war as a fundamental process, not a transient condition.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"H_LD Starwinder",
+      "flavor":"The trigger action is the central action, and so it must feel euphoric.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Harrowed Darkhollow Grasps",
+      "flavor":"\"All the vastness of our universe is but a blank page on which they scrawl their words of hate and death.\" —Eris Morn",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Heliopause Grips",
+      "flavor":"\"We are not fatalists. We're optimists. We believe life exists beyond this dead orbit.\" —Arach Linde",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Immanent War Grips",
+      "flavor":"Tomorrow will not be easily tamed.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Infinite Lines Grips",
+      "flavor":"\"I saw three queens. No, two. No...just one.\" —RECORD 351-CHASM-6915",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Iron Breed Sleeves",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Iron Camelot Grips",
+      "flavor":"Forged in remembrance of Perun, she who hunted the Darkness where it dwelt.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Iron Companion Sleeves",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Iron Regalia Sleeves",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Jackknife",
+      "flavor":"Micro-collectors absorb ambient moisture.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Justicar's Grips",
+      "flavor":"A finger can be broken. A fist cannot.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"KALI-GNT Scout Rig",
+      "flavor":"I am a KALI-GNT AGGRESSIVE HANDSHAKE. Pleased to meet you.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Kallipolis Grips",
+      "flavor":"We cannot win the war beyond our walls without first winning the people within them.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Kellhunter's Rally",
+      "flavor":"The Kell's first command is a word. If the word goes unheeded, the Kell's second command is the blade.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Khepri's Sting",
+      "flavor":"The wound is not deep, but you know it exists—and that is enough.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Komarov",
+      "flavor":"The gauntlets include extensible microtools for fine work on spacecraft systems.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Long Tomorrow 9G",
+      "flavor":"\"All the way to Venus I tracked her. But in the jungles of the Ishtar Sink the trail vanished.\"",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Mangala Skin",
+      "flavor":"Mars is far, far out. Light crawls across the gap from the City. Hunters respect that isolation.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Neuroghast",
+      "flavor":"Though compatible with organic humanoids, Neuroghast armor was optimized for prosthetic or Exo limbs.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Order's Grip",
+      "flavor":"A finger can be broken. A fist cannot.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Prime Zealot Gloves",
+      "flavor":"Forged from the remnants of broken Vex. Some of the component matter is older than the solar system.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Prototype",
+      "flavor":"Your Ghost built this wire armor from available mass. It handles life support, but little else.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Queen's Guard Grips",
+      "flavor":"The hand of the throne.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Raku Vindicator",
+      "flavor":"Leather flash conceals an exquisite self-aligning coil pattern.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Rogue",
+      "flavor":"A pauldron-mounted transceiver helps Hunters and their Ghosts stay in touch with their ships.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Rustburner",
+      "flavor":"The gauntlets include a dedicated proprioceptor net for knife work.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Sanction Custom",
+      "flavor":"In combat, every motion must be mindless and perfect.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Sanction Six",
+      "flavor":"Some Hunters boast of things they find. We boast of places we fly.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Sealed Ahamkara's Grasps",
+      "flavor":"Plating the Ahamkara bones in silver helps to quiet the auditory hallucinations...oh bearer mine.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Shinobu's Vow",
+      "flavor":"\"No supplies. Armor in tatters. But the refugees had asked for help. And she had given her word.\" —Tale of the Six Coyotes",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Sinaa Jaguar",
+      "flavor":"The wire in these gloves has been tweaked to grow warm when your knife pierces enemy hide.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Sinaa Lamprey",
+      "flavor":"Slippery as an eel.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Sleeves of the Iron Lords",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Sleeves of the Pariah",
+      "flavor":"\"They cast him out. But his words never left.\" —Fractal Scrolls",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Snakeline",
+      "flavor":"\"The black gloves are tough, menacing and—I swear—make you unbeatable at Go.\" —Pahanin Errata",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Sojourn Grips",
+      "flavor":"We must make our own safety without the City.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Spektar (All Types)",
+      "flavor":"Armor infused with Chroma multi-channel heat sinks.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Stratus",
+      "flavor":"A Hunter's armor must be nimble, tough, and wearable - because it will be their only home.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Takanome Ranger",
+      "flavor":"\"In the Dark Age, before the safety of the City, before the rise of the Tower, there were only the Rangers.\" —Chiyoko Mey",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Tracker",
+      "flavor":"Wire armor is light and flexible, perfect for silent motion and cramped conditions.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Vaquero",
+      "flavor":"Howdy.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Vermilion Stripe",
+      "flavor":"The vermilion stripe is a Hunter mark of mourning.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Warden's Rally",
+      "flavor":"\"That Prison holds nothing that does not want to be there. Knowing that, ask yourself, 'Why do the Taken stay?'\" —Eris Morn",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Watchers' Grips",
+      "flavor":"\"The watcher does not just observe. The watcher defines the observed.\" —Parables of the Allspring",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Winged Sun Sleeves",
+      "flavor":"\"Those who fly beneath the Sun do not come back unscathed.\" —Parables of the Allspring",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Wolf Pelt Weave",
+      "flavor":"\"In the Reef, you use what you can find, even if all you can find is Fallen.\"",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Young Ahamkara's Spine",
+      "flavor":"Give me your arm, oh bearer mine. Let me help you fill the world with teeth.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Raku Poltergeist 2.0",
+      "flavor":"Crucible variant. Interlaced with Jormungand coil favored by Warlocks.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"KD Bogatyr 2.0",
+      "flavor":"\"Just come back with a good story, y'hear?\" —Cayde-6",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"High Command Grips",
+      "flavor":"Your deeds speak for themselves.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Eon Tracer Gloves",
+      "flavor":"\"I can never find the beginning, the place where the path forks.\" —RECORD 448-CHASM-6808",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Endling Grasps",
+      "flavor":"We cannot let the lineage end with us.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Nanomania Grasps",
+      "flavor":"Let's get right to it. How can Clovis Bray help the Exodus project? ~SIVA.MEM.CL001",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Mongrel Ogre's Grasps",
+      "flavor":"\"Enemy of my enemy, I guess. Still, never thought we'd find ourselves here.\" —Shiro-4",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Lion's Vigil Grips",
+      "flavor":"\"Step forward, if you think you can challenge me.\" —Fractal Scrolls",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Iron Saga Grips",
+      "flavor":"Thus armed were the Iron Lords of old, in the days after the Collapse.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Dream-Eater Grasps",
+      "flavor":"Hunters suffer insomnia at far higher rates than other Guardians—even Exos.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Days of Iron Grips",
+      "flavor":"\"When the tainted grail o'erflowed again, who answered?\" —The New-Forged Song",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Shinobu's Vow",
+      "flavor":"\"No supplies. Armor in tatters. But the refugees had asked for help. And she had given her word.\" —Tale of the Six Coyotes",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Grasps of Triumph",
+      "flavor":"The glory you've fought for rests in your hands.",
+      "type":"Hunter Gauntlets"
+   }
+]

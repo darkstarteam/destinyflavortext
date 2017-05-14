@@ -1,0 +1,422 @@
+[  
+   {  
+      "name":"Agnes III",
+      "flavor":"Old Agnes says that this is no world for half measures.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Antimuon ESc",
+      "flavor":"Can not the smallest particle menace the greatest warrior?",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Arcana ESc ",
+      "flavor":"Could anyone even claim to know the questions…or all the answers?",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Baryonic ESm ",
+      "flavor":"What mysteries lie in the smallest shards of reality?",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Binary Dawn ",
+      "flavor":"\"One day you will see them both.\" —Parables of the Allspring",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Black Chasma ESc",
+      "flavor":"A lightweight and snappy Nadir shotgun, earned through glory in the Crucible.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Bronzed Chasma ESc",
+      "flavor":"A brute force Nadir firearm, earned through glory in the Crucible.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Burden of Proof XI ",
+      "flavor":"Executor-issued shotgun for loyal supporters of the New Monarchy.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Cepheid ESm ",
+      "flavor":"What strange discoveries lie beyond our orbit?",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Chasma Esc",
+      "flavor":"The ESc's blunt exterior conceals a superb multirole shotgun with multiple systems bays.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Conspiracy Theory-D",
+      "flavor":"You're not paranoid if there really is a monolithic embodiment of pure evil out to get you.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Copperhead Mk. 32",
+      "flavor":"The heavy-load Mk. 32 provides the punctuation mark at the end of a lot of lives.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Crash Casket 81 ",
+      "flavor":"Press here to fill shallow graves.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Cúchulainn-D",
+      "flavor":"You may die, but you will die on your feet, facing your enemies.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Deadlander Mk. 24 ",
+      "flavor":"The perfect close-quarters tool. The Deadlander pays its way in hurt - overpacked shells deal excellent damage.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Ded Alia III ",
+      "flavor":"Challenge every reality. There is always another way.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Ded Hexia IV ",
+      "flavor":"A pox upon your enemies.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Ded Laurea IV",
+      "flavor":"An instrument for turning thoughts and wills into realities.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Ded Regnum III ",
+      "flavor":"Your own mind must be your first conquest. Do not let it be your last.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Ded Venefici I",
+      "flavor":"In Dark hearts, your Light is a righteous poison.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Deidris's Retort ",
+      "flavor":"A brute-force weapon, forged in fire by the Lords of the Iron Banner.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Dido-A",
+      "flavor":"Wanderer, your journey will end with victory.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Double Nickel",
+      "flavor":"A blunt reminder that this particular room belongs to you.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Dry Rot 32",
+      "flavor":"Custom-rigged hole puncher.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Felwinter's Lie ",
+      "flavor":" close quarters weapon forged in fire by the Lords of the Iron Banner.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Found Verdict ",
+      "flavor":"Witness.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Graviton ESe ",
+      "flavor":"The perfect close-quarters tool. A cut-down holdout weapon, the Graviton is easy to ready and aim.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Graviton ESm ",
+      "flavor":"A novice Guardian fought off a horde of Dreg with wit, reflexes, and this lightweight shotgun.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Häkke Test-A ",
+      "flavor":"Häkke prototype. Use against Hive targets to gather data for Häkke's armament scientists.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Hard Luck Charm ",
+      "flavor":"Luck is a four-letter word.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Harrowed Silence of A'arn ",
+      "flavor":"\"Without victory, we cannot go home!\" —Primus A'arn",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Her Champion",
+      "flavor":"Raise a hand against her, and we will raise ours in return.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Her Courtesy",
+      "flavor":"Etiquette is a powerful weapon.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Her Eyes",
+      "flavor":"An Awoken gift from the Reef, marked with the Queen's crown.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Her Unspoken Will",
+      "flavor":"An Awoken gift from the Reef, marked with the Queen's crown.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Hide and Seek-42 ",
+      "flavor":"A close-quarters modified by Dead Orbit's superb technicians and specialists.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"I PROTEST ",
+      "flavor":"It's DISGRACEFUL!",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Immobius ",
+      "flavor":"As long as you can't move me, I can't be moved.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Impulse Esc ",
+      "flavor":"Rumor says the Fallen call it the Ambition Maul, for all the proud Captains it has humbled.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"In Times of Need",
+      "flavor":"In case of emergency, point at enemies and pull trigger. Repeat as necessary.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Invective ",
+      "flavor":"\"I tried to talk them down. They made a grab for my Ghost. After that it was a short conversation.\" - Ikora Rey",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Invisible Hand M7 ",
+      "flavor":"Built so light, it sometimes feels like it's not even there.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Jingukogo-D ",
+      "flavor":"The Häkke Jingukogo-D is a balanced weapon, built for conquest.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Judgment VI ",
+      "flavor":"Executor-issued close quarters weapon for loyal supporters of the New Monarchy.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"LOCKJAW ",
+      "flavor":"Leave them speechless.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Lord of Wolves",
+      "flavor":"\"By this right alone do I rule.\"",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Matador 64 ",
+      "flavor":"Be the bull.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Outlander Mk. 26 ",
+      "flavor":"The perfect close-quarters tool. The Outlander's ominous maw speaks truth - it deals exemplary damage for its class.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Outlander Mk. 38",
+      "flavor":"A mad spitter, tuned for nothing but suffering.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Party Crasher +1 ",
+      "flavor":"I said INVITE ONLY!",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Patch-A ",
+      "flavor":"A shotgun, modified by Dead Orbit's superb technicians and specialists.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Preacher Mk. 11 ",
+      "flavor":"The perfect close-quarters tool. The Preacher only knows one sermon. It's pretty good, though.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Preacher Mk. 20",
+      "flavor":"The perfect close-quarters tool. The Preacher sets a mind at peace.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Preacher Mk. 22",
+      "flavor":"The perfect close-quarters tool. The Preacher's always there when you need her.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Rude Awakening DOA",
+      "flavor":"High-impact firepower modified to fit the exacting specifications of Dead Orbit's expanding arsenal.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Sagitta",
+      "flavor":"A Guardian relic named for the arrow of the night sky.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Secret Handshake ",
+      "flavor":"Redacted.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"SG-Scattercast ",
+      "flavor":"A Vanguard-issue shotgun, thoroughly tested and completely reliable.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Sidewinder Mk.53 ",
+      "flavor":"Nimble and aggressive, the Mk.53 has a vicious bite.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Silence of A'arn ",
+      "flavor":"\"Without victory, we cannot go home!\" —Primus A'arn",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Stolen Will ",
+      "flavor":"\"Our enemies have taken much from us. We will steal everything from them.\" —Petra Venj",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Strongbow-D ",
+      "flavor":"The bloodthirsty Häkke Strongbow-D is a weapon fit for a conqueror.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"SUROS MKB-21 ",
+      "flavor":"The perfect close-quarters tool. The MKB-21 is a flexible tactical shotgun commonly used by the City's internal patrols.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"SUROS MKB-33",
+      "flavor":"A tactical upgrade to the MKB multirole shotgun line. Handy for close encounters.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"SUROS MKB-51",
+      "flavor":"Built for support, the multirole MKB-51 cuts through tough situations.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Swordbreaker ",
+      "flavor":"If you're going to face down a Knight with an ascendant blade, bring an ascendant gun.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"The 4th Horseman ",
+      "flavor":"It's not a holdout weapon, it's a pathfinder.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"The Chaperone",
+      "flavor":"\"My mother had a shotgun we called the Chaperone. Kept us alive out there, before we got to the City.\" —Amanda Holliday",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"The Comedian ",
+      "flavor":"A. A ha. A ha ha ha. A ha ha ha ha ha ha ha",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"The Crash ",
+      "flavor":"A close quarters weapon named and sanctified by the leaders of the Future War Cult.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"The Next Big Thing ",
+      "flavor":"Actually, I'm already pretty famous on Mars, so....\"",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Two for the Road ",
+      "flavor":"The rail-assisted firing mechanism provides ferocious punch. External cables armored for durability.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Two To The Morgue ",
+      "flavor":"You know the old saying…",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Universal Remote",
+      "flavor":"To the untrained eye this beast is a junker. To the trained eye, however, this junker…is a beast.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Vector Esc ",
+      "flavor":"This weapon revels in savage close-quarters combat.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Wolfborne Oath ",
+      "flavor":"\"In the pack leader we trust.\"",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Matador 64",
+      "flavor":"Be the bull.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"QUANTIPLASM~",
+      "flavor":"Dido-A: Wanderer, your journey will end with ~SIVA",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"The Proud Spire",
+      "flavor":"Forged in honor of Silimar, he who let his mighty deeds speak for themselves.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Unraveling Thread",
+      "flavor":"\"You have woven yourself a funeral shroud!\" —Fractal Scrolls",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"44 Curtain Call",
+      "flavor":"This high-impact weapon was designed to be a literal showstopper.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Bad Counsel IV",
+      "flavor":"Executor-issued shotgun for loyal supporters of the New Monarchy.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Last-Ditch 001",
+      "flavor":"A shotgun, modified by Dead Orbit's superb technicians and specialists.",
+      "type":"Shotgun"
+   },
+   {  
+      "name":"Occam's Razor",
+      "flavor":"Sometimes the simplest ways are best.",
+      "type":"Shotgun"
+   }
+]

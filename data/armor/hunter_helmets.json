@@ -1,0 +1,482 @@
+[  
+   {  
+      "name":"0A0X Nightmask",
+      "flavor":"Crucible variant. Fieldwire density and peak rise exceeds safe long-term standards.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Achlyophage Symbiote",
+      "flavor":"\"They told me it would eat my thoughts and leave me full of Light.\"",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"AOS#Cryptid",
+      "flavor":"Crucible variant. Rebreather comes with optional vaporized adrenaline.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Argus Deimatic",
+      "flavor":"Patterned by a grizzled Hunter and a Praxic Warlock, this remarkable armor records everything for later analysis.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Aspriet",
+      "flavor":"Crucible variant. The nanowire mesh shields the oxygen filters from unwanted particulates.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Astrolord Cover",
+      "flavor":"The fiercest contest lies ahead. This is irrefutable.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"ATS/8 ARACHNID",
+      "flavor":"Advanced tactical sensorium. Induced hallucinations integrate broad-spectrum targeting data.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Battuta",
+      "flavor":"The first Hunters were also the first mapmakers. Every Guardian owes them a debt.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Bog Wild",
+      "flavor":"Learn the swamp's secrets. Keep the swamp's secrets. Lie awake at night, horrified by the swamp's secrets.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Bright Shield",
+      "flavor":"Protection from the slings and arrows of life, but not much else.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Brusilov",
+      "flavor":"Every Hunter leaves the City knowing it could be for the last time.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Burning Eye Mask",
+      "flavor":"\"There are eyes beyond our eyes. Lamps of nothingness, voids of brightness.\" —Parables of the Allspring",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Carnivore Match",
+      "flavor":"Rawr.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Celestial Nighthawk",
+      "flavor":"Starlight is your guide. No vacuum will contain you.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Circuit Defender",
+      "flavor":"A clever Guardian knows which gates to pass through and which ones to pass by.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Cold Mantis",
+      "flavor":"\"Don't let your pride kill you. When you see a thorny target, call for a team. Consider them an audience, if that helps.\"",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Corsair's Revenge",
+      "flavor":"Possession of Fallen armor has become a point of pride among the Reef Corsairs.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Cover of No Tomorrows",
+      "flavor":"The fiercest contest lies ahead. This is irrefutable.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Cover of the Exile",
+      "flavor":"\"Don't you find it strange that the one called The Speaker rarely has anything useful to say?\" —Sayings of the Disciples",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Cryptid",
+      "flavor":"Seek out other Guardians when the howling loneliness grows too deep. Pretend it's a chance meeting, though.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Cultist's Cover",
+      "flavor":"The fiercest contest lies ahead. This is irrefutable.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Darkhollow Mask",
+      "flavor":"\"The Dreadnaught is a blighted hollow gouged into our Universe.\" —Eris Morn",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Dead Light Cover",
+      "flavor":"\"Listen. Some stars won't stop calling to us.\" —Arach Linde",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Desolate Cover",
+      "flavor":"A smell of ozone. A distant scream. A feeling of dread.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Dustwalker",
+      "flavor":"Titan and a Hunter crash on Mars. Titan's helmet stops a Cabal slug. Hunter's helmet stops her from starving. Who lives?",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Elector's Mask",
+      "flavor":"Hide your face, but let your voice be heard.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Exodus Cover",
+      "flavor":"Travel the wilderness and master it. This is our salvation.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Fear Eater",
+      "flavor":"When I wear the mask I am a machine, the purpose of which is consumption.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Forester",
+      "flavor":"Shielded optics and an armored rebreather for long-duration sorties into the wild.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Ghost Angel",
+      "flavor":"\"Shake it off. We've all been dead before.\"",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Gravebreaker",
+      "flavor":"Custom sensorium. Superb respirator. Terrifying visage.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Graviton Forfeit",
+      "flavor":"\"Doesn't matter how good you are—you stay out there too long, you're not coming back. Not the same way you left, anyway.\" —Tevis",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"H_LD Starwinder",
+      "flavor":"This helmet will keep you happy. Why shouldn't you be happy?",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Harrowed Darkhollow Mask",
+      "flavor":"\"The Dreadnaught is a blighted hollow gouged into our Universe.\" —Eris Morn",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Heliopause Mask",
+      "flavor":"If only Darkness lies beyond the heliopause, we have already lost.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Helm of the Jade Rabbit",
+      "flavor":"Ancient technology repurposed for the modern Guardian.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Hood of Malok",
+      "flavor":"It's like they say: Pride goeth before the fall.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Infinite Lines Mask",
+      "flavor":"\"I saw Darkness. No Light, no Earth, no air. Only Darkness. I...I can't breathe...\" —RECORD 342-CHASM-6827",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Iron Breed Mask",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Iron Camelot Casque",
+      "flavor":"Forged in remembrance of Efrideet, she whose keen eye never missed her mark.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Iron Companion Mask",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Iron Regalia Mask",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Jackknife",
+      "flavor":"\"I inhaled eight times lethal dose. Tasted like a spring picnic. Good respirator.\"",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Justicar's Mask",
+      "flavor":"Enough talk. The time has come for action.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"KALI-GNT Scout Rig",
+      "flavor":"I am a KALI-GNT SKULL MOUNT. Let us find prey.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Kallipolis Mask",
+      "flavor":"Not the past, not the future. The present is where we should turn our eyes.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Kellhunter's Sight",
+      "flavor":"A Kell's authority is like that of a sniper. You can't see everything, but as long as they believe you can…\"",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Knucklehead Radar",
+      "flavor":"You can see the point, right? Who wants to team up with one?",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Komarov",
+      "flavor":"Never lose your bearings. A disoriented Hunter cannot select vital targets or track lines of flight.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Long Tomorrow 9G",
+      "flavor":"\"Some of 'em survived. I know a fellow says he saw a wish dragon on Jupiter a ways back.\"",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Mangala Skin",
+      "flavor":"Success depends on meticulous preparation. Scour-proof your visors and rig backup sensors, or risk fighting blind.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Mantic Zealot Helm",
+      "flavor":"Forged from the cores of Hezen Vex. If you feel a sense of revelation, remove immediately and inject antientheogens.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Mask of Immanent War",
+      "flavor":"Every horizon hides a war as old as time.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Mask of the Iron Lords",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Mask of the Pariah",
+      "flavor":"The sun must set before it will rise again.\" —Parables of the Allspring",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Mask of the Third Man",
+      "flavor":"It wasn't me. It was the Third Man.\"",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Momentum Helmet",
+      "flavor":"Victory is in sight.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Neuroghast",
+      "flavor":"Embedded neural nodes improve the biological connections between mind and body.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Oblivion Cover",
+      "flavor":"Travel the wilderness and master it. This is our salvation.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Order's Mask",
+      "flavor":"Enough talk. The time has come for action.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Prime Zealot Helm",
+      "flavor":"Forged from the cores of Hezen Vex. If you feel a sense of revelation, remove immediately and inject antientheogens.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Prototype",
+      "flavor":"Your Ghost built this wire armor from available mass. It handles life support, but little else.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Queen's Guard Mask",
+      "flavor":"Show me all that I have yet to rule.\"",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Racing Helmet",
+      "flavor":"Crash resistant and fashion forward.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Raku Vindicator",
+      "flavor":"Four-quadrant battlefield dominance.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Rogue",
+      "flavor":"Do Hunters abide by the law of the City? Better to ask: in the wilderness, is there law beyond the Hunter?",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Rustburner",
+      "flavor":"Hunters who stalk the trackless wastes of Mars need armor designed to handle the scouring sand and cold.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Sanction Custom",
+      "flavor":"Nerve telemetry goes to a GNT study group working to understand the neural correlates of triumph.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Sanction Six",
+      "flavor":"Twilight Gap changed things.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Sinaa Jaguar",
+      "flavor":"Sensory interfaces are a stock component of Hunter gear, but they are rarely tuned so raw.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Sinaa Lamprey",
+      "flavor":"Fast-cycling oxygen filters keep the air crisp and fresh.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Skyburners Annex",
+      "flavor":"\"To die twice in a strange land: first by Oryx's hand, then by yours.\"",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Snakeline",
+      "flavor":"All Guardians channel Light. But Hunters insist they bring a certain flair to it.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Sojourn Cover",
+      "flavor":"Travel the wilderness and master it. This is our salvation.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Spektar (All Types)",
+      "flavor":"Armor infused with Chroma multi-channel heat sinks.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Stratus",
+      "flavor":"Descended from an aerospace design, the optics and sensorium provide excellent awareness.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Stratus White",
+      "flavor":"Some generous Hunter donated this helmet for the use of newly reborn Hunters.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Takanome Ranger",
+      "flavor":"Eventually the Guardians took over for the Rangers. Now some say Ayane Takanome was a myth all along.\" —Chiyoko Mey",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"The Waiting Crown",
+      "flavor":"Enough talk. The time has come for action.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Tracker",
+      "flavor":"This basic helmet offers a closed rebreather and a decent internal sensorium.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Unyielding Casque",
+      "flavor":"The weak will be consumed.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Vaquero",
+      "flavor":"Just my rifle, my Sparrow, and me.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Vermilion Stripe",
+      "flavor":"A single mark painted upon the forehead in remembrance of a lost comrade.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Warden's Sight",
+      "flavor":"\"Watch your enemies, Guardian. Study. Judge. Learn.\" —Variks",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Wolf Pelt Weave",
+      "flavor":"\"Took some work to get their helmets pumping oxygen. Never did get the Fallen stench out, though.\"",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Lion's Vigil Mask",
+      "flavor":"\"We watch, and we wait. And we train.\" —Fractal Scrolls",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Iron Saga Mask",
+      "flavor":"Thus armed were the Iron Lords of old, in the days after the Collapse.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Days of Iron Crown",
+      "flavor":"\"When the Last of Lords unfurled the Banner once again, who took up arms to march beneath it?\" —The New-Forged Song",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Raku Poltergeist 2.0",
+      "flavor":"Crucible variant. Now less likely to decouple neural connections.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"KD Bogatyr 2.0",
+      "flavor":"\"I need you to take this seriously, y'hear? Cause then I don't have to.\" —Cayde-6",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"High Command Mask",
+      "flavor":"This is the face of justice.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Eon Tracer Mask",
+      "flavor":"\"It's too much… Turn it off… Let me out!\" —RECORD-449-CHASM-6263",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Endling Mask",
+      "flavor":"We will only be extinct when the last of us is gone.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Nanomania Mask",
+      "flavor":"SIVA doesn't expire, degrade, or forget. It can remain dormant even on long voyages. ~SIVA.MEM.WB004",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Dream-Eater Mask",
+      "flavor":"\"Of what do Hunters dream? The places they've never been.\"",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Mask of Triumph",
+      "flavor":"You've seen every planet and stared into the Darkness. And you live.",
+      "type":"Hunter Helmet"
+   }
+]

@@ -1,0 +1,61 @@
+[
+  {
+     "name":"Azure Lens",
+     "flavor":"\"When I feel blue, this lens makes me happy. And when I feel happy, this lens makes me blue.\" —Wen Jie",
+     "type":"Artifact"
+  },
+  {
+     "name":"Golden Age Lens",
+     "flavor":"\"Perhaps, in the past, Light had a warmer, redder hue? It's not impossible.\" —Wen Jie",
+     "type":"Artifact"
+  },
+  {
+     "name":"Grayscale Lens",
+     "flavor":"\"A valuable reminder that nothing in the universe is black-and-white.\" —Wen Jie",
+     "type":"Artifact"
+  },
+  {
+     "name":"Essence of the Oversoul",
+     "flavor":"\"Feed the Eidolon Ally, and it will be transformed.\" —Eris Morn",
+     "type":"Artifact"
+  },
+  {
+     "name":"Memory of Radegast",
+     "flavor":"\"Our lives are no longer our own. We have sworn them in service to the Traveler, and to humanity.\" —Lord Radegast",
+     "type":"Artifact"
+  },
+  {
+     "name":"Memory of Perun",
+     "flavor":"\"We hunt best in a pack.\" —Lady Perun",
+     "type":"Artifact"
+  },
+  {
+     "name":"Memory of Skorri",
+     "flavor":"\"The astral orb, slung low across the sky—Beneath it raised we lords our banner high.\" —Lady Skorri",
+     "type":"Artifact"
+  },
+  {
+     "name":"Memory of Timur",
+     "flavor":"\"Ask strange questions. Our questions shape the reality that answers them.\" —Lord Timur",
+     "type":"Artifact"
+  },
+  {
+     "name":"Memory of Felwinter",
+     "flavor":"\"I accept the consequences.\" —Lord Felwinter",
+     "type":"Artifact"
+  },
+  {
+     "name":"Memory of Silimar",
+     "flavor":"\"Come, is there no one who can stand against the Iron Wall?\" —Lord Silimar",
+     "type":"Artifact"
+  },
+  {
+     "name":"Memory of Jolder",
+     "flavor":"\"If I am to die, let it be in battle, with weapons in my hands and laughter in my heart.\" —Lady Jolder",
+     "type":"Artifact"
+  },
+  {
+     "name":"Memory of Gheleon",
+     "flavor":"\"So long as we actually manage to do some good, you can call me Iron anything you want.\" —Lord Gheleon",
+     "type":"Artifact"
+  }]

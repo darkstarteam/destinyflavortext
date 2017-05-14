@@ -1,0 +1,417 @@
+[  
+   {  
+      "name":"Agema",
+      "flavor":"A derivative of the Gatewatch pattern, Agema armor incorporates the lessons of too many bloody stands.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Arihant ",
+      "flavor":"All Light has a source: a fire, a filament, a star. Battle is how we seek that origin.\" - Pujari, The Transcripts",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Armada",
+      "flavor":"\"Get behind me.\"",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Astrolord Plate",
+      "flavor":"War is the struggle to exist. Everything real is a combatant.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Blindsight Plate",
+      "flavor":"\"I shrouded myself so when the Light returned I could see it all the clearer.\" —Parables of the Allspring",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"BRONTIOS",
+      "flavor":"Subtlety is overrated.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Commando",
+      "flavor":"The Vanguard selects elite Titans to form commando cadres.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Commando Custom",
+      "flavor":"Commando tactical rig repurposed for Crucible competition.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Crest of Alpha Lupi",
+      "flavor":"Whoever survives our passing does so only by our consent.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Cuirass of the Witness",
+      "flavor":"\"One king falls. Ten rise to take the power.\" —Variks",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Dead Light Plate",
+      "flavor":"\"Success is not about survival. It is about discovery.\" —Arach Modesta",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Desolate Plate",
+      "flavor":"Take your new shape.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"DURGA-GNT",
+      "flavor":"I am a DURGA-GNT LOAD BEARING CUIRASS. Feed me bullets.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Duskrender",
+      "flavor":"He never sought glory or prizes. Only peace.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Elector's Heart",
+      "flavor":"They will know you fight not for yourself, but for the people's will.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Exodus Plate",
+      "flavor":"Humanity has been caged. We will break the bars.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Fieldplate",
+      "flavor":"History is a question of armor. What will it take to kill us? Fieldplate says: much more than this.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Firebreak",
+      "flavor":"Beneath the armored superstructure, Titan plate is tiled with inertial sinks and field drivers.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Garuda",
+      "flavor":"\"We will not follow the orders of a craven and a sycophant.\" —Lilavati-12",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Gatewatch",
+      "flavor":"Born in the dark age that followed the Collapse, this is a formidable defense for the novice Titan.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Gwalior",
+      "flavor":"The Gwalior pattern improves on standard Fieldplate while remaining economical.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Harrowed War Numen's Chest",
+      "flavor":"Death is the game, and the game is always death.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Heart of the Justicar",
+      "flavor":"The City is divided. We must unite beneath a single will.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Heart of the Order",
+      "flavor":"The City is divided. We must unite beneath a single will.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Heliopause Plate",
+      "flavor":"The Sun used to give us life. Now, staying near the Sun will be our doom.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Hesperos",
+      "flavor":"This suit was designed as an homage to the Golden Age Hesperonauts.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Highlander",
+      "flavor":"The breastplate is reinforced by ribs of relic iron, as tough as it is precious.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Holdfast",
+      "flavor":"\"I didn't get shot. I never get shot. I just body-checked the missile.\"",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Illyrian",
+      "flavor":"Not so much a formal Firebreak variant as the collected wisdom of Titans interested in peak performance.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Immanent War Plate",
+      "flavor":"Conflict is the mother of reality.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Infinite Lines Plate",
+      "flavor":"\"I saw myself! Slaying the Darkness! That's what I saw!\" —RECORD 344-CHASM-6872",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Iron Breed Plate",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Iron Companion Plate",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Iron Regalia Plate",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Ithacan",
+      "flavor":"\"I'm Nobody.\"",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Jovian Guard",
+      "flavor":"In Jovian exploration, as in all things, the Titans will lead the charge.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Kabr's Wrath",
+      "flavor":"In the aftermath, he became obsessed with the machines.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Kallipolis Plate",
+      "flavor":"The City's ruler must be a warrior as well as a philosopher.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Kellslayer's Cuirass",
+      "flavor":"I am a walking tank. My arsenal, endless. The result of my ire, devastation.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Knight ",
+      "flavor":"Every Guardian is a priceless resource. Titan armor is an incubator for legends.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Lightmail",
+      "flavor":"Fabricated by your Ghost with available mass, this basic armor is very thin on plating.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Molniya",
+      "flavor":"Armored in the thunderbolt.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Molniya Custom",
+      "flavor":"Match-grade superheavy armor: a wearable tank.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Monitor",
+      "flavor":"\"The Cabal centurion opened up on her at point-blank, and we heard the most fearsome sound. She was laughing.\"",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Murvaux",
+      "flavor":"\"Luke Romagne. Gave his last full measure in the European Dead Zone.\" —The Last Stands of First Pillars",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"MYCENAE",
+      "flavor":"More at home in a museum than in the field.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Objekt 959 Plate",
+      "flavor":"Prototype assault armor repurposed for Crucible play.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Oblivion Plate",
+      "flavor":"Humanity has been caged. We will break the bars.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Pacorus",
+      "flavor":"\"No father should have to bury their child.\"",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Pandion",
+      "flavor":"Crucible variant. The shock-tempering aerofoam harness is designed to absorb punishment.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Plate of No Tomorrow",
+      "flavor":"War is the struggle to exist. Everything real is a combatant.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Plate of the Exile",
+      "flavor":"\"Let the heat melt your body so your soul might flow with the river of time.\" —Parables of the Allspring",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Plate of the Pariah",
+      "flavor":"\"I welcome every challenge, for it only makes me stronger.\" —Parables of the Allspring",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Plate of the Seven",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Queen's Guard Plate",
+      "flavor":"An Awoken relic from the Reef, marked with the Queen's crown.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Raku Crucible Type",
+      "flavor":"Crucible custom. Foamed plate structure with tight tolerances and overbuilt field drivers.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Raku Fulcrum",
+      "flavor":"Crucible custom. Annealed plate boundaries provide superior shock distribution.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Scoutmail",
+      "flavor":"This lightweight scout armor is durable and easily maintained.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Spearhead",
+      "flavor":"\"This burn's from a slug rifle. That one's a shock blade. This one...ah, yes. Wei Ning gave me a hug.\"",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Spektar (All Types)",
+      "flavor":"Armor infused with Chroma multi-channel heat sinks.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Taroudant",
+      "flavor":"Treat your armor with the same care that the first Titans treated the City walls.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"The Armamentarium",
+      "flavor":"For This, There Is One Remedy",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Toutatis",
+      "flavor":"Named for an ancient divinity, this pattern is built for targeted, aggressive action.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Twilight Garrison",
+      "flavor":"\"One day the Last City will be known as the First City.\"",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Ursus Tactical",
+      "flavor":"You don't wear full battle rattle to a Crucible match unless you expect something to interrupt the match.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Vanir",
+      "flavor":"The legend of Ragnarok does not end with the death of the gods. There is a new world to build.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"VISIGOTH",
+      "flavor":"The preferred armor pattern of Jagi's Host.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"War Numen's Chest",
+      "flavor":"Death is the game, and the game is always death.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Watchers' Plate",
+      "flavor":"\"'Out of sight, out of mind,' they say. The Speaker wishes this was true.\" —Fractal Scrolls",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Willbreaker's Resolve",
+      "flavor":"Their blades break against your heart.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Winged Sun Plate",
+      "flavor":"\"Like a meteor burning until nothing is left but the idea of a Light.\" —Parables of the Allspring",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Zhurong",
+      "flavor":"Surrender is never an option.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Stellar Impact Plate",
+      "flavor":"Welcome to Mark 2 STELLAR IMPACT. Have a nice war!",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Scarab's Vigil Plate",
+      "flavor":"\"If you wish to learn the ways of war, look around you.\" —Parables of the Allspring",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Iron Saga Plate",
+      "flavor":"Thus armed were the Iron Lords of old, in the days after the Collapse.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Days of Iron Cuirass",
+      "flavor":"\"When we feared the sun would ne'er on heroes rise again, whose deeds began the new Days of Iron?\" —The New-Forged Song",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Cosmoclast Plate",
+      "flavor":"I'm not sure what you mean, General. Is this still about the Exodus program? ~SIVA.MEM.WB012",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Raku Gwener Type 1",
+      "flavor":"Crucible Variant. Modified by the Raku group to meet Lord Shaxx's rigorous standards.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Mangonel Type 2",
+      "flavor":"\"If the terrain does not suit your purposes, reshape it.\" —Lord Silimar",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"High Command Plate",
+      "flavor":"Power is not a gift. It is a calling.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Eon Tracer Plate",
+      "flavor":"\"Eternities streamed past me like shooting stars…\" —RECORD-449-CHASM-6887",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Endling Plate",
+      "flavor":"We are the last of our species.",
+      "type":"Titan Chest Armor"
+   },
+   {  
+      "name":"Plate of Triumph",
+      "flavor":"You carry this mythical insignia as lightly as you carried the weight of the world.",
+      "type":"Titan Chest Armor"
+   }
+]

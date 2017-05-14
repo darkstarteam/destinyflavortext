@@ -1,0 +1,452 @@
+[  
+   {  
+      "name":"ACD/0 Feedback Fence",
+      "flavor":"The Active Contact Defense system uses Warsat hull materials to store a retaliatory charge.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Agema",
+      "flavor":"This gauntlet pattern boasts lightning-fast maintenance cycles.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Arihant ",
+      "flavor":"Philosophy divides those Titans who see battle as a question, and those who see it as an answer.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Armada",
+      "flavor":"Spinmetal beneath the fieldplate. A caress beneath the crush.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Astrolord Gauntlets",
+      "flavor":"Accept war as a fundamental process, not a transient condition.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Blindsight Gauntlets",
+      "flavor":"\"With the sight I saw the self within the self.\" —Fractal Scrolls",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"BRONTIOS",
+      "flavor":"They can hear you coming. They are terrified.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Commando Custom",
+      "flavor":"Some Titans prefer gauntlets with slow, smooth response. Others favor speed and strength.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Commando",
+      "flavor":"A chemoreceptor array on the right gauntlet detects explosives and cues up handling instructions.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Dead Light Gauntlets",
+      "flavor":"\"At least we'll know we tried.\" —Arach Henri",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Desolate Gauntlets",
+      "flavor":"More than shadows, but less than starstuff.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"DURGA-GNT",
+      "flavor":"ERROR: Cannot connect with target_SKULL. Please locate target_SKULL and establish contact.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Duskrender",
+      "flavor":"Vell Tarlowe was still a new Guardian when he joined the Titan Order of the Pilgrim Guard.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Elector's Gauntlets",
+      "flavor":"True power comes from the hands of the people.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Exodus Gauntlets",
+      "flavor":"We must make our own safety without the City.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Fieldplate",
+      "flavor":"Melee combat tests your nerve. Ignore every instinct to flee. Remember: you are a monster too.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Firebreak",
+      "flavor":"Built for forward battle, the Firebreak patterns reward diligent maintenance.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Garuda",
+      "flavor":"\"Do not think your precious Tower has all the answers, or that your new rank will make you any better at fighting the Darkness.\" —Lilavati-12",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Gatewatch",
+      "flavor":"The gauntlet, vambrace, and joints of a Titan's arms must withstand colossal forces.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Gauntlets of No Tomorrow",
+      "flavor":"Accept war as a fundamental process, not a transient condition.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Gauntlets of the Exile",
+      "flavor":"\"Strengthen the body, empower the mind.\" —Parables of the Allspring",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Gauntlets of the Pariah",
+      "flavor":"\"They cast him out. But his words never left.\" —Fractal Scrolls",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Gauntlets of the Seven",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Gwalior",
+      "flavor":"\"Total militarization would drive us to extinction.\" - Consensus transcript",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Harrowed War Numen's Fist",
+      "flavor":"The start is always the same. Enter his court, and call him out.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Heliopause Gauntlets",
+      "flavor":"\"We are not fatalists. We're optimists. We believe life exists beyond this dead orbit.\" —Arach Linde",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Hesperos",
+      "flavor":"The Hesperonauts installed the terraform engines and secured Venus's first colonies.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Highlander",
+      "flavor":"Much of a Titan's physical strength comes from the field drivers beneath the plate.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Holdfast",
+      "flavor":"Grip settings range from 'exquisite caress' to 'vengeful fist that does not know remorse'.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Illyrian",
+      "flavor":"When ammunition runs dry, your armor itself must become a weapon.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Immanent War Gauntlets",
+      "flavor":"Tomorrow will not be easily tamed.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Immolation Fists",
+      "flavor":"\"Don't let this sacrifice be in vain.\"",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Infinite Lines Gauntlets",
+      "flavor":"\"I saw three queens. No, two. No...just one.\" —RECORD 351-CHASM-6915",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Iron Breed Gauntlets",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Iron Camelot Gauntlets",
+      "flavor":"Forged in remembrance of Jolder, she whose mighty hammer taught the Darkness fear.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Iron Companion Gauntlets",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Iron Regalia Gauntlets",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Ithacan",
+      "flavor":"\"From the wall's shadows to the furthest shores.\"",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Jovian Guard",
+      "flavor":"We will go beyond the Reef. But first we will be prepared.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Kabr's Brazen Grips",
+      "flavor":"He consumed their technology like fire. Fashioning armor from their remnants.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Kallipolis Gauntlets",
+      "flavor":"We cannot win the war beyond our walls without first winning the people within them.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Kellslayer's Grips",
+      "flavor":"Who needs four arms? Two are more than enough to break bones.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Knight ",
+      "flavor":"The density of relic iron provides ample mass for inertial sinks to operate. It also breaks skulls.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Knightbone Guard",
+      "flavor":"\"There's nothing more satisfying than feeding a Knight a shard of their own.\" - Vell Tarlowe",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Lightmail",
+      "flavor":"Fabricated by your Ghost with available mass, this basic armor is very thin on plating.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Mau'ual's Maulers",
+      "flavor":"Valus Mau'ual once thought himself mighty. Valus Mau'ual doesn't think much of anything anymore.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Molniya",
+      "flavor":"\"So I ask Wei Ning: what about the Darkness itself? What then? And she says: I'll punch it too.\" - Pahanin Errata",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Molniya Custom",
+      "flavor":"Mighty field drivers put armor-shattering force into every punch.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Monarch's Gauntlets",
+      "flavor":"A finger can be broken. A fist cannot.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Monitor",
+      "flavor":"Be careful with your strength. Field-repairing a snapped trigger is inconvenient.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Murvaux",
+      "flavor":"\"Emonda Swale. Gave her last full measure in the Cosmodrome.\" —The Last Stands of First Pillars",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"MYCENAE",
+      "flavor":"The previous owner of these gauntlets left nothing behind but a vague smell of sweat.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"No Back Up Plans",
+      "flavor":"No ammo? No problem.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Objekt 959 Guards",
+      "flavor":"Exposed heat sinks dump vaporized coolant.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Oblivion Gauntlets",
+      "flavor":"We must make our own safety without the City.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Order's Gauntlets",
+      "flavor":"A finger can be broken. A fist cannot.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Pacorus",
+      "flavor":"\"You cannot understand this pain.\"",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Pandion",
+      "flavor":"Crucible variant. Preprogrammed with thousands of gripping, shoving, throwing and catching motions.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Queen's Guard Gauntlets",
+      "flavor":"The hand of the throne.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Raku Crucible Type",
+      "flavor":"Crucible custom. Memory metal insets help form a perfect fist, each and every time.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Raku Fulcrum",
+      "flavor":"Crucible custom. Haptic pads provide feedback on weapon performance.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Ruin Wings",
+      "flavor":"In the Garden grows a tree of silver wings. The leaves are ruin, the bark disaster. Of the seeds we do not speak.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Scoutmail",
+      "flavor":"Titan gauntlets typically leave the fingers free of bulky armor. Weapon handling is paramount.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Spearhead",
+      "flavor":"\"To conserve ammo, we disrupted the enemy command structure with several sharp blows to the skull.\" —Wei Ning",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Spektar (All Types)",
+      "flavor":"Armor infused with Chroma multi-channel heat sinks.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Taroudant",
+      "flavor":"\"The City's defenses are only as strong as your two arms.\"",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Thagomizers",
+      "flavor":"\"Don't get too close.\" ",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Toutatis",
+      "flavor":"\"Your job on the fireteam is to stand when everything else seems sure to fall.\"",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Ursus Tactical",
+      "flavor":"Field drivers serve the twin purposes of boosting strength and absorbing shock.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Vanir",
+      "flavor":"Massive pauldron-mounted inertial sinks help absorb the shock of incoming fire.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"VISIGOTH",
+      "flavor":"The preferred armor pattern of Jagi's Host.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"War Numen's Fist",
+      "flavor":"The start is always the same. Enter his court, and call him out.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Watchers' Gauntlets",
+      "flavor":"\"The watcher does not just observe. The watcher defines the observed.\" —Parables of the Allspring",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Willbreaker's Fists",
+      "flavor":"Take what is yours.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Winged Sun Gauntlets",
+      "flavor":"\"Those who fly beneath the Sun do not come back unscathed.\" —Parables of the Allspring",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Witness Gauntlets",
+      "flavor":"\"Without a leader, the Taken are a force of nature. They feel only hunger and know only rage.\" —Eris Morn",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Zhurong",
+      "flavor":"\"Your first duty is to the people of the City.\" —Pilgrim Guard",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Stellar Impact Gauntlets",
+      "flavor":"Welcome to Mark 2 STELLAR IMPACT. Optimized for concussive orbital reentry.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Spliced Cosmoclast Gauntlets",
+      "flavor":"Doctor Bray, I'm sure you've realized SIVA's applications extend beyond colonization. ~SIVA.MEM.CL011",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Scarab's Vigil Gauntlets",
+      "flavor":"\"Step forward, if you think you can challenge me.\" —Fractal Scrolls",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Iron Saga Gauntlets",
+      "flavor":"Thus armed were the Iron Lords of old, in the days after the Collapse.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Days of Iron Gauntlets",
+      "flavor":"\"When the tainted grail o'erflowed again, who answered?\" —The New-Forged Song",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Cosmoclast Gauntlets",
+      "flavor":"Doctor Bray, I'm sure you've realized SIVA's applications extend beyond colonization. ~SIVA.MEM.CL011",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Thagomizers",
+      "flavor":"Don't get too close.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Raku Gwener Type 1",
+      "flavor":"Crucible variant. Combining the best of Golden Age and City Age innovation.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Mangonel Type 2",
+      "flavor":"\"Ponder and deliberate before you make a move.\" —Sun Tsu",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"High Command Gauntlets",
+      "flavor":"Your deeds speak for themselves.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Eon Tracer Gauntlets",
+      "flavor":"\"I can never find the beginning, the place where the path forks.\" —RECORD 448-CHASM-6808",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Endling Gauntlets",
+      "flavor":"We cannot let the lineage end with us.",
+      "type":"Titan Gauntlets"
+   },
+   {  
+      "name":"Fists of Triumph",
+      "flavor":"Victory and peace lie within your grasp. Take and hold them.",
+      "type":"Titan Gauntlets"
+   }
+]

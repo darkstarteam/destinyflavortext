@@ -1,0 +1,442 @@
+[  
+   {  
+      "name":"AOS#Al-Suhail",
+      "flavor":"Crucible variant. Glove discharge nodes have no pain inhibitors.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Apex Harmonic",
+      "flavor":"The interwoven neuromotors are precise enough to pluck an atom from a molecule.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Astrolord Gloves",
+      "flavor":"Accept war as a fundamental process, not a transient condition.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Aura Purge",
+      "flavor":"Permit no distractions.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Axiom Coven",
+      "flavor":"\"Pray the bullets find you first. I will not leave a corpse for your Vandals to squabble over.\"",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Azoth Bend ",
+      "flavor":"Warlocks can reshuffle a substance's atomic particles with a wave of their hands.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Barkhan Dune",
+      "flavor":"\"They say water once fell on Mars. Can you imagine it?\"",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Bindcaster",
+      "flavor":"\"To inflict your desires upon reality.\" —Toland, the Shattered",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Blindsight Gloves",
+      "flavor":"\"With the sight I saw the self within the self.\" —Fractal Scrolls",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Born Spark",
+      "flavor":"Fabricated by your Ghost using nearby mass, this fieldweave handles life support and little else.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Chroma Vow",
+      "flavor":"Feedback from a botched technique can cause agonizing burns. Fight through the pain.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Claws of Ahamkara",
+      "flavor":"Look at all this life, oh bearer mine. There is so much left to burn...",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Code Fire",
+      "flavor":"Many Warlock techniques are channeled through the hands, so the gloves are a complex weave.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Cormorant Line",
+      "flavor":"We spread our arms wide enough to envelop the world.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Dead Light Grips",
+      "flavor":"At least we'll know we tried.\" —Arach Henri",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Deathsinger's Grip",
+      "flavor":"Grip the universe. Reshape it. Disregard the screams.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Desolate Gloves",
+      "flavor":"More than shadows, but less than starstuff.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Dujiao Shou",
+      "flavor":"\"This world of ours is full of wonders.\" —Wen Jie",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Dusk Tread",
+      "flavor":"\"It's not a proper learning experience if you don't dissect the body.\"",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Eclipse Maw",
+      "flavor":"\"When he came back his gloves were still smoking. Of the Fallen, nothing remained.\"",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Elector's Gloves",
+      "flavor":"True power comes from the hands of the people.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Enigma Burn",
+      "flavor":"Attune yourself to your fieldweave. A clean circuit should feel like a good night's rest.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Exodus Grips",
+      "flavor":"We must make our own safety without the City.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Extropy Morph",
+      "flavor":"Gravity is the weakest force, yet it chooses the shape of the universe. Thus, subtlety triumphs.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Fatekiller Grips",
+      "flavor":"We must make our own safety without the City.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Gloves of No Tomorrow",
+      "flavor":"Accept war as a fundamental process, not a transient condition.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Gloves of the Exile",
+      "flavor":"\"Strengthen the body, empower the mind.\" —Parables of the Allspring",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Gloves of the Hezen Lords",
+      "flavor":"\"Capable gauntlets. Extremely effective. I have only one piece of advice: never touch a living Vex.\"",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Gloves of the Seven",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Grasps of Ir",
+      "flavor":"At the beginning, they stood in thrall of the Formless One, and they offered themselves to its depth.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Haliaetus",
+      "flavor":"Crucible variant. The feathermesh pattern balances speed and strength.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Harrowed Grasps of Ir",
+      "flavor":"At the beginning, they stood in thrall of the Formless One, and they offered themselves to its depth.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Heliopause Gloves",
+      "flavor":"\"We are not fatalists. We're optimists. We believe life exists beyond this dead orbit.\" —Arach Linde",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Immanent War Gloves",
+      "flavor":"Tomorrow will not be easily tamed.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Infinite Lines Gloves",
+      "flavor":"\"I saw three queens. No, two. No...just one.\" —RECORD 351-CHASM-6915",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Iron Breed Gloves",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Iron Camelot Gloves",
+      "flavor":"Forged in remembrance of Timur, he whom the City's enemies dreaded most.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Iron Companion Gloves",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Iron Regalia Gloves",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"ISTANU-GNT Razor",
+      "flavor":"I am an ISTANU-GNT VOLAR BATTLE GLOVE. Please disarm me in social situations.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Justicar's Gloves",
+      "flavor":"A finger can be broken. A fist cannot.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Kallipolis Gloves",
+      "flavor":"We cannot win the war beyond our walls without first winning the people within them.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Keeper's Gloves",
+      "flavor":"\"Prison is more than a cell. It is place of judgment.\" —Variks",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Kellbreaker's Gloves",
+      "flavor":"The gas is no soul. An ethereal lifeblood, maybe, but a soul? I think not.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Locus Watcher",
+      "flavor":"\"Your job on the fireteam is to see the patterns - and make them your own.\"",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Logic Singer",
+      "flavor":"The Warlock acts through the hands, because they are instruments familiar to the mind.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Manifold Seeker",
+      "flavor":"Keep the left shoulder into the weather, especially if the weather includes bullets.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Monolith Bleed IV",
+      "flavor":"\"I can't shake hands with Warlocks. I just get so nervous they're going to vaporize me.\" - Pahanin Errata",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Nemesis Plane",
+      "flavor":"A Warlock understands the power of symbols. Treat a Hunter's cloak and a Titan's mark with respect.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Nerigal Savant",
+      "flavor":"Stop thinking of the world as an outcome. Start thinking of it as a process.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Nothing Manacles",
+      "flavor":"The equations balance thus: you are diminished, and I am exalted. You are broken, and I am made strong.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Ophidian Aspect",
+      "flavor":"\"Have I the aspic in my lips?\"",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Order's Gloves",
+      "flavor":"A finger can be broken. A fist cannot.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Pariah Gloves",
+      "flavor":"\"They cast him out. But his words never left.\" —Fractal Scrolls",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Queen's Guard Gloves",
+      "flavor":"The hand of the throne.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Raven Sheath",
+      "flavor":"Your very life is an act of defiance against Time - plucked from death to carry the fire.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Salicin Fen",
+      "flavor":"\"It wasn't until his fifth life that the Ahamkara spoke to him. By then it was too late.\" —The Five Lives of Albios",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Samsara",
+      "flavor":"\"Perhaps I had lives even before that. Perhaps I was once a tree.\" —Wen Jie",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Scalpel Wing",
+      "flavor":"Gauntlet-mounted axion condensers help a Warlock's power shape reality.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Seraph",
+      "flavor":"What do you think happened to us, before the Ghosts woke us up?\"",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Solo Clade",
+      "flavor":"We are the last.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Spektar (All Types)",
+      "flavor":"Armor infused with Chroma multi-channel heat sinks.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Sunbreakers",
+      "flavor":"\"When one can wield the fire of stars, what use is flesh and bone?\"",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Symmetry Fang VI",
+      "flavor":"Theory is for the dead. In the Crucible, instinct reigns.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Talion Grace",
+      "flavor":"\"Your presence is imperfect. I cannot abide imperfection.\"",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Tengu Operant",
+      "flavor":"Any living thing is a causal subsystem of the universal whole. But the Warlock's subsystem has privileges.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Terra Bide",
+      "flavor":"This one's ours.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"The Impossible Machines",
+      "flavor":"\"The dead come for these, but the dead should not have them.\" —Crumpled note pinned in the clasp",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Theosyion Vibrissae",
+      "flavor":"Even in still air, Theosyion's tendrils continue to wave and twitch.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Thrallskin Brace",
+      "flavor":"\"Bet you killed a lot of Thrall to weave that thing. I didn't even know they had skin.\" - Omar Agah",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Unity Clade",
+      "flavor":"Each fingertip contains its own sensory cortex, as dense and rich as the tissue of the brain.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Vanth Orcus 0A0X",
+      "flavor":"Crucible variant. Jormungand-coil fieldweave enhances peak rise.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Vector Oath",
+      "flavor":"Warlocks learn marksmanship as quickly as anything else.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Viper Spine ",
+      "flavor":"A surgeon's hands - and all the laws of time and space a patient.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Watchers' Gloves",
+      "flavor":"\"The watcher does not just observe. The watcher defines the observed.\" —Parables of the Allspring",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Winged Sun Gloves",
+      "flavor":"\"Those who fly beneath the Sun do not come back unscathed.\" —Parables of the Allspring",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Temporis Floe IV",
+      "flavor":"Consider the iceberg. To view it from above the water is to see only the smallest fraction.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Raku Izumi IV",
+      "flavor":"Crucible variant. Quantum protons allow element shift based on a user's moment-to-moment needs.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"High Command Gloves",
+      "flavor":"Your deeds speak for themselves.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Eon Tracer Sleeves",
+      "flavor":"\"I can never find the beginning, the place where the path forks.\" —RECORD 448-CHASM-6808",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Endling Gloves",
+      "flavor":"We cannot let the lineage end with us.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Red Miasma Gloves",
+      "flavor":"And how long do the effects of SIVA last? ~SIVA.MEM.CL006",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Iron Saga Gloves",
+      "flavor":"Thus armed were the Iron Lords of old, in the days after the Collapse.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Hadron Gale IV",
+      "flavor":"Do not judge a storm by its size.",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Days of Iron Gloves",
+      "flavor":"\"When the tainted grail o'erflowed again, who answered?\" —The New-Forged Song",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Cobra's Vigil Gloves",
+      "flavor":"\"Step forward, if you think you can challenge me.\" —Fractal Scrolls",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Ophidian Aspect",
+      "flavor":"\"Have I the aspic in my lips?\"",
+      "type":"Warlock Gauntlets"
+   },
+   {  
+      "name":"Gloves of Triumph",
+      "flavor":"At last, the answers lie before you. Reach out. Take them.",
+      "type":"Warlock Gauntlets"
+   }
+]

@@ -1,0 +1,57 @@
+[  
+   {  
+      "name":"Arc Edge",
+      "flavor":"The dark heart of Willbreaker burns within this blade.",
+      "type":"Sword"
+   },
+   {  
+      "name":"Arc Infinite Edge",
+      "flavor":"There are few companions truer than a well-honed weapon. Treasure it.",
+      "type":"Sword"
+   },
+   {  
+      "name":"Bolt-Caster",
+      "flavor":"With your own hands you forged the mighty Bolt-Caster. Now take it in hand and unleash its thunder.",
+      "type":"Sword"
+   },
+   {  
+      "name":"Dark-Drinker",
+      "flavor":"With your own hands you forged the mighty Dark-Drinker. Now take it in hand and slake its thirst.",
+      "type":"Sword"
+   },
+   {  
+      "name":"Dreadfang",
+      "flavor":"Kingly brother, I thank you for the gift of your failure. The sword logic demands a pinnacle.",
+      "type":"Sword"
+   },
+   {  
+      "name":"Raze-Lighter",
+      "flavor":"With your own hands you forged the mighty Raze-Lighter. Now take it in hand and feed its flames.",
+      "type":"Sword"
+   },
+   {  
+      "name":"Sol Edge",
+      "flavor":"This reforged shard of Willbreaker wavers on the edge of Light and Dark.",
+      "type":"Sword"
+   },
+   {  
+      "name":"Sol Infinite Edge",
+      "flavor":"Two blades are better than one.",
+      "type":"Sword"
+   },
+   {  
+      "name":"Void Edge",
+      "flavor":"The Hadium metal of what was once Willbreaker courses with conflicting energies.",
+      "type":"Sword"
+   },
+   {  
+      "name":"Void Infinite Edge",
+      "flavor":"As unbreakable as the bond between comrades in arms.",
+      "type":"Sword"
+   },
+   {  
+      "name":"The Young Wolf's Howl",
+      "flavor":"\"To the first of the new Iron Lords.\" —Lord Saladin",
+      "type":"Sword"
+   }
+]

@@ -1,0 +1,547 @@
+[  
+   {  
+      "name":"Khvostov 7G-0X",
+      "flavor":"An ancient instrument of war, renewed and enhanced by Light, not unlike you.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"GENESIS CHAIN~",
+      "flavor":"SUROS ARI-41 ~insert(SIVA in THIS(current projectile))",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Hex Caster ARC",
+      "flavor":"The engine of devastation slumbers within - waiting for a worthy finger on the trigger.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"The Unbent Tree",
+      "flavor":"Forged in honor of Saladin, he who bore the Banner's legacy upon his shoulders.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Vision Stone",
+      "flavor":"\"Close your eyes, and open your mind.\" —Parables of the Allspring",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Assembly II",
+      "flavor":"Executor-issued auto rifle for loyal supporters of the New Monarchy.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Extremophile 011",
+      "flavor":"An auto rifle, modified by Dead Orbit's superb technicians and specialists.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"The Continental",
+      "flavor":"This one's not from around here.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Zero-Day Dilemma",
+      "flavor":"There's no defense against it.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Abyss Defiant (Adept)",
+      "flavor":"Make the void roar.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Anguish of Drystan (Adept)",
+      "flavor":"\"Engines dead. Do we still have Earth signal? Tell them we were wrong!\" —Capt. Drystan Cor, First Fleet",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Atheon's Epilogue (Adept)",
+      "flavor":"With time, every epilogue extends into a sequel.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"((GENESIS CHAIN~))",
+      "flavor":"~if(input(SIVA)) // echo Shirazi // output(death) // ask(not in vain)~",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Abyss Defiant",
+      "flavor":"We will not go quietly.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"ALR96-40 Overkill",
+      "flavor":"Enough is never enough.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"An Answering Chord",
+      "flavor":"Let no challenge lie. Let no question hang. Let no music fade.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Anguish of Drystan",
+      "flavor":"\"Hard to starboard! Stand by, weapons. Helm, get us out of here!\" —Capt. Drystan Cor, First Fleet",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Antipodal Hindsight",
+      "flavor":"Nope. Still don't see it.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"AR760 Truth Serum",
+      "flavor":"Lie to me, please.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Arminius-D",
+      "flavor":"Unleash a torrent on your enemies with the Häkke Arminius-D.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Atheon's Epilogue",
+      "flavor":"\"Atheon's story is still being written. The wielder holds the pen.\" - Unknown",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Black SUROS ADM-94",
+      "flavor":"A rapid-action Suros firearm, earned through glory in the Crucible.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Black SUROS PPG-96",
+      "flavor":"A high-velocity Suros firearm, earned through glory in the Crucible.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Bronzed Miyamoto-D",
+      "flavor":"An aggressive Häkke auto rifle, earned through glory in the Crucible.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Carte Blanche S.1",
+      "flavor":"An accurized Vanguard-issue auto rifle, designed for performance at long range.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Cassiopeia",
+      "flavor":"A Guardian relic named for the queen of the night sky.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Clean Sweep XI",
+      "flavor":"For housekeeping.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Cydonia-AR2",
+      "flavor":"Full-auto instrument of war. The AR2 is a general-purpose weapon with a robust blowback action.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Cydonia-AR3",
+      "flavor":"The City can't rely on a steady supply of programmable matter, so the multirole AR3 uses it only sparingly.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Deep Fix T76",
+      "flavor":"The word 'multirole' is kind of a misnomer. The role is shooting. Gun's just flexible about the how of it.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Dispatch I11",
+      "flavor":"Sends help with every squeeze.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Do Gooder V",
+      "flavor":"Hey! Hey! I can help!",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Doctor Nope",
+      "flavor":"First, do no* harm. *For values of 'no' approaching 'vast and permanent'",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Doctrine of Passing",
+      "flavor":"Death is the best teacher.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Doctrine of Passing (Adept)",
+      "flavor":"Death is the best teacher.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Does Not Bow",
+      "flavor":"A Kell cut off his arms. He built himself new ones. Then he killed the Kell with them.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Eclypse V/MX2",
+      "flavor":"If it's worth shooting once, it's worth shooting - how many times was that?",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Eidolon Ally",
+      "flavor":"We thought it was inanimate but it has grown...changed. Ghost refuses to analyze it further but I secretly believe it has become my friend.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Fabian Strategy",
+      "flavor":"Wait for enemy to make a mistake. Die. Stand by for Ghost Resurrection. Repeat as necessary.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"First Rule DHYB",
+      "flavor":"Patience is a virtue. Bullets are better.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"For the People",
+      "flavor":"I stand against the state of nature.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Forcing Function",
+      "flavor":"Psychologically tuned to reinforce an important skill: holding down the trigger.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Frontier-AR1",
+      "flavor":"Clear skies. Tall grass. Open space. Perfect shot.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Galahad-B",
+      "flavor":"Full-auto instrument of war. Precision-fire variant with a harmonic dampening system for accuracy at range.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Galahad-E",
+      "flavor":"This extraordinary multirole rifle boasts a smartmatter frame, the key to remarkable capabilities.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Grim Citizen III",
+      "flavor":"The grief and horror of Twilight Gap drove some of the finest gunsmiths in the City to elevate their art.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Haakon's Hatchet",
+      "flavor":"An auto-fire weapon, forged in fire by the Lords of the Iron Banner.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Häkke Test-A",
+      "flavor":"Häkke prototype. Use against Fallen targets to gather data for Häkke's armament scientists.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Hard Light",
+      "flavor":"Ionized polymer synballistic attack platform. The system's lethality is dynamically robust across tactical spaces.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Harrowed Anguish of Drystan",
+      "flavor":"\"Hard to starboard! Stand by, weapons. Helm, get us out of here!\" —Capt. Drystan Cor, First Fleet",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Her Memory",
+      "flavor":"All things are done in her name.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Her Right Hand",
+      "flavor":"An Awoken gift from the Reef, marked with the Queen's crown.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Her Right Hand",
+      "flavor":"The Royal Guard's weapon of choice.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Her Vengeance",
+      "flavor":"An Awoken gift from the Reef, marked with the Queen's crown.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Hex Caster ARC",
+      "flavor":"The engine of devastation slumbers within - waiting for a worthy finger on the trigger.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Husk of the Pit",
+      "flavor":"Dessicated and nigh-inoperable this Hive artifact still manages to send shivers up your spine when fired.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Izdubar-D",
+      "flavor":"Millennia will pass, and your name will still ring out.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Khvostov 7G-02",
+      "flavor":"An ancient weapon, battered and worn - but it still fires true. Perhaps it's been waiting for you.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Longspée-A",
+      "flavor":"When all around you is chaos, the dependable Häkke Longespée-A won't fail you.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Low Down P-XIV",
+      "flavor":"\"It's competition. It's the Crucible way.\" —Lord Shaxx",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Marshal-A",
+      "flavor":"Full-auto instrument of war. Tuned for accurate fire at good range - useful when engaging masses of Fallen.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Marshal-A0",
+      "flavor":"This auto rifle is a reliable fallback when other weapons can't be found.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Marshal-A1",
+      "flavor":"Full-auto instrument of war. Tuned for accurate fire at good range - useful when engaging masses of Fallen.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Monte Carlo",
+      "flavor":"There will always be paths to tread and methods to try. Roll with it.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Morass-AR4",
+      "flavor":"Flooded fields. Rustling reeds. Sodden shelter. Mark your targets.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Necrochasm",
+      "flavor":"Eternity is very close. Can you feel yourself slipping?",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Painted SUROS CGB-47",
+      "flavor":"A precise Suros auto rifle, earned through glory in the Crucible.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Paleocontact JPK-43",
+      "flavor":"An auto rifle, modified by Dead Orbit's superb technicians and specialists.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Payback SOS",
+      "flavor":". . . – – – . . .",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Pest Control Matrix",
+      "flavor":"No infestation. Guaranteed.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Primed SUROS JJJ-76",
+      "flavor":"A fine-tuned Suros firearm, earned through glory in the Crucible.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Problem 78F",
+      "flavor":"Cabal military codes allegedly refer to 'death by multiple gunshots' as 'Problem 78, Subsection F'.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Quagmire-AR1",
+      "flavor":"Soggy conditions. Low visibility. Accuracy? Perfect.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Questing Beast",
+      "flavor":"You'll never catch it. But that's not the point.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Red Spectre",
+      "flavor":"Rumor has it that Red Death prototypes are circulating in the Crucible once again.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Righteous VII",
+      "flavor":"Executor-issued auto rifle for loyal supporters of the New Monarchy.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Rising Tide AR0",
+      "flavor":"Can't stop the inevitable.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Ros Neve IV",
+      "flavor":"Bright as the sea, old as the ocean, fierce as the storm.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Sahara-AR2",
+      "flavor":"Full-auto instrument of war. The Sahara is a rapid-fire weapon built to throw a storm of lead.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Sahara-AR3",
+      "flavor":"The Sahara-AR3 is a storm weapon, built to hail bullets. The action self-corrects to prevent jams.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Sahara-AR5",
+      "flavor":"This extraordinary multirole rifle boasts a smartmatter frame, the key to remarkable capabilities.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Shadow Price",
+      "flavor":"A precision auto rifle left behind by Toland, the Shattered. It asks so little, and it offers so much.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Shingen-C",
+      "flavor":"The Shingen-C is a precision rifle for seasoned Guardians. The barrel floats in smart gel, insulating it from shock.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Shingen-E",
+      "flavor":"The exemplary Shingen-E is built to pop skulls.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Silimar's Wrath",
+      "flavor":"An auto rifle forged in fire by the Lords of the Iron Banner.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Silvered Hushwind-D",
+      "flavor":"A highly accurate Häkke auto rifle, earned through glory in the Crucible.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Soulstealer's Claw",
+      "flavor":"The claws dig deep. The pain is unrelenting.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Steppe-AR3",
+      "flavor":"Arid air. Sharp horizon. Nowhere to hide. Make it count.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"SUROS ADM-50",
+      "flavor":"A good weapon to have at your side in a pinch, or when just killing time.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"SUROS ARI-41",
+      "flavor":"Balance. Flexibility. Style. SUROS.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"SUROS ARI-45",
+      "flavor":"Precision. Power. Style. SUROS.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"SUROS ARN-33",
+      "flavor":"Rapid fire. Superior design. SUROS.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"SUROS ARN-39",
+      "flavor":"Uncanny precision. Forgives user errors. SUROS.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"SUROS PRR-11",
+      "flavor":"The Suros PRR-11 is a balanced, flexible and dependable weapon.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"SUROS Regime",
+      "flavor":"Nostalgia as a weapon of war. Style as a hallmark of victory.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"SUROS TSA-10",
+      "flavor":"Suros prototype. Make precision kills to gather data for the Suros research department.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"SUROS TYR-14",
+      "flavor":"Stable. Dependable. Rapid-fire. SUROS.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"SUROS WER-45",
+      "flavor":"Precision. Modulation. Superiority. SUROS.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Surrender A",
+      "flavor":"The advice is meant for them, not you.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"The Dealbreaker",
+      "flavor":"Not gonna happen.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"The Summoner",
+      "flavor":"Join the dance of fire and birth.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"The Summoner (Adept)",
+      "flavor":"An elite trophy earned only by Trials of Osiris champions.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Unwilling Soul-09",
+      "flavor":"An auto rifle modified by Dead Orbit's superb technicians and specialists.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Up For Anything",
+      "flavor":"Risk is its own reward.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Vindicator XI",
+      "flavor":"Executor-issued auto-fire weapon, custom-rigged for loyal supporters of the New Monarchy.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Wolfslayer's Claw",
+      "flavor":"Its claws are sharp, many and unrelenting.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Wolfslayer's Claw II",
+      "flavor":"Its claws are sharp, many and unrelenting.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Zarinaea-D",
+      "flavor":"You provide the will, and the Häkke Zarinaea-D provides the way.",
+      "type":"Auto Rifle"
+   },
+   {  
+      "name":"Zhalo Supercell",
+      "flavor":"An upcycled torrent of righteous thunder.",
+      "type":"Auto Rifle"
+   }
+]

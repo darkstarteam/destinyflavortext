@@ -1,0 +1,427 @@
+[  
+   {  
+      "name":"Agema",
+      "flavor":"\"Proactive mobility is a luxury. Reactive mobility is a necessity.\" - from a doctrinal dispute",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Arihant ",
+      "flavor":"Some Titans speak of a transcendent state found only in battlefield success.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Armada",
+      "flavor":"Cabal tactics assume they're bigger and less breakable than their opponents. Go make them revise.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Astrolord Greaves",
+      "flavor":"When the last war comes, we will be the victors.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Blindsight Greaves",
+      "flavor":"\"The courage to walk into the Darkness, but strength to return to the Light.\" —Parables of the Allspring",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"BRONTIOS",
+      "flavor":"When you stomp your feet, the ground should shake. If it doesn't, try adjusting the rumble packs in the soles.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Commando",
+      "flavor":"Commando fireteams rely on their Ghosts for field intelligence and demolition plans.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Commando Custom",
+      "flavor":"Crucible terrain is defined by ammo drop points and the sites where Ghosts revive their Guardians.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Dead Light Greaves",
+      "flavor":"\"When all is shadow, know your journey has begun.\" —Arach Parnell",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Desolate Greaves",
+      "flavor":"Transformation is not always revelation.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Dunemarchers",
+      "flavor":"\"Whether on solid rock or shifting sand dune, the inexorable Sand Eaters never slow their pace.\" ",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"DURGA-GNT",
+      "flavor":"I am a DURGA-GNT SYME TACTICAL TREAD. Let me walk on the broken corpses of your foes.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Duskrender",
+      "flavor":"As part of the Pilgrim Guard, Tarlowe guided many refugees to safety behind the City's walls.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Elector's Greaves",
+      "flavor":"Our footfalls forge the path to a new age.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Exodus Greaves",
+      "flavor":"It will be cold and harrowing and we will not all survive. But it must be done.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Fieldplate",
+      "flavor":"The sheer mass of Titan armor can break stone.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Firebreak",
+      "flavor":"This design rebels against the defensive dogma of many Titan orders.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Garuda",
+      "flavor":"\"You had a place among us once. I thought that you could again. I was wrong.\" —Lilavati-12",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Gatewatch",
+      "flavor":"When the enemy presses the City, the final order will always be: stand your ground.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Greaves of No Tomorrow",
+      "flavor":"When the last war comes, we will be the victors.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Greaves of the Exile",
+      "flavor":"\"Many followed him when he left—if not with their feet, then with their hearts.\" —Fractal Scrolls",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Greaves of the Pariah",
+      "flavor":"\"To know true color, you must first know Darkness.\" —Parables of the Allspring",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Greaves of the Seven",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Gwalior",
+      "flavor":"\"Remember that you carry the City's hopes. Go swiftly, and choose a place to make your stand.\"",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Harrowed War Numen's Boots",
+      "flavor":"Speak, and the Darkness obeys. Command, and the song turns upon itself.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Heliopause Greaves",
+      "flavor":"We'll walk if we have to.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Hesperos",
+      "flavor":"Like the deep-sea divers of old, the Hesperonauts plunged into the fiery calderas of Venus.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Highlander",
+      "flavor":"One legend speaks of a Titan whose methodical, scrupulous patrol never met a foe. Was she still a hero?",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Holdfast",
+      "flavor":"Life's too short for a bad pair of boots - even on the second go round.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Illyrian",
+      "flavor":"Titan doctrine grapples with the balance between fixed strength and fluid, positional advantage.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Immanent War Greaves",
+      "flavor":"Stride through chaos; leave ash in your wake.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Infinite Lines Greaves",
+      "flavor":"\"Every time I look, it's like—the Darkness just grows larger.\" —RECORD 345-CHASM-6736",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Iron Breed Greaves",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Iron Companion Greaves",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Iron Regalia Greaves",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Ithacan",
+      "flavor":"We leave the City to ensure there will still be a City when we return.\"",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Jovian Guard",
+      "flavor":"Are you prepared to walk where no one has trod for centuries?",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Justicar's Greaves",
+      "flavor":"Our choice is simple: find our strength, or face extinction.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Kabr's Forceful Greaves",
+      "flavor":"He was claimed by the Vault. His armor and myth are all that remain.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Kallipolis Greaves",
+      "flavor":"A City is only as strong as its leader.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Kellslayer's Greaves",
+      "flavor":"All that remains are broken bodies and the lingering hint of dissipated ether.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Knight ",
+      "flavor":"Based on the Fieldplate design, the Knight pattern employs spinmetal and relic iron, sparing no expense.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Lightmail",
+      "flavor":"Fabricated by your Ghost with available mass, this basic armor is very thin on plating.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Mk. 44 Stand Asides",
+      "flavor":"Pardon me. Coming through.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Molniya",
+      "flavor":"\"I will endure a thousand thousand deaths, if each one buys a piece of victory.\"",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Molniya Custom",
+      "flavor":"Relentless advance. All-terrain grip. Sporty trim.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Monitor",
+      "flavor":"\"If a Hunter accuses you of hopping, tell them you're using rapid bounding traversal.\" - Gravitas Doctrines",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Murvaux",
+      "flavor":"\"Kei-Ying. Gave his last full measure at Twilight Gap.\" —The Last Stands of First Pillars",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"MYCENAE",
+      "flavor":"Whomever owned these boots had weird-shaped feet.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Objekt 959 Greaves",
+      "flavor":"How does it feel to land a six-meter jump in full armor? That depends who you're landing on.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Oblivion Greaves",
+      "flavor":"It will be cold and harrowing and we will not all survive. But it must be done.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Order's Greaves",
+      "flavor":"Our choice is simple: find our strength, or face extinction.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Pacorus",
+      "flavor":"\"What happens to Guardians when they die for the last time?\"",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Pandion",
+      "flavor":"Crucible variant. Rheostatic casings move with you like a second skin.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Peregrine Greaves",
+      "flavor":"Victory from on high.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Queen's Guard Greaves",
+      "flavor":"Carry yourself lightly, and with pride.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Raku Crucible Type",
+      "flavor":"Crucible custom. Conformal gas injectors control fatigue with coolant and salve.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Raku Fulcrum",
+      "flavor":"Crucible custom. Replace flash-burn heat sinks after prolonged engagements.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Scoutmail",
+      "flavor":"Layers of ceramic, alloy, field drivers, and paracausal Light work together to give Titan armor surprising mobility.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Spearhead",
+      "flavor":"\"Evade the Cabal counterattack? My friend, they're finally sending us something worth killing.\" —Wei Ning",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Spektar (All Types)",
+      "flavor":"Armor infused with Chroma multi-channel heat sinks.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Taroudant",
+      "flavor":"\"Wherever you go, your footprints mark the City's outermost walls.\"",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Toutatis",
+      "flavor":"After intense combat, the ankle plates will sometimes arc into the dust.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Ursus Tactical",
+      "flavor":"\"Shaxx is always telling us to stick together. I've come to think Shaxx really loves to watch us eat grenades.\"",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Vanir",
+      "flavor":"Smooth, tightly sealed plate speaks to the work of a master craftsperson aided by a Ghost.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"VISIGOTH",
+      "flavor":"The preferred armor pattern of Jagi's Host.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"War Numen's Boots",
+      "flavor":"Speak, and the Darkness obeys. Command, and the song turns upon itself.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Watchers' Greaves",
+      "flavor":"\"Light burns. Light heals. Light blinds. Light reveals.\" —Parables of the Allspring",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Willbreaker's Greaves",
+      "flavor":"The ground shudders beneath your feet.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Winged Sun Greaves",
+      "flavor":"\"Feet alone cannot take us to where we're going.\" —Parables of the Allspring",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Witness Greaves",
+      "flavor":"\"Losing Queen very bad. What we do now is for her.\" —Variks",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Zhurong",
+      "flavor":"\"To those behind the Wall, love and service. To those outside it, fury and fire.\" —Pilgrim Guard maxim",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Dunemarchers",
+      "flavor":"Whether on solid rock or shifting sand dune, the inexorable Sand Eaters never slow their pace.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Stellar Impact Greaves",
+      "flavor":"Welcome to Mark 2 STELLAR IMPACT. Let's work on your entrance.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Spliced Cosmoclast Greaves",
+      "flavor":"Willa, some of history's greatest inventions began as unintended side effects. ~SIVA.MEM.CL015",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Scarab's Vigil Greaves",
+      "flavor":"\"The challenge will come when you least expect it. You must be ready.\" —Fractal Scrolls",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Iron Saga Greaves",
+      "flavor":"Thus armed were the Iron Lords of old, in the days after the Collapse.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Days of Iron Greaves",
+      "flavor":"\"When the Iron Temple's fires were lit again, who came to stand before its hearth?\" —The New-Forged Song",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Cosmoclast Greaves",
+      "flavor":"Willa, some of history's greatest inventions began as unintended side effects. ~SIVA.MEM.CL015",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Endling Greaves",
+      "flavor":"We are endangered, but we can save ourselves.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Eon Tracer Greaves",
+      "flavor":"\"I feel like every time I find the thread it slips through my fingers.\" —RECORD-448-CHASM-6565",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"High Command Greaves",
+      "flavor":"Rise above the noise. Take the throne.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Mangonel Type 2",
+      "flavor":"\"An unjust commander is not worthy of loyalty.\" —Ouros",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Raku Gwener Type 1",
+      "flavor":"Crucible variant. Conformal gas injectors prevent overheating.",
+      "type":"Titan Leg Armor"
+   },
+   {  
+      "name":"Greaves of Triumph",
+      "flavor":"They tell your story everywhere you go: how you went to the end of the world and came home.",
+      "type":"Titan Leg Armor"
+   }
+]
