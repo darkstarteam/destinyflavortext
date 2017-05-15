@@ -30,12 +30,17 @@
 
         // Opens the list page
         function goToLists() {
-            window.location = "https://destinflavortext.net/lists.html";
+            window.location = "https://destinyflavortext.net/lists.html";
         }
 
         // Returns the user to the home page
         function GoHome() {
             window.location = "https://destinyflavortext.net"
+        }
+
+        function ThemeChooser() {
+            document.getElementById("theme-picker").value!="light"||(setActiveStyleSheet('default'))
+            document.getElementById("theme-picker").value!="dark"||(setActiveStyleSheet('dark'))
         }
 
         // Changes the list depending on the chosen filter.
