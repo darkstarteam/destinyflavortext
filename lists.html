@@ -8,7 +8,7 @@
         <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
         <link rel="shortcut icon" type="image/png" href="/favicon.ico"/>
     </head>
-    <body>
+    <body onload="GrabFlavorText()">
         <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -19,10 +19,11 @@
         ga('send', 'pageview');
         </script>
         <script src="js/jquery-3.2.1.min.js"></script>
-        <script src="js/flavortext.js"></script>
+        <script src="https://use.fontawesome.com/b28bdd3e8c.js"></script>
+        <script src="js/flavortext.min.js"></script>
 
         <div class="container">
-                <select id="filter_type" name="type">
+                <div class="type-filter"><select id="filter_type" name="type">
                     <option value="all">All Items</option>
                     <option value="autos" onselect="GrabAutos()">Auto Rifles</option>
                     <option value="fusions">Fusion Rifles</option>
@@ -38,7 +39,7 @@
                     <option value="artifacts">Artifacts</option>
                     <option value="hunter_artifacts">Hunter Artifacts</option>
                     <option value="hunter_helmets">Hunter Helmets</option>
-                    <option value="hunter_gaunlets">Hunter Gauntlets</option>
+                    <option value="hunter_gauntlets">Hunter Gauntlets</option>
                     <option value="hunter_chest_armor">Hunter Chest Armor</option>
                     <option value="hunter_leg_armor">Hunter Leg Armor</option>
                     <option value="hunter_cloaks">Hunter Cloaks</option>
@@ -54,12 +55,12 @@
                     <option value="warlock_chest_armor">Warlock Chest Armor</option>
                     <option value="warlock_leg_armor">Warlock Leg Armor</option>
                     <option value="warlock_bonds">Warlock Bonds</option>
-                    <option value="ghost_shells">Ghost Shells</option>
+                    <option value="ghosts">Ghost Shells</option>
                     <option value="ships">Ships</option>
                     <option value="sparrows">Sparrows</option>
-                </select>
-                 <button class="button" id="filter" onclick="SubmitFilterChoice()">Filter</button>
-            <div id="weapon_list"></div>
+                </select></div>
+                 <button class="button" id="filter" onclick="SubmitFilterChoice()">Submit</button>&nbsp;&nbsp;<button class="button" id="filter" onclick="GoHome()">Go Back</button>
+            <div id="item_list"></div>
         </div>
 
     </body>
