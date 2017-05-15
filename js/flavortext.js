@@ -38,6 +38,11 @@
             window.location = "https://destinyflavortext.net"
         }
 
+        function ThemeChooser() {
+            document.getElementById("theme-picker").value!="light"||(setActiveStyleSheet('default'))
+            document.getElementById("theme-picker").value!="dark"||(setActiveStyleSheet('dark'))
+        }
+
         // Changes the list depending on the chosen filter.
         function SubmitFilterChoice() {
         document.getElementById("filter_type").value!="all"||(GrabFlavorText())
