@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Destiny Flavor Text</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+        <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+        <link rel="shortcut icon" type="image/png" href="/favicon.ico"/>
+    </head>
+    <body onload="GrabFlavorText()">
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-59812400-4', 'auto');
+        ga('send', 'pageview');
+        </script>
+        <script src="js/jquery-3.2.1.min.js"></script>
+        <script src="https://use.fontawesome.com/b28bdd3e8c.js"></script>
+        <script src="js/flavortext.min.js"></script>
+
+        <div class="container">
+                <div class="type-filter"><select id="filter_type" name="type">
+                    <option value="all">All Items</option>
+                    <option value="autos" onselect="GrabAutos()">Auto Rifles</option>
+                    <option value="fusions">Fusion Rifles</option>
+                    <option value="hand_cannons">Hand Cannons</option>
+                    <option value="lmgs">Machine Guns</option>
+                    <option value="pulses">Pulse Rifles</option>
+                    <option value="rockets">Rocket Launchers</option>
+                    <option value="scouts">Scout Rifles</option>
+                    <option value="shotguns">Shotguns</option>
+                    <option value="sidearms">Sidearms</option>
+                    <option value="snipers">Sniper Rifles</option>
+                    <option value="swords">Swords</option>
+                    <option value="artifacts">Artifacts</option>
+                    <option value="hunter_artifacts">Hunter Artifacts</option>
+                    <option value="hunter_helmets">Hunter Helmets</option>
+                    <option value="hunter_gauntlets">Hunter Gauntlets</option>
+                    <option value="hunter_chest_armor">Hunter Chest Armor</option>
+                    <option value="hunter_leg_armor">Hunter Leg Armor</option>
+                    <option value="hunter_cloaks">Hunter Cloaks</option>
+                    <option value="titan_artifacts">Titan Artifacts</option>
+                    <option value="titan_helmets">Titan Helmets</option>
+                    <option value="titan_gauntlets">Titan Gauntlets</option>
+                    <option value="titan_chest_armor">Titan Chest Armor</option>
+                    <option value="titan_leg_armor">Titan Leg Armor</option>
+                    <option value="titan_marks">Titan Marks</option>
+                    <option value="warlock_artifacts">Warlock Artifacts</option>
+                    <option value="warlock_helmets">Warlock Helmets</option>
+                    <option value="warlock_gauntlets">Warlock Gauntlets</option>
+                    <option value="warlock_chest_armor">Warlock Chest Armor</option>
+                    <option value="warlock_leg_armor">Warlock Leg Armor</option>
+                    <option value="warlock_bonds">Warlock Bonds</option>
+                    <option value="ghosts">Ghost Shells</option>
+                    <option value="ships">Ships</option>
+                    <option value="sparrows">Sparrows</option>
+                </select></div>
+                 <button class="button" id="filter" onclick="SubmitFilterChoice()">Submit</button>&nbsp;&nbsp;<button class="button" id="filter" onclick="GoHome()">Go Back</button>
+            <div id="item_list"></div>
+        </div>
+
+    </body>
+</html>
