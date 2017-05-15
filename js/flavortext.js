@@ -30,7 +30,7 @@
 
         // Opens the list page
         function goToLists() {
-            window.location = "https://destinflavortext.net/lists.html";
+            window.location = "https://destinyflavortext.net/lists.html";
         }
 
         // Returns the user to the home page
