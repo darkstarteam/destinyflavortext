@@ -1,5 +1,8 @@
 # Destiny Flavor Text
 ![](https://antioxidantsin.space/content/images/2017/05/download-1.png)
+
+[![Discord](https://discordapp.com/api/guilds/291320513802928128/widget.png)](https://discord.gg/HhcK9hj)
+
 ## About
 Destiny Flavor Text, is a simple website that displays flavor text randomly from any item in Destiny. 
 It was made by Hennamann from the Destiny clan, The Antioxidants. https://destinyflavortext.net/
