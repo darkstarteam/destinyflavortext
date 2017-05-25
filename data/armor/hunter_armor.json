@@ -1,0 +1,2622 @@
+[  
+   {  
+      "name":"Ahamkara Scale",
+      "flavor":"\"And that Warlock thought I couldn't do it. Hah!\"",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Ankh of Sai Mota",
+      "flavor":"//…a rattling shriek, the crunch of bones and the fading echoes of a brave woman's last laugh…//",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Blood-Soaked Charm",
+      "flavor":"To carry this charm is to fight for the lost world that fashioned it.",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Butterfly Code",
+      "flavor":"\"Sensitive dependence between microfunctions,\" reads the inscription. Cryptarchs disagree on whether its origins are from the Vex or Golden Age Mars.",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Coyote's Luck",
+      "flavor":"A relic of the legendary Six Coyotes, the first Hunters to scout the Cosmodrome.",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Dredgen Yor's Rose",
+      "flavor":"\"In his strong hand the man held a Rose. And his aura burned bright.\"",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Efrideet's Eye",
+      "flavor":"Every time she pulled the trigger, an enemy of the City died.",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Filament Hex",
+      "flavor":"A Hive totem woven and bound from filaments of the universe itself.",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Fist of Eight Moons",
+      "flavor":"Only in the Ascendant Plane—where a well-defended idea is a reality—do these moons, in this small way, still exist.",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Hezen Totem",
+      "flavor":"Can a machine change its ways? Any more or less than a human can?",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Jasper Carcanet",
+      "flavor":"I WAS MIDHA, CONSORT OF STARS. I WILL NOT BE FORGOTTEN.",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Neural Bezoar",
+      "flavor":"\"Don't eat that!\" \"…Too late.\"",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Pallas Ring",
+      "flavor":"The Queen of the Reef commissioned these rings for each of the survivors of the Siege of Pallas.",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Parasitic Optic",
+      "flavor":"\"Listen, I don't know how it works—I just know that it works, okay? No, I'm not worried.\"",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Prismatic Heart",
+      "flavor":"\"You must learn to tease apart the hues of your own heart.\" —Parables of the Allspring",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Rainbow Blade",
+      "flavor":"The beauty of this sacrificial weapon belies the deadliness of its infinitesimally sharp edge.",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"The Maraid",
+      "flavor":"The chronicle of Queen Mara Sov of the Awoken, compiled by the Primarchs of the Reef Cryptarchy.",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"The Pahanin Errata",
+      "flavor":"The collected sayings, quips and observations by the legendary Hunter Pahanin.",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Thrallskin Drum",
+      "flavor":"A drum made from the skin of a Hive Thrall. Even when no one is playing it, you can always hear a faint beat.",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Thrice-Wrapped Thing",
+      "flavor":"Sure, try and unwrap it. I mean, what could possibly go wrong?",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Trinary Star",
+      "flavor":"\"We were fools to trust this god-machine, this bringer of death and Darkness.\"",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Two-Sided Coin",
+      "flavor":"A Hunter doesn't leave anything to chance.",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Unerring Compass",
+      "flavor":"Its needle always points toward the Traveler.",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Wax-Sealed Case",
+      "flavor":"Definitely not made of wax. Probably actually a case, though.",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"SIVA Shard",
+      "flavor":"This small fragment of SIVA tech hums with potential.",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Perfected SIVA Shard",
+      "flavor":"\"It was inevitable Guardians would grab SIVA from off the field. Let's see what they do with it.\" —Shiro-4",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Deidris's Fist",
+      "flavor":"\"I heard the Iron Lords' call. Here I am.\" —Lady Deidris",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Oversoul's Scream",
+      "flavor":"If you hold it to your ear and listen closely, you'll go deaf.",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"Oraclery",
+      "flavor":"A moving mechanical model whose parts blink in and out of existence.",
+      "type":"Hunter Artifact"
+   },
+   {  
+      "name":"0A0X Nightmask",
+      "flavor":"Crucible variant. Custom sensorium by the buffalo_SOLDAT working group.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"AOS#Cryptid",
+      "flavor":"Crucible variant. The paramuscle lining breathes with you, like a second set of lungs.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Argus Deimatic",
+      "flavor":"Deimatic armor radiates in every conceivable spectrum - a threat display, a battle hymn, and a taunt.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Aspriet",
+      "flavor":"Crucible variant. Combines flexible fieldwire with tough fullerene plates.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Astrolord Vest",
+      "flavor":"War is the struggle to exist. Everything real is a combatant.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"ATS/8 Tarantella",
+      "flavor":"Piezoweave induces controlled muscle spasms to improve combat performance.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Battuta",
+      "flavor":"Even the driest desert was once a lush garden.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Blindsight Vest",
+      "flavor":"\"I shrouded myself so when the Light returned I could see it all the clearer.\" —Parables of the Allspring",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Bog Wild",
+      "flavor":"Just your bog-standard gear.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Brusilov",
+      "flavor":"Unafraid to face the wild, uncharted void.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Carnivore Match",
+      "flavor":"Artificial myofibers regulate respiration and heartbeat—or pump coolant for Exo users.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Cold Mantis",
+      "flavor":"\"People think that the law of the jungle is just selfish brutality. People haven't read the poem.\" - Pahanin",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Corsair's Revenge",
+      "flavor":"\"They were Wolves in sheep's clothing. Now we're Awoken in Wolves' clothing.\" —Paladin Devi Cassl",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Crest of Alpha Lupi",
+      "flavor":"You've heard every last tale of the wolf by now. None of them are true. You are the wolf.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Cryptid",
+      "flavor":"A delicately planed cuirass and hand-circuited wire all mark this armor as a labor of love.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Darkhollow Chiton",
+      "flavor":"\"Heartless and cruel is their realm—but in some ways more malleable than your own.\" —Eris Morn",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Dead Light Vest",
+      "flavor":"\"Success is not about survival. It is about discovery.\" —Arach Modesta",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Desolate Vest",
+      "flavor":"Take your new shape.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Dustwalker",
+      "flavor":"Shiftwire-lined and hardened shell armor designed for work in the Martian sands.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Elector's Heart",
+      "flavor":"They will know you fight not for yourself, but for the people's will.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Exodus Vest",
+      "flavor":"Humanity has been caged. We will break the bars.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Fear Eater",
+      "flavor":"\"Are you afraid? Listen closely: so are they.\"",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Forester",
+      "flavor":"Simple plates and wire lining are enough to stop a Skiff's main guns - when charged with Light.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Ghost Angel",
+      "flavor":"Triple-weaved rubber-plasm armor designed for silent motion.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Gravebreaker",
+      "flavor":"Take what you need from the dead.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"H_LD Starwinder",
+      "flavor":"All H_LD patterns descend from a single source. No one knows where she went.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Harrowed Darkhollow Chiton",
+      "flavor":"\"Heartless and cruel is their realm—but in some ways more malleable than your own.\" —Eris Morn",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Heart of the Justicar",
+      "flavor":"The City is divided. We must unite beneath a single will.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Heart of the Order",
+      "flavor":"The City is divided. We must unite beneath a single will.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Heliopause Vest",
+      "flavor":"The Sun used to give us life. Now, staying near the Sun will be our doom.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Immanent War Vest",
+      "flavor":"Conflict is the mother of reality.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Infinite Lines Vest",
+      "flavor":"\"I saw myself! Slaying the Darkness! That's what I saw!\" —RECORD 344-CHASM-6872",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Iron Breed Vest",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Iron Companion Vest",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Iron Regalia Vest",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Jackknife",
+      "flavor":"Versatile gear for the discerning scout.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Kallipolis Vest",
+      "flavor":"The City's ruler must be a warrior as well as a philosopher.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"KALI-GNT Scout Rig",
+      "flavor":"I am a KALI-GNT WEARABLE BUNKER. I have a doctorate in terminal ballistics.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Kellhunter's Blood",
+      "flavor":"The Servitors work the engines. The Archon plots the course. But it is the Kell who stands at the helm.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Komarov",
+      "flavor":"Hunters craft Komarov patterns in preparation for lunar and exoatmospheric work.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Long Tomorrow 9G",
+      "flavor":"\"Was a time even Mars itself was the Queen's domain.\"",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Lucky Raspberry",
+      "flavor":"> No one has ever died wearing me. # It's true. She leaves the unworthy before they fall.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Mangala Skin",
+      "flavor":"Mars was once a hostile, lifeless world. Now it's hostile and uncomfortably lively.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Neuroghast",
+      "flavor":"Cytogel veins improve reflexes and senses while also heightening pain feedback for sharper awareness.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Prime Zealot Cuirass",
+      "flavor":"Forged from the ruin of Hezen Vex armor. The sensory interface feels more natural than bare skin.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Prototype",
+      "flavor":"Your Ghost built this wire armor from available mass. It handles life support, but little else.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Queen's Guard Vest",
+      "flavor":"An Awoken relic from the Reef, marked with the Queen's crown.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Raku Vindicator",
+      "flavor":"The Raku workshop tweaks high-end armor for Crucible competition.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Relentless Harness",
+      "flavor":"The splayed claws and empty skull of a Thrall cry defiance to the Hive.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Rogue",
+      "flavor":"Most Hunters favor a light plate cuirass over the field wire underweave.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Rustburner",
+      "flavor":"Many Hunters incorporate field drivers and other Titan plate components into their gear.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Sanction Custom",
+      "flavor":"Trends develop in the ecosystem of custom armor. Crucible gear runs hot and burns out fast.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Sanction Six",
+      "flavor":"Field-tested tactical rig plated with the alloys of ancient combat aircraft.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Sinaa Jaguar",
+      "flavor":"Someone stripped the lining of insulation, as if they wanted the wearer to be sore and angry.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Sinaa Lamprey",
+      "flavor":"Pressure-responsive fabric lets Hunters thrive in any gravity.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Snakeline",
+      "flavor":"As Hunters grow more experienced, they begin rewiring their armor inspired by Light.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Sojourn Vest",
+      "flavor":"Humanity has been caged. We will break the bars.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Spektar (All Types)",
+      "flavor":"Armor infused with Chroma multi-channel heat sinks.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Stratus",
+      "flavor":"Alpine requirements go hand-in-hand with pilot specs: light, low-profile, with excellent life support.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Takanome Ranger",
+      "flavor":"Armed with sniper rifles, Takanome's Rangers gave cover to countless City-bound refugees.\" —Chiyoko Mey",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Tracker",
+      "flavor":"Field wire stiffens on impact, converting enemy gunfire into heat, shrapnel, and bruises.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Vaquero",
+      "flavor":"Sparrow up, partner.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Vermilion Stripe",
+      "flavor":"For many Hunters, grief and vengeance are one and the same.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Vest of No Tomorrow",
+      "flavor":"War is the struggle to exist. Everything real is a combatant.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Vest of the Exile",
+      "flavor":"\"Let the heat melt your body so your soul might flow with the river of time.\" —Parables of the Allspring",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Vest of the Iron Lords",
+      "flavor":"\"I welcome every challenge, for it only makes me stronger.\" —Parables of the Allspring",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Vest of the Pariah",
+      "flavor":"\"I welcome every challenge, for it only makes me stronger.\" —Parables of the Allspring",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Warden's Blood",
+      "flavor":"\"Taken are trouble… if they've got someone like Oryx calling the shots. On their own, they're kinda stupid.\" —Cayde-6",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Watchers' Vest",
+      "flavor":"\"'Out of sight, out of mind,' they say. The Speaker wishes this was true.\" —Fractal Scrolls",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Winged Sun Vest",
+      "flavor":"\"Like a meteor burning until nothing is left but the idea of a Light.\" —Parables of the Allspring",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Wolf Pelt Weave",
+      "flavor":"\"With some Reef improvements, this armor works better for me than it did for its previous owner.\"",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Raku Poltergeist 2.0",
+      "flavor":"Crucible Variant. Modified by the Raku group to meet Lord Shaxx's rigorous standards.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"KD Bogatyr 2.0",
+      "flavor":"\"I don't even care if it's a true story. S'long as it's good, I'm a happy Hunter.\" —Cayde-6",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"High Command Vest",
+      "flavor":"Power is not a gift. It is a calling.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Eon Tracer Vest",
+      "flavor":"\"Eternities streamed past me, like shooting stars…\" —RECORD-449-CHASM-6887",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Endling Vest",
+      "flavor":"We are the last of our species.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Nanomania Vest",
+      "flavor":"We've found a way to push our matter encryption technology even further. ~SIVA.MEM.WB002",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Lion's Vigil Vest",
+      "flavor":"\"If you wish to learn the ways of war, look around you.\" —Parables of the Allspring",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Iron Saga Vest",
+      "flavor":"Thus armed were the Iron Lords of old, in the days after the Collapse.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Dream-Eater Vest",
+      "flavor":"A Warlock riddle: What is a Hunter's least favorite place to go? Answer: To sleep.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Days of Iron Hauberk",
+      "flavor":"\"When we feared the sun would ne'er on heroes rise again, whose deeds began the new Days of Iron?\" —The New-Forged Song",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"Heart of Triumph",
+      "flavor":"A brave heart, bold as griffins, beats beneath this armor.",
+      "type":"Hunter Chest Armor"
+   },
+   {  
+      "name":"All My Victims Cloak",
+      "flavor":"Made from the torn cloaks of other Hunters. Other, lesser Hunters.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"AOS#Cryptid Cloak",
+      "flavor":"\"Out there? All that is a job. Here, in the Crucible - this is a life.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Arc Flayer Mantle",
+      "flavor":"A mantle of woven Arc energy strings taken from the Psion Flayer Kolar.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Aspriet Cloak",
+      "flavor":"\"Fly high. Strike hard. Repeat.\" —Ain Suhu-ässä",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Astrolord Cloak",
+      "flavor":"History's lords have ever painted the future in tones of fire and shadow.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Ayane Takanome's Cloak",
+      "flavor":"Ayane Takanome was no Guardian, but the City still remembers how she and her Rangers secured the refugee roads.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Bladedancer's Cloak",
+      "flavor":"\"These blades…they're an extension of your arm, your reflexes, your Light.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Bloodstained Hood",
+      "flavor":"\"Those Jaguar militant types seem a little extreme.\" —a person of inadequate ferocity",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Brawler's Cloak",
+      "flavor":"Hunters may be averse to centralized organization, but nothing is more fearsome than a coordinated stalk.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Buckaroo's Cloak",
+      "flavor":"Meanwhile, back at the ranch...",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Chaos Cloak",
+      "flavor":"There is no doubt that our future will be won in battle.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Atropos",
+      "flavor":"One boast goes, \"When Cabal see my cloak, they flee.\" Another goes, 'Look at all these dead Cabal!'",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Desolation",
+      "flavor":"Shield yourself from the night.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Dredgen Yor",
+      "flavor":"Before he took Pahanin's Light, Dredgen Yor ruled the Crucible, the notorious Thorn at his side.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Hidden Agendas",
+      "flavor":"\"Tell a Titan only a madman would go. Tell a Warlock it's too complex.\" - Pahanin Errata",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Immanent War",
+      "flavor":"A new dawn breaks. Feel how it burns.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Keen Eyes",
+      "flavor":"\"My ancestors were born beyond the Walls, on the long march to the City.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of No Tomorrow",
+      "flavor":"Tomorrow will be as yesterday was. There will always be a battle to be won.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Oblivion",
+      "flavor":"Our salvation lies ahead of us. Go forth. There is nothing left to leave behind.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Order",
+      "flavor":"The City prospers on our field of order and justice.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Perception",
+      "flavor":"\"Have you walked the ruins? Seen the machines born from the lightning? We face a mighty foe.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Ragged Fortune",
+      "flavor":"Sometimes a Hunter will lose a cloak in a bet. It's poor form to replace it right away.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Repair",
+      "flavor":"We'll carve our future through the will of the people.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Reverence",
+      "flavor":"The stylized twin arc represents the world beneath the Traveler.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Seven Bones",
+      "flavor":"\"Let this bone I reaped in battle give me strength to reap again.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Solitude",
+      "flavor":"The tattered remnants of a lost veteran's cloak, handed down as a reminder and a warning.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Taniks",
+      "flavor":"He of the endless troves of arms, and legs, and hearts, and lungs, and…",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Tekmor",
+      "flavor":"When an old Hunter wears a simple cloak, ask yourself where she got it, and what the cloth remembers.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Apsides",
+      "flavor":"\"The Hunter creed calls us outward. And what do we find out there? Hard vacuum. Respect it.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Cosmonaut",
+      "flavor":"Vladimir Komarov helped build and fly Earth's first ships. He gave his life to the frontier.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Dusktorn",
+      "flavor":"\"I'll remember the Light. Will it remember me?\" - Sai Mota",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Exile",
+      "flavor":"\"Was he exiled? Did he leave willingly? Was the parting angry? Peaceful? Is he dead? Alive? In a word: yes.\" —Sister Faora",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Exodus",
+      "flavor":"Find the way.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Hidden",
+      "flavor":"\"The shadows dance quickly among the dust. Make them your ally.\" - Eris",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Ironsworn",
+      "flavor":"\"Those who find victory in the Crucible will win salvation for our City.\" - Iron Banner maxim",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Justicars",
+      "flavor":"In pursuit of the City's safety, our jurisdiction is unlimited.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Leopard",
+      "flavor":"Legend says that no animal was more difficult to hunt than the leopard.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Mantis",
+      "flavor":"\"Patient camouflage and precise violence. No wonder they survived.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Pariah",
+      "flavor":"\"I wear his symbols proudly in the City, to remind them that Osiris is not truly gone.\" —Fractal Scrolls",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Reefrunners",
+      "flavor":"\"The child asked me if the Awoken were blue because they were cold. Then he called my cloak a blanket.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Rising",
+      "flavor":"The New Monarchy is the aegis that guards humanity.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Shadowjacks",
+      "flavor":"Twilight Gap highlighted the desperate need for proactive strikes to keep the enemy off balance.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Shadowsmiths",
+      "flavor":"\"It's already being handled.\" - Cayde-6, in an emergency session of the City Consensus",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Sixth Reign",
+      "flavor":"One throne beneath the howling dark.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Skypillar",
+      "flavor":"Some suggest Saint-14's legendary vigil was enabled by a few roaming Hunters and their bloody culls.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Sojourn",
+      "flavor":"The stars are calling.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Unborn",
+      "flavor":"\"Child asked me if I was a clock. I told her yes. I was keeping time until the world would be safe for her.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Unfactorable",
+      "flavor":"\"Could the Vex build a model of us? A simulated City, a whole simulated Earth, adrift in the ocean of the Vex intellect?\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of the Unflinching",
+      "flavor":"Anyone who takes the pathway into orbit will never want to leave it. Challenge the universe.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloud Walker Tribute",
+      "flavor":"A cloak which bears the emblem of the Cloud Walkers, the pioneers of the first Exodus.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Competitor Match",
+      "flavor":"\"Instinct tells you to cherish victory, but defeat holds all the lessons.\" —Lord Shaxx",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cosmic Joke",
+      "flavor":"An infamous cloak, scavenged off the corpses of its owners numerous times on the frontier.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cult/Trinary Star",
+      "flavor":"The mark of the Trinary Star, the hidden cult who curse the Traveler's light.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Darkhollow Mantle",
+      "flavor":"\"To even exist in their space is to constantly demand your own existence.\" —Eris Morn",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Dead Light Cloak",
+      "flavor":"\"Beyond the Reef. Beyond the Nine.\" —Arach Jalaal",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Dead Zone Revolution",
+      "flavor":"With each Dead Zone charted comes a new cloak pattern from the Hunter elite.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Devils' Cloak",
+      "flavor":"\"There are some bargains worthy of any risk.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Devils' Disguise",
+      "flavor":"Hide your face.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Drifter's Cloak",
+      "flavor":"Cut from City textile and worn as a mark of pride by Hunters with big dreams.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Dustwalker Cloak",
+      "flavor":"A good survival cape can be used as a hull patch, bandage, tourniquet, pressure seal, picnic blanket...",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Dynamo Cloak",
+      "flavor":"\"Your missions: protect the City. Look better than Warlocks. But don't look like you're trying.\" - Pahanin Errata",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"End Unsung",
+      "flavor":"A humble cloak worn in tribute to the Guardians who met their end alone in the wild.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Extropic Cloak",
+      "flavor":"\"Child came for our robes today. He said the Awoken Hunters needed them, as they were cold.\" —Warlock doorlog",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Fieldcraft Hood",
+      "flavor":"Even vacuum-ready field wire armor should be kept out of the rain. Rig a hood.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Fixer Cloak",
+      "flavor":"I solve problems.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Frumious Cloak",
+      "flavor":"Tell the Warlocks your cloak is frabjous. They respect words they don't understand.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Ghost Angel Cloak",
+      "flavor":"We are an army of the chosen dead.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Grinder's Cloak",
+      "flavor":"\"First, check your cloak for damage. Second, inspect yourself for major wounds.\" - Handbook of (Un)Controversial Advice",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Gunslinger's Cloak",
+      "flavor":"In the dark days before the Last City, all a Hunter had was the Light and a steady aim.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"H_LD Starwinder Cloak",
+      "flavor":"As the cloak frays, it reveals the ancient works of Li Qingzhao, carved in chips of bone.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Harbinger Hood",
+      "flavor":"A pattern inspired by the legendary Awoken weapon.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Hardcase Cloak",
+      "flavor":"If you learn nothing else, learn this: when a Hunter takes up the cloak of a dead comrade, this is a vow.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Heliopause Cloak",
+      "flavor":"\"Once, deep space explorers were seen as heroes. Now, for suggesting humanity should look beyond this system, some call us cowards.\" —Arach Parnell",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Highest Squidder",
+      "flavor":"\"Are you squidding me?\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Hood of the Night Sun",
+      "flavor":"\"I am not a dashing rogue. I am not a free spirit. I am a claw in the throat of the dark, and I will draw blood.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Hood of the Spawn",
+      "flavor":"\"Toland cracked the rune, or led us to believe he did. I told him it was either that, or the Hive have a hell of a recipe for beer.\" - Omar Agah",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Hustler's Cloak",
+      "flavor":"They say you will never find an impractical Hunter. But what do 'they' know about dashing cloaks?",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Infinite Lines Cloak",
+      "flavor":"...pulled the subject from the Device he appeared frozen. No vitals, but the body hasn't rotted either. —RECORD 340-CHASM-NULL",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Iron Camelot Cloak",
+      "flavor":"Forged in remembrance of Gheleon, he who was a true Guardian to the people.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Journey Hood",
+      "flavor":"It's not the destination that matters.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Kallipolis Mantle",
+      "flavor":"The leader we need is among us, not above us.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Kell's Cloak",
+      "flavor":"\"Here's my plan to be Kell. Fallen seem to respect violence and big capes. I'm really violent, and I found this cape.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Kellhunter's Hood",
+      "flavor":"The strongest lead the pack.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Kings' Cloak",
+      "flavor":"\"Of which world? All of them.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Kings' Mantle",
+      "flavor":"Fit for royalty.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Lead Scout's Cloak",
+      "flavor":"\"To clear mines: step on mine. Wait for Ghost revival. Step on mine 2. Wait for Ghost. Step on - \"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Legend of Six Coyotes",
+      "flavor":"A cloak fashioned after the legendary Hunters who first scouted beyond the Cosmodrome wall.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Long Tomorrow 9G",
+      "flavor":"\"You didn't tell me this treasure was in the red mists of Murmuring Rock. Count me out.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Makeshift Scarf",
+      "flavor":"The Hunter's cloak speaks to their personality. Your Ghost scrounged up this tough synthetic wrap, marked with an ancient double-headed eagle.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Mantle of Efrideet",
+      "flavor":"Stand in the fire until there is nothing left to burn away.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Mantle of Gheleon",
+      "flavor":"You are an army, an armada, a force unto itself.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Mantle of Perun",
+      "flavor":"Your mark be made, by thunder's crack or lightning's strike.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Mantle of Sublime Light",
+      "flavor":"A trial by fire, the purpose of which is transformation.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Maverick's Cloak",
+      "flavor":"\"Bright colors are Mother Nature's way of saying 'don't mess with me.' We like a lot of her ideas.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Melting Point",
+      "flavor":"In the Crucible, you'll find yours.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Nagari Cloak",
+      "flavor":"In this age of Light and fire, simple skills still endure. Hunters embroider signs of war and loss on their cloaks.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Neuroghast Cloak",
+      "flavor":"To control your opponents, you must first control your own body.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Night Rain Cloak",
+      "flavor":"Hunters constantly tweak and upgrade their armor. A cloak is the best mark of recognition.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Nightmask Cloak",
+      "flavor":"\"They say the Crucible is preparation for the frontier. I see it the other way around.\" - Ain Suhu-ässä",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Nightstalker Cloak",
+      "flavor":"Live and die by the draw of a bow.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Nightstalker's Cloak",
+      "flavor":"\"We are the rangers, the keen-eyed scouts who stalk the Darkness where it dwells.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Not A Fallen Hood",
+      "flavor":"Friendly fire is as deadly as any Fallen skiff, so some Hunters choose cloaks for pure visibility.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Octopus Cloak",
+      "flavor":"\"If human extinction seems imminent, try to relax. You're just giving cephalopods a shot.\" - Pahanin Errata",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"On the Marsh",
+      "flavor":"Swamp camouflage is the hottest fashion these days.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Ones and Zeroes",
+      "flavor":"Maybe that's all we really are.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Pennant Cloak",
+      "flavor":"Guardians often band together and form close-knit teams to achieve victory in the Crucible.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Pilgrim's Cloak",
+      "flavor":"How many fell on the road to the City? How few made the last leg of the journey with a Ghost over their shoulders?",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Pleiades Hood",
+      "flavor":"The enemy sees beyond visual light, so cloth camouflage is difficult. No sense looking drab.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Quantum-Phoenix Blue",
+      "flavor":"A pattern born from waveform flux in the probability kilns of the City.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Queen's Arrow",
+      "flavor":"City artists created this pattern to honor the Queen of the Awoken.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Racer's Scarf",
+      "flavor":"All your rivals will see are your contrails in the distance.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Red Eclipse Cloak",
+      "flavor":"Still we shine.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Rihla Mantle",
+      "flavor":"The City is hungry for tales of your exploits.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Rustworn Cloak",
+      "flavor":"It's been stained and torn by old metal. But whatever it went through, it survived.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Shattered Vault Cloak",
+      "flavor":"The machines are not invincible.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Shroud of Flies",
+      "flavor":"They gather where death steps.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Silent Specter",
+      "flavor":"We linger in the wild, stalking and exploring without a sound.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Solar Flayer Mantle",
+      "flavor":"A mantle of woven Solar energy strings taken from the Psion Flayer Vatch.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Spektar Aspriet Cloak",
+      "flavor":"\"Fly high. Strike hard. Repeat.\" —Ain Suhu-ässä",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Spektar Cloak",
+      "flavor":"More than one color stains the battlefield.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Spektar Heliopause Cloak",
+      "flavor":"If only Darkness lies beyond the heliopause, we have already lost.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Spektar Infinite Cloak",
+      "flavor":"…pulled the subject from the Device he appeared frozen. No vitals, but the body hasn't rotted either. —RECORD 340-CHASM-NULL",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Spektar Kallipolis Cloak",
+      "flavor":"Not the past, not the future. The present is where we should turn our eyes.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Squid Pro Quo",
+      "flavor":"\"Yes, my love for cephalopods is well documented.\" —Pahanin Errata",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Strength of the Pack",
+      "flavor":"A pattern worn by Ana Bray during the fateful battle of the Twilight Gap.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Takanome Ranger's Hood",
+      "flavor":"In the darkest days of the Dark Age, camouflage was our only defense.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"The Ishtar Dilemma",
+      "flavor":"Never did answer Sundaresh's question, now did we?",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Tracker's Wrap",
+      "flavor":"This cut-down cloak marks the bearer as a rising Hunter, newly reborn and eager to roam.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Trailblazer's Hood",
+      "flavor":"You're the first! At least, the first to live to tell about it.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Unbelievably Old Cloak",
+      "flavor":"Look at all that...character.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Vaquero's Cloak",
+      "flavor":"Never did like being in one place for too long.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Venom of Ikaheka",
+      "flavor":"The sigil of the snake, said to represent the fluid lethality of a true Hunter.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Void Flayer Mantle",
+      "flavor":"A mantle of woven Void energy strings taken from the Psion Flayer Numoc.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Warden's Hood",
+      "flavor":"\"I always target Taken Psions first. That way I use one bullet instead of 20.\" —Cayde-6",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Wetwork Cloak",
+      "flavor":"[this passage intentionally redacted]",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Wolfswood Cloak",
+      "flavor":"In our darkest hour, nine Iron Wolves emerged from the ruins.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Wolves' Cloak",
+      "flavor":"\"Run with me, we've new trails to stalk.\"",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Nanomania Cloak",
+      "flavor":"Habitats, equipment, repairs of all kinds—all of these things can be made from one material. ~SIVA.MEM.WB003",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Fast Resolve",
+      "flavor":"\"Don't second-guess yourself.\" —Ain Suhu-ässä",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Novgorod Cloak",
+      "flavor":"\"A Hunter back from a quest? Now that's the best storyteller in the galaxy.\" —Cayde-6",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Eon Tracer Cloak",
+      "flavor":"\"We trace the history of war throughout the ages.\" —Lakshmi-2",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"High Command Cloak",
+      "flavor":"\"The City demands a leader. Now, before it is too late.\" —Executor Hideo",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Endling Cloak",
+      "flavor":"\"I am haunted by the Endling, the last living human.\" —Arach Jalaal",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Idylls of the Iron Lords",
+      "flavor":"\"The tale of the Iron Lords is not over.\" —Lord Saladin Forge",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Iron Saga Cloak",
+      "flavor":"\"The worlds still need the Iron Lords.\" —Lord Saladin",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Lion's Vigil Cloak",
+      "flavor":"\"When we hunt together, we cannot fail.\" —Fractal Scrolls",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"Cloak of Legends",
+      "flavor":"The cloak of a Hunter who's seen and done it all and lived to tell the tale.",
+      "type":"Hunter Cloak"
+   },
+   {  
+      "name":"0A0X Nightmask",
+      "flavor":"Crucible variant. Cut down and regraphed for agility.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Acolyte Rung",
+      "flavor":"\"Mota was so close -- clawing her way out with bones torn from the Acolytes. Her fall -- Omnigul. You honor her.\" - Eris",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"AOS#Cryptid",
+      "flavor":"Crucible variant. Activated polymer will self-shape to grip your favorite knife.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Argus Deimatic",
+      "flavor":"The coil complex on the left gauntlet may experience alarming mass fluctuations.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Aspriet",
+      "flavor":"Crucible variant. Fieldweave grafted for strong, accurate throws.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Astrolord Grips",
+      "flavor":"Accept war as a fundamental process, not a transient condition.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Battuta",
+      "flavor":"Some of the City's best-selling authors are Hunters-turned-travel writers.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Blindsight Sleeves",
+      "flavor":"\"With the sight, I saw the self within the self.\" —Fractal Scrolls",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Bog Wild",
+      "flavor":"Try not to get bogged down with the little things.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Brusilov",
+      "flavor":"One part curiosity, one part obligation, two parts reckless pride.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Carnivore Match",
+      "flavor":"It's all in the execution.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Cold Mantis",
+      "flavor":"\"Your job on the fireteam is to answer the question 'Can we kill that thing?' Make sure the answer is always yes.\"",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Corsair's Revenge",
+      "flavor":"\"During the Hildian Campaign, modified Fallen armor was more common among the Reef troops than the standard issue.\"",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Cryptid",
+      "flavor":"The lovingly crafted Cryptid family includes a kinematically charged joint massager - on every finger!",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Darkhollow Grasps",
+      "flavor":"\"All the vastness of our universe is but a blank page on which they scrawl their words of hate and death.\" —Eris Morn",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Dead Light Grips",
+      "flavor":"\"At least we'll know we tried.\" —Arach Henri",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Desolate Grips",
+      "flavor":"More than shadows, but less than starstuff.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Dogged Gage",
+      "flavor":"One doesn't need sleeves to keep knives inside them.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Don't Touch Me",
+      "flavor":"Amputated from a creature that stumbled out of a Vex gate. A vestigial defensive reflex still remains.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Dustwalker",
+      "flavor":"Shiftwire can induce nerve activity. It makes mere skin feel like dead plastic.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Elector's Grips",
+      "flavor":"True power comes from the hands of the people.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Exodus Grips",
+      "flavor":"We must make our own safety without the City.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Fear Eater",
+      "flavor":"Stay at the top of the food chain.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Forester",
+      "flavor":"The wilderness reclaimed Earth after the Collapse. Now Hunters reclaim the wilderness.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Ghost Angel",
+      "flavor":"As we climbed the tern cliffs he moved their nests aside, real gently. At the top he strangled the Fallen sentry. Same hands.\"",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Gravebreaker",
+      "flavor":"Careful around the upholstery.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Grips of No Tomorrow",
+      "flavor":"Accept war as a fundamental process, not a transient condition.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"H_LD Starwinder",
+      "flavor":"The trigger action is the central action, and so it must feel euphoric.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Harrowed Darkhollow Grasps",
+      "flavor":"\"All the vastness of our universe is but a blank page on which they scrawl their words of hate and death.\" —Eris Morn",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Heliopause Grips",
+      "flavor":"\"We are not fatalists. We're optimists. We believe life exists beyond this dead orbit.\" —Arach Linde",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Immanent War Grips",
+      "flavor":"Tomorrow will not be easily tamed.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Infinite Lines Grips",
+      "flavor":"\"I saw three queens. No, two. No...just one.\" —RECORD 351-CHASM-6915",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Iron Breed Sleeves",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Iron Camelot Grips",
+      "flavor":"Forged in remembrance of Perun, she who hunted the Darkness where it dwelt.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Iron Companion Sleeves",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Iron Regalia Sleeves",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Jackknife",
+      "flavor":"Micro-collectors absorb ambient moisture.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Justicar's Grips",
+      "flavor":"A finger can be broken. A fist cannot.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"KALI-GNT Scout Rig",
+      "flavor":"I am a KALI-GNT AGGRESSIVE HANDSHAKE. Pleased to meet you.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Kallipolis Grips",
+      "flavor":"We cannot win the war beyond our walls without first winning the people within them.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Kellhunter's Rally",
+      "flavor":"The Kell's first command is a word. If the word goes unheeded, the Kell's second command is the blade.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Khepri's Sting",
+      "flavor":"The wound is not deep, but you know it exists—and that is enough.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Komarov",
+      "flavor":"The gauntlets include extensible microtools for fine work on spacecraft systems.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Long Tomorrow 9G",
+      "flavor":"\"All the way to Venus I tracked her. But in the jungles of the Ishtar Sink the trail vanished.\"",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Mangala Skin",
+      "flavor":"Mars is far, far out. Light crawls across the gap from the City. Hunters respect that isolation.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Neuroghast",
+      "flavor":"Though compatible with organic humanoids, Neuroghast armor was optimized for prosthetic or Exo limbs.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Order's Grip",
+      "flavor":"A finger can be broken. A fist cannot.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Prime Zealot Gloves",
+      "flavor":"Forged from the remnants of broken Vex. Some of the component matter is older than the solar system.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Prototype",
+      "flavor":"Your Ghost built this wire armor from available mass. It handles life support, but little else.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Queen's Guard Grips",
+      "flavor":"The hand of the throne.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Raku Vindicator",
+      "flavor":"Leather flash conceals an exquisite self-aligning coil pattern.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Rogue",
+      "flavor":"A pauldron-mounted transceiver helps Hunters and their Ghosts stay in touch with their ships.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Rustburner",
+      "flavor":"The gauntlets include a dedicated proprioceptor net for knife work.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Sanction Custom",
+      "flavor":"In combat, every motion must be mindless and perfect.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Sanction Six",
+      "flavor":"Some Hunters boast of things they find. We boast of places we fly.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Sealed Ahamkara's Grasps",
+      "flavor":"Plating the Ahamkara bones in silver helps to quiet the auditory hallucinations...oh bearer mine.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Shinobu's Vow",
+      "flavor":"\"No supplies. Armor in tatters. But the refugees had asked for help. And she had given her word.\" —Tale of the Six Coyotes",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Sinaa Jaguar",
+      "flavor":"The wire in these gloves has been tweaked to grow warm when your knife pierces enemy hide.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Sinaa Lamprey",
+      "flavor":"Slippery as an eel.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Sleeves of the Iron Lords",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Sleeves of the Pariah",
+      "flavor":"\"They cast him out. But his words never left.\" —Fractal Scrolls",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Snakeline",
+      "flavor":"\"The black gloves are tough, menacing and—I swear—make you unbeatable at Go.\" —Pahanin Errata",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Sojourn Grips",
+      "flavor":"We must make our own safety without the City.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Spektar (All Types)",
+      "flavor":"Armor infused with Chroma multi-channel heat sinks.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Stratus",
+      "flavor":"A Hunter's armor must be nimble, tough, and wearable - because it will be their only home.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Takanome Ranger",
+      "flavor":"\"In the Dark Age, before the safety of the City, before the rise of the Tower, there were only the Rangers.\" —Chiyoko Mey",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Tracker",
+      "flavor":"Wire armor is light and flexible, perfect for silent motion and cramped conditions.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Vaquero",
+      "flavor":"Howdy.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Vermilion Stripe",
+      "flavor":"The vermilion stripe is a Hunter mark of mourning.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Warden's Rally",
+      "flavor":"\"That Prison holds nothing that does not want to be there. Knowing that, ask yourself, 'Why do the Taken stay?'\" —Eris Morn",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Watchers' Grips",
+      "flavor":"\"The watcher does not just observe. The watcher defines the observed.\" —Parables of the Allspring",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Winged Sun Sleeves",
+      "flavor":"\"Those who fly beneath the Sun do not come back unscathed.\" —Parables of the Allspring",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Wolf Pelt Weave",
+      "flavor":"\"In the Reef, you use what you can find, even if all you can find is Fallen.\"",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Young Ahamkara's Spine",
+      "flavor":"Give me your arm, oh bearer mine. Let me help you fill the world with teeth.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Raku Poltergeist 2.0",
+      "flavor":"Crucible variant. Interlaced with Jormungand coil favored by Warlocks.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"KD Bogatyr 2.0",
+      "flavor":"\"Just come back with a good story, y'hear?\" —Cayde-6",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"High Command Grips",
+      "flavor":"Your deeds speak for themselves.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Eon Tracer Gloves",
+      "flavor":"\"I can never find the beginning, the place where the path forks.\" —RECORD 448-CHASM-6808",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Endling Grasps",
+      "flavor":"We cannot let the lineage end with us.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Nanomania Grasps",
+      "flavor":"Let's get right to it. How can Clovis Bray help the Exodus project? ~SIVA.MEM.CL001",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Mongrel Ogre's Grasps",
+      "flavor":"\"Enemy of my enemy, I guess. Still, never thought we'd find ourselves here.\" —Shiro-4",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Lion's Vigil Grips",
+      "flavor":"\"Step forward, if you think you can challenge me.\" —Fractal Scrolls",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Iron Saga Grips",
+      "flavor":"Thus armed were the Iron Lords of old, in the days after the Collapse.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Dream-Eater Grasps",
+      "flavor":"Hunters suffer insomnia at far higher rates than other Guardians—even Exos.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Days of Iron Grips",
+      "flavor":"\"When the tainted grail o'erflowed again, who answered?\" —The New-Forged Song",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Shinobu's Vow",
+      "flavor":"\"No supplies. Armor in tatters. But the refugees had asked for help. And she had given her word.\" —Tale of the Six Coyotes",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"Grasps of Triumph",
+      "flavor":"The glory you've fought for rests in your hands.",
+      "type":"Hunter Gauntlets"
+   },
+   {  
+      "name":"0A0X Nightmask",
+      "flavor":"Crucible variant. Fieldwire density and peak rise exceeds safe long-term standards.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Achlyophage Symbiote",
+      "flavor":"\"They told me it would eat my thoughts and leave me full of Light.\"",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"AOS#Cryptid",
+      "flavor":"Crucible variant. Rebreather comes with optional vaporized adrenaline.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Argus Deimatic",
+      "flavor":"Patterned by a grizzled Hunter and a Praxic Warlock, this remarkable armor records everything for later analysis.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Aspriet",
+      "flavor":"Crucible variant. The nanowire mesh shields the oxygen filters from unwanted particulates.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Astrolord Cover",
+      "flavor":"The fiercest contest lies ahead. This is irrefutable.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"ATS/8 ARACHNID",
+      "flavor":"Advanced tactical sensorium. Induced hallucinations integrate broad-spectrum targeting data.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Battuta",
+      "flavor":"The first Hunters were also the first mapmakers. Every Guardian owes them a debt.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Bog Wild",
+      "flavor":"Learn the swamp's secrets. Keep the swamp's secrets. Lie awake at night, horrified by the swamp's secrets.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Bright Shield",
+      "flavor":"Protection from the slings and arrows of life, but not much else.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Brusilov",
+      "flavor":"Every Hunter leaves the City knowing it could be for the last time.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Burning Eye Mask",
+      "flavor":"\"There are eyes beyond our eyes. Lamps of nothingness, voids of brightness.\" —Parables of the Allspring",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Carnivore Match",
+      "flavor":"Rawr.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Celestial Nighthawk",
+      "flavor":"Starlight is your guide. No vacuum will contain you.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Circuit Defender",
+      "flavor":"A clever Guardian knows which gates to pass through and which ones to pass by.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Cold Mantis",
+      "flavor":"\"Don't let your pride kill you. When you see a thorny target, call for a team. Consider them an audience, if that helps.\"",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Corsair's Revenge",
+      "flavor":"Possession of Fallen armor has become a point of pride among the Reef Corsairs.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Cover of No Tomorrows",
+      "flavor":"The fiercest contest lies ahead. This is irrefutable.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Cover of the Exile",
+      "flavor":"\"Don't you find it strange that the one called The Speaker rarely has anything useful to say?\" —Sayings of the Disciples",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Cryptid",
+      "flavor":"Seek out other Guardians when the howling loneliness grows too deep. Pretend it's a chance meeting, though.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Cultist's Cover",
+      "flavor":"The fiercest contest lies ahead. This is irrefutable.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Darkhollow Mask",
+      "flavor":"\"The Dreadnaught is a blighted hollow gouged into our Universe.\" —Eris Morn",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Dead Light Cover",
+      "flavor":"\"Listen. Some stars won't stop calling to us.\" —Arach Linde",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Desolate Cover",
+      "flavor":"A smell of ozone. A distant scream. A feeling of dread.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Dustwalker",
+      "flavor":"Titan and a Hunter crash on Mars. Titan's helmet stops a Cabal slug. Hunter's helmet stops her from starving. Who lives?",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Elector's Mask",
+      "flavor":"Hide your face, but let your voice be heard.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Exodus Cover",
+      "flavor":"Travel the wilderness and master it. This is our salvation.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Fear Eater",
+      "flavor":"When I wear the mask I am a machine, the purpose of which is consumption.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Forester",
+      "flavor":"Shielded optics and an armored rebreather for long-duration sorties into the wild.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Ghost Angel",
+      "flavor":"\"Shake it off. We've all been dead before.\"",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Gravebreaker",
+      "flavor":"Custom sensorium. Superb respirator. Terrifying visage.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Graviton Forfeit",
+      "flavor":"\"Doesn't matter how good you are—you stay out there too long, you're not coming back. Not the same way you left, anyway.\" —Tevis",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"H_LD Starwinder",
+      "flavor":"This helmet will keep you happy. Why shouldn't you be happy?",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Harrowed Darkhollow Mask",
+      "flavor":"\"The Dreadnaught is a blighted hollow gouged into our Universe.\" —Eris Morn",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Heliopause Mask",
+      "flavor":"If only Darkness lies beyond the heliopause, we have already lost.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Helm of the Jade Rabbit",
+      "flavor":"Ancient technology repurposed for the modern Guardian.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Hood of Malok",
+      "flavor":"It's like they say: Pride goeth before the fall.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Infinite Lines Mask",
+      "flavor":"\"I saw Darkness. No Light, no Earth, no air. Only Darkness. I...I can't breathe...\" —RECORD 342-CHASM-6827",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Iron Breed Mask",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Iron Camelot Casque",
+      "flavor":"Forged in remembrance of Efrideet, she whose keen eye never missed her mark.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Iron Companion Mask",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Iron Regalia Mask",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Jackknife",
+      "flavor":"\"I inhaled eight times lethal dose. Tasted like a spring picnic. Good respirator.\"",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Justicar's Mask",
+      "flavor":"Enough talk. The time has come for action.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"KALI-GNT Scout Rig",
+      "flavor":"I am a KALI-GNT SKULL MOUNT. Let us find prey.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Kallipolis Mask",
+      "flavor":"Not the past, not the future. The present is where we should turn our eyes.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Kellhunter's Sight",
+      "flavor":"A Kell's authority is like that of a sniper. You can't see everything, but as long as they believe you can…\"",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Knucklehead Radar",
+      "flavor":"You can see the point, right? Who wants to team up with one?",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Komarov",
+      "flavor":"Never lose your bearings. A disoriented Hunter cannot select vital targets or track lines of flight.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Long Tomorrow 9G",
+      "flavor":"\"Some of 'em survived. I know a fellow says he saw a wish dragon on Jupiter a ways back.\"",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Mangala Skin",
+      "flavor":"Success depends on meticulous preparation. Scour-proof your visors and rig backup sensors, or risk fighting blind.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Mantic Zealot Helm",
+      "flavor":"Forged from the cores of Hezen Vex. If you feel a sense of revelation, remove immediately and inject antientheogens.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Mask of Immanent War",
+      "flavor":"Every horizon hides a war as old as time.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Mask of the Iron Lords",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Mask of the Pariah",
+      "flavor":"The sun must set before it will rise again.\" —Parables of the Allspring",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Mask of the Third Man",
+      "flavor":"It wasn't me. It was the Third Man.\"",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Momentum Helmet",
+      "flavor":"Victory is in sight.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Neuroghast",
+      "flavor":"Embedded neural nodes improve the biological connections between mind and body.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Oblivion Cover",
+      "flavor":"Travel the wilderness and master it. This is our salvation.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Order's Mask",
+      "flavor":"Enough talk. The time has come for action.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Prime Zealot Helm",
+      "flavor":"Forged from the cores of Hezen Vex. If you feel a sense of revelation, remove immediately and inject antientheogens.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Prototype",
+      "flavor":"Your Ghost built this wire armor from available mass. It handles life support, but little else.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Queen's Guard Mask",
+      "flavor":"Show me all that I have yet to rule.\"",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Racing Helmet",
+      "flavor":"Crash resistant and fashion forward.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Raku Vindicator",
+      "flavor":"Four-quadrant battlefield dominance.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Rogue",
+      "flavor":"Do Hunters abide by the law of the City? Better to ask: in the wilderness, is there law beyond the Hunter?",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Rustburner",
+      "flavor":"Hunters who stalk the trackless wastes of Mars need armor designed to handle the scouring sand and cold.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Sanction Custom",
+      "flavor":"Nerve telemetry goes to a GNT study group working to understand the neural correlates of triumph.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Sanction Six",
+      "flavor":"Twilight Gap changed things.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Sinaa Jaguar",
+      "flavor":"Sensory interfaces are a stock component of Hunter gear, but they are rarely tuned so raw.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Sinaa Lamprey",
+      "flavor":"Fast-cycling oxygen filters keep the air crisp and fresh.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Skyburners Annex",
+      "flavor":"\"To die twice in a strange land: first by Oryx's hand, then by yours.\"",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Snakeline",
+      "flavor":"All Guardians channel Light. But Hunters insist they bring a certain flair to it.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Sojourn Cover",
+      "flavor":"Travel the wilderness and master it. This is our salvation.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Spektar (All Types)",
+      "flavor":"Armor infused with Chroma multi-channel heat sinks.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Stratus",
+      "flavor":"Descended from an aerospace design, the optics and sensorium provide excellent awareness.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Stratus White",
+      "flavor":"Some generous Hunter donated this helmet for the use of newly reborn Hunters.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Takanome Ranger",
+      "flavor":"Eventually the Guardians took over for the Rangers. Now some say Ayane Takanome was a myth all along.\" —Chiyoko Mey",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"The Waiting Crown",
+      "flavor":"Enough talk. The time has come for action.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Tracker",
+      "flavor":"This basic helmet offers a closed rebreather and a decent internal sensorium.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Unyielding Casque",
+      "flavor":"The weak will be consumed.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Vaquero",
+      "flavor":"Just my rifle, my Sparrow, and me.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Vermilion Stripe",
+      "flavor":"A single mark painted upon the forehead in remembrance of a lost comrade.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Warden's Sight",
+      "flavor":"\"Watch your enemies, Guardian. Study. Judge. Learn.\" —Variks",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Wolf Pelt Weave",
+      "flavor":"\"Took some work to get their helmets pumping oxygen. Never did get the Fallen stench out, though.\"",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Lion's Vigil Mask",
+      "flavor":"\"We watch, and we wait. And we train.\" —Fractal Scrolls",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Iron Saga Mask",
+      "flavor":"Thus armed were the Iron Lords of old, in the days after the Collapse.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Days of Iron Crown",
+      "flavor":"\"When the Last of Lords unfurled the Banner once again, who took up arms to march beneath it?\" —The New-Forged Song",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Raku Poltergeist 2.0",
+      "flavor":"Crucible variant. Now less likely to decouple neural connections.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"KD Bogatyr 2.0",
+      "flavor":"\"I need you to take this seriously, y'hear? Cause then I don't have to.\" —Cayde-6",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"High Command Mask",
+      "flavor":"This is the face of justice.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Eon Tracer Mask",
+      "flavor":"\"It's too much… Turn it off… Let me out!\" —RECORD-449-CHASM-6263",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Endling Mask",
+      "flavor":"We will only be extinct when the last of us is gone.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Nanomania Mask",
+      "flavor":"SIVA doesn't expire, degrade, or forget. It can remain dormant even on long voyages. ~SIVA.MEM.WB004",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Dream-Eater Mask",
+      "flavor":"\"Of what do Hunters dream? The places they've never been.\"",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"Mask of Triumph",
+      "flavor":"You've seen every planet and stared into the Darkness. And you live.",
+      "type":"Hunter Helmet"
+   },
+   {  
+      "name":"0A0X Nightmask",
+      "flavor":"Humanity has been caged. We will break the bars.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"AOS#Cryptid",
+      "flavor":"Crucible variant. The treads know how to grip more than forty thousand terrain types.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Argus Deimatic",
+      "flavor":"The armor-mounted transceiver antennae will happily double as melee weapons.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Aspriet",
+      "flavor":"Crucible variant. Lightweight kinematic supports give wearers the sensation of flying.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Astrolord Boots",
+      "flavor":"When the last war comes, we will be the victors.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Battuta",
+      "flavor":"The first Hunters walked where no human had set foot for hundreds of years.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Blindsight Legs",
+      "flavor":"\"The courage to walk into the Darkness, but strength to return to the Light.\" —Parables of the Allspring",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Bog Wild",
+      "flavor":"Feel the swamp. Smell the swamp. Be the swamp.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Bones of Eao",
+      "flavor":"Defy extinction.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Boots of No Tomorrow",
+      "flavor":"When the last war comes, we will be the victors.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Boots of the Exile",
+      "flavor":"\"Many followed him when he left—if not with their feet, then with their hearts.\" —Fractal Scrolls",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Boots of the Iron Lords",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Brusilov",
+      "flavor":"We will find the way.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Carnivore Match",
+      "flavor":"The Lotka-Volterra equations describe the relationship between the world and you.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Cold Mantis",
+      "flavor":"Scarce materials and labor make it impossible to produce high-end armor in bulk.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Corsair's Revenge",
+      "flavor":"\"Wearing Fallen armor reminds me of the Fallen I killed to get it. Good times.\"",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Cryptid",
+      "flavor":"Autonomy is a Hunter's watchword. Far from the City, you must be swift, bold, and decisive.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Darkhollow Treads",
+      "flavor":"\"Even now, the Daughters of Oryx weave black words of blight to bind his realm to ours.\" —Eris Morn",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Dead Light Boots",
+      "flavor":"\"When all is shadow, know your journey has begun.\" —Arach Parnell",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Desolate Legs",
+      "flavor":"Transformation is not always revelation.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Dustwalker",
+      "flavor":"Martian dust storms erupt across the entire planet. For a Hunter, they're an opportunity to move in stealth.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Elector's Boots",
+      "flavor":"Our footfalls forge the path to a new age.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Exodus Boots",
+      "flavor":"It will be cold and harrowing and we will not all survive. But it must be done.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Fear Eater",
+      "flavor":"No one's impervious to psychological warfare. Even the Vex develop reactions to certain foes.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Forester",
+      "flavor":"Sparrows burn. Ships crash. The wise Hunter knows machines will fail, and makes ready to walk.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Fr0st-EE5",
+      "flavor":"\"Hey, if it works for computers...\" —Marcus Ren ",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Ghost Angel",
+      "flavor":"\"We tracked the Fallen across the library floor, through drifts of paper and ash. The silence was magnificent.\"",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Gravebreaker",
+      "flavor":"In and out of the jaws of death.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"H_LD Starwinder",
+      "flavor":"Take joy in motion.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Harrowed Darkhollow Treads",
+      "flavor":"\"Even now, the Daughters of Oryx weave black words of blight to bind his realm to ours.\" —Eris Morn",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Heliopause Boots",
+      "flavor":"We'll walk if we have to.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Immanent War Boots",
+      "flavor":"Tear through chaos. Leave it in ash.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Infinite Lines Boots",
+      "flavor":"Every time I look, the Darkness just grows larger.\" —RECORD 345-CHASM-6736",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Iron Breed Boots",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Iron Companion Boots",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Iron Regalia Boots",
+      "flavor":"Ornate armor forged by the Lords of Iron beneath the Iron Banner.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Jackknife",
+      "flavor":"The programmable soles mimic the tracks of local wildlife.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Justicar's Boots",
+      "flavor":"Our choice is simple: find our strength, or face extinction.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"KALI-GNT Scout Rig",
+      "flavor":"I am a KALI-GNT CHARRINGTON TACTICAL TREAD. What's on your mind?",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Kallipolis Boots",
+      "flavor":"A City is only as strong as its leader.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Kellhunter's Path",
+      "flavor":"A strong Kell's power is like the wind: swift, howling and everywhere at once.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Komarov",
+      "flavor":"Traditionally inscribed with a list: Komarov, Grissom, White, Chaffee and more. Souls lost to a higher purpose.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Long Tomorrow 9G",
+      "flavor":"\"He said he was determined to make it to Alpha Centauri. That was the last we ever saw him.\"",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Mangala Skin",
+      "flavor":"The Martian surface offers no solace to the lost. Guardians must move swiftly and be watchful.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Neuroghast",
+      "flavor":"Unmyelinated fieldweave doesn't actually strengthen your body—just makes it feel invincible.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Order's Boots",
+      "flavor":"Our choice is simple: find our strength, or face extinction.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Prime Zealot Greaves",
+      "flavor":"Skinned in the membranes of the Hezen Vex. There is very little risk they will become permanently attached to your body.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Prototype",
+      "flavor":"Your Ghost built this wire armor from available mass. It handles life support, but little else.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Queen's Guard Boots",
+      "flavor":"Carry yourself lightly, and with pride.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Radiant Dance Machines",
+      "flavor":"Built for swift movement, they provide unexpected and decisive social benefits.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Raku Vindicator",
+      "flavor":"A notable triumph in the ongoing sartorial struggle.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Rogue",
+      "flavor":"Never hurts to carry a spare.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Rustburner",
+      "flavor":"Cabal tactics must be countered by aggressive maneuver and concentration of force. Remain agile.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Sanction Custom",
+      "flavor":"The key to success is destroying the enemy's ability to process and react.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Sanction Six",
+      "flavor":"Aerospace assets are valuable. We'll walk from here.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Sinaa Jaguar",
+      "flavor":"If the enemy flees, run them down. If the enemy strikes back, reposition. Speed is always the answer.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Sinaa Lamprey",
+      "flavor":"Auto-pressurized joints let agile Hunters move at top speeds.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Snakeline",
+      "flavor":"A Hunter's bootprints mark the outer edge of civilization.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Sojourn Boots",
+      "flavor":"It will be cold and harrowing and we will not all survive. But it must be done.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Spektar (All Types)",
+      "flavor":"Armor infused with Chroma multi-channel heat sinks.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Stratus",
+      "flavor":"Whether the weapon is a rifle or a blade, the kill demands positioning. Know your ground.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Takanome Ranger",
+      "flavor":"\"You couldn't get far on one life alone. Not in those days.\" —Chiyoko Mey",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Tireless Striders",
+      "flavor":"If there is no road, then it cannot be long.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Tracker",
+      "flavor":"\"Play with the fit and the sensors until it feels like going barefoot.\" - Handbook of (Un)Controversial Advice",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Treads of the Pariah",
+      "flavor":"\"To know true color, you must first know Darkness.\" —Parables of the Allspring",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Vaquero",
+      "flavor":"Giddyup.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Vermilion Stripe",
+      "flavor":"Sooner or later, every Hunter dons the vermilion stripe.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Warden's Path",
+      "flavor":"\"Yeah, I've been to the treasure room. I think it's about time the Awoken took some of that loot and paid for an elevator.\" —Cayde-6",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Watchers' Boots",
+      "flavor":"\"Light burns. Light heals. Light blinds. Light reveals.\" —Parables of the Allspring",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Winged Sun Legs",
+      "flavor":"\"Feet alone cannot take us to where we're going.\" —Parables of the Allspring",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Wolf Pelt Weave",
+      "flavor":"\"I have ten more sets just like this.\"",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Raku Poltergeist 2.0",
+      "flavor":"Crucible variant. Padded with light and durable diamond foam.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"KD Bogatyr 2.0",
+      "flavor":"\"I'm depending on you, Guardian. Wouldn't want me to get bored, would you?\" —Cayde-6",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"High Command Boots",
+      "flavor":"Rise above the noise. Take the throne.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Eon Tracer Boots",
+      "flavor":"\"I feel like every time I find the thread it slips through my fingers.\" —RECORD-448-CHASM-6565",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Endling Strides",
+      "flavor":"We are endangered, but we can save ourselves.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Nanomania Boots",
+      "flavor":"Nearly any problem a deep-space colonist could have, SIVA can fix. ~SIVA.MEM.WB005",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Lion's Vigil Strides",
+      "flavor":"\"The challenge will come when you least expect it. You must be ready.\" —Fractal Scrolls",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Iron Saga Boots",
+      "flavor":"Thus armed were the Iron Lords of old, in the days after the Collapse.",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Dream-Eater Strides",
+      "flavor":"\"'No rest for the wicked,' they used to say. Now, they say the same about Hunters.\"",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Days of Iron Boots",
+      "flavor":"\"When the Iron Temple's fires were lit again, who came to stand before its hearth?\" —The New-Forged Song",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Fr0st-EE5",
+      "flavor":"\"Hey, if it works for computers…\" —Marcus Ren",
+      "type":"Hunter Leg Armor"
+   },
+   {  
+      "name":"Boots of Triumph",
+      "flavor":"You've blazed your own path into legend.",
+      "type":"Hunter Leg Armor"
+   }
+]
