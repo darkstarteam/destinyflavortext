@@ -87,7 +87,7 @@
         // Grabs all the flavortext and displays it as a list.
         function GrabFlavorText() {
         $("#item_list").html("");
-        $.getJSON('flavortext.json', function(data) { 
+        $.getJSON('https://darkstarteam.github.io/destinyflavortext/data/flavortext.json', function(data) { 
             var container = $('#item_list');
 
             for(var i = 0, k = data.length; i < k; i++){
